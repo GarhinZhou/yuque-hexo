@@ -1700,7 +1700,7 @@
         }
       ],
       "realName": "ret2csu",
-      "relativePath": "\\ret2csu.md",
+      "relativePath": "/ret2csu.md",
       "needUpdate": 1,
       "docPath": "./source/_posts"
     },
@@ -1920,7 +1920,7 @@
         }
       ],
       "realName": "BaseCTF PWN WP",
-      "relativePath": "\\BaseCTF PWN WP.md",
+      "relativePath": "/BaseCTF PWN WP.md",
       "needUpdate": 1,
       "docPath": "./source/_posts"
     },
@@ -1944,7 +1944,7 @@
         }
       ],
       "realName": "NewstarCTF WP",
-      "relativePath": "\\NewstarCTF WP.md",
+      "relativePath": "/NewstarCTF WP.md",
       "needUpdate": 1,
       "docPath": "./source/_posts"
     },
@@ -2302,7 +2302,7 @@
         }
       ],
       "realName": "ARM",
-      "relativePath": "\\ARM.md",
+      "relativePath": "/ARM.md",
       "needUpdate": 1,
       "docPath": "./source/_posts"
     },
