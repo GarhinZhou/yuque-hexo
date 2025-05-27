@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 语雀-Hexo
-subtitle: '语雀 + Elog + Hexo + GitHub Actions + Vercel 博客解决方案'
-description: '语雀 + Elog + Hexo + GitHub Actions + Vercel 博客解决方案'
+title: Garhin's blog
+subtitle: 'Convert To Furry!(CTF)'
+description: 'Transfur之路就在脚下'
 keywords:
-author: 1874
+author: Garhin
 language: zh-CN
 timezone: Asia/Shanghai
 
@@ -96,9 +96,20 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: hexploit
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+#加进来的：
+# feed:
+#   type: rss
+#   path: rss.xml
+
+search:
+  path: search.json
+  field: all
+  format: html
+  limit: 10000
