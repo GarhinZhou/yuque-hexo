@@ -1,7 +1,7 @@
 ---
 title: Tcache Attack
 date: '2025-02-19 13:31:57'
-updated: '2025-05-27 18:46:11'
+updated: '2025-05-28 19:22:55'
 ---
 2.27比2.23多了tcache
 
@@ -54,6 +54,13 @@ while ( tcache->counts[tc_idx] < mp_.tcache_count
 
 > 来自：https://bailan2.github.io/2024/08/20/Pwn-%E5%A0%86%E5%9F%BA%E7%A1%80-tcache%20stashing%20unlink%20attack/#tcache-stashing-unlink-attack
 >
+
+### 小结
+Tcache stashing unlink attack 可以实现将一个 fakechunk 放进 tcachebin 从而实现任意地址申请，并且同时实现将一个 libc 地址填进任意地址，也可以两个单独作用单独使用：
+
+单独要任意地址伪造 chunk：tcachebin 没满，在 smallbin 当中，calloc 申请的 chunk 之外剩下的 chunk 数量小于 tcachebin 的空位而且最后的 chunk 的 bk 可以篡改（其实就是 fakechunk 得有空位进 tcachebin，还有 fakechunk 的 fd 位置得可写）
+
+单独要任意地址写入 libc 地址：tcachebin 中 6 个 chunk（差一个满），然后将 smallbin 最后的 chunk 的bk改为target_addr - 0x10即可（会往target_addr - 0x10 这个 fakechunk 的 fd 写入 libc 地址，也就是向 target_addr 写入 libc 地址）
 
 ### Tcache stash 
 libc-2.29开始，出现了一种叫 stash 的机制，基本原理就是当调用 _int_malloc 时，如果从 smallbin 或者 fastbin 中取出 chunk 之后，对应大小的 tcache 没有满，就会把剩下的 chunk 放入 tcache 中
