@@ -1,7 +1,7 @@
 ---
 title: VMware
 date: '2024-12-11 19:43:46'
-updated: '2025-03-09 00:17:05'
+updated: '2025-05-29 23:57:40'
 ---
 [来自CSDN](https://blog.csdn.net/qq_54218833/article/details/125241618)
 
@@ -101,7 +101,70 @@ IO控制器类型，不用改直接下一步。
 
 自此，我们的ubuntu系统就成功搭建好了，下面进行一些配置使虚拟机能够更加轻松方便地使用。
 
+## MacOS 安装
+### VMware-MacOS 补丁
+github 项目：[https://github.com/DrDonk/unlocker](https://github.com/DrDonk/unlocker)
 
+安装下来之后，在保证 VMware 完全关闭（没有任何服务和后台）的情况下，用管理员权限运行 `unlock.exe`
 
+运行成功之后 VMware 就启动了，这时候新建虚拟机-自定义选好镜像之后里面就可以选择 MacOS 安装了，配置上建议至少 8 核 16G 内存 80G 存储
 
+### 启动之后配置
+先弄好磁盘再安装
+
+![](/images/074a98da226e574fc0112519172d60ec.png)
+
+![](/images/beed39a070dbf7e908a05576fd5337aa.png)
+
+![](/images/892619731146cbbcb0bde4ae0cf9e6bf.png)
+
+![](/images/a8aaacf6ea69161666900be8d55390d8.png)
+
+这里大概会卡上一会：
+
+![](/images/e23570fad2fc210c56c37748149ee99b.png)
+
+接着就进到引导界面了：
+
+![](/images/9d926bdf9242e147b47d3b25ed645f18.png)
+
+![](/images/8df10025309c76313936950c9652ac29.png)
+
+![](/images/4d7dbbce6e22caf586455f2270c65000.png)
+
+![](/images/1802fda63a3aff4d49fc5598ec823756.png)
+
+![](/images/e0cc9aeee542f4042532d9f339a9ad41.png)
+
+### 联网
+先关机，在主机上面打开`VMware DHCP Services`和`VMware NAT Services`，然后开机就有网了
+
+![](/images/69219870bfc86189cca94dc0045561e4.png)
+
+### 安装 VMware Tools
+先弹出安装盘
+
+![](/images/d7424fad047837b82a79f6c56c04db95.png)
+
+在虚拟机联网的前提下在 VMware 的界面点`虚拟机`-`安装 VMwareTools(T)`，然后再在虚拟机里面双击`安装 VMwareTools`
+
+![](/images/ea22922f2560d1c659bcae06a0133344.png)
+
+但是系统会象征性地拦一下：
+
+![](/images/d8d732b41cfb8fa2d70ec39bfb53c217.png)
+
+![](/images/6e0ef5cf352895818484901aa480f8fa.png)
+
+![](/images/3a79cfdef05b94c4efa647ba84bbe5dc.png)
+
+![](/images/8d65f74da45f673038a905d875cdd3b4.png)
+
+![](/images/53be8a68f5e59c8a8361e43d72682196.png)
+
+![](/images/9228cf94c2cc54341718f2ef67a3d3b1.png)
+
+就搞定啦~
+
+![](/images/28195454a5b282294d4279db6d46e239.png)
 
