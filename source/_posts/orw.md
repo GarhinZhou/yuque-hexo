@@ -1,7 +1,7 @@
 ---
 title: orw
 date: '2025-02-24 23:14:42'
-updated: '2025-04-07 21:39:55'
+updated: '2025-06-07 19:17:22'
 ---
 1. <font style="background-color:#FBDE28;">open 函数</font>
 
@@ -148,7 +148,7 @@ shellcode=asm('''
     xor rax,rax
     syscall
               
-    mov rdi,4
+    mov rdi,1
     mov rsi,rsp
     mov rax,1
     syscall

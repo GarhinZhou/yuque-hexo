@@ -1,7 +1,7 @@
 ---
 title: Tcache Attack
 date: '2025-02-19 13:31:57'
-updated: '2025-05-28 19:22:55'
+updated: '2025-06-06 09:29:25'
 ---
 2.27比2.23多了tcache
 
@@ -22,7 +22,7 @@ tcache最大的堆块0x4f0   想要不进tcache，至少要申请0x500 大小的
 
 1. 假设目前tcache bin中已经有五个堆块，并且相应大小的small bin中已经有两个堆块，由bk指针连接为：chunk_A<-chunk_B
 2. 利用漏洞修改chunk_A的bk为fake chunk，并且修改fake chunk的bk为target_addr - 0x10
-3. 通过calloc()越过tcache bin，直接从small bin中取出chunk_B返回给用户，并且会将chunk_A以及其所指向的fake chunk放入tcache bin（这里只会检测chunk_A的fd指针是否指向了chunk_B）
+3. 通过`calloc()`越过tcache bin，直接从small bin中取出chunk_B返回给用户，并且会将chunk_A以及其所指向的fake chunk放入tcache bin（这里只会检测chunk_A的fd指针是否指向了chunk_B）
 
 ```python
 while ( tcache->counts[tc_idx] < mp_.tcache_count
@@ -61,6 +61,9 @@ Tcache stashing unlink attack 可以实现将一个 fakechunk 放进 tcachebin �
 单独要任意地址伪造 chunk：tcachebin 没满，在 smallbin 当中，calloc 申请的 chunk 之外剩下的 chunk 数量小于 tcachebin 的空位而且最后的 chunk 的 bk 可以篡改（其实就是 fakechunk 得有空位进 tcachebin，还有 fakechunk 的 fd 位置得可写）
 
 单独要任意地址写入 libc 地址：tcachebin 中 6 个 chunk（差一个满），然后将 smallbin 最后的 chunk 的bk改为target_addr - 0x10即可（会往target_addr - 0x10 这个 fakechunk 的 fd 写入 libc 地址，也就是向 target_addr 写入 libc 地址）
+
+> 补充一点：calloc申请出来的内存是会初始化为空的，而malloc不会
+>
 
 ### Tcache stash 
 libc-2.29开始，出现了一种叫 stash 的机制，基本原理就是当调用 _int_malloc 时，如果从 smallbin 或者 fastbin 中取出 chunk 之后，对应大小的 tcache 没有满，就会把剩下的 chunk 放入 tcache 中
