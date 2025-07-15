@@ -1,7 +1,7 @@
 ---
 title: House of Apple2
 date: '2025-05-13 22:05:30'
-updated: '2025-06-06 08:32:02'
+updated: '2025-06-08 15:33:49'
 ---
 [来自 roderick 师傅的博客](https://www.roderickchan.cn/zh-cn/house-of-apple-%E4%B8%80%E7%A7%8D%E6%96%B0%E7%9A%84glibc%E4%B8%ADio%E6%94%BB%E5%87%BB%E6%96%B9%E6%B3%95-2/)
 
