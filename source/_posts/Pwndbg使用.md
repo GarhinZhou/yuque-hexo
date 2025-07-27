@@ -1,7 +1,7 @@
 ---
 title: Pwndbg使用
 date: '2024-12-09 23:32:34'
-updated: '2025-05-10 13:19:44'
+updated: '2025-07-27 23:33:21'
 ---
 [来自博客](https://www.cnblogs.com/murkuo/p/15965270.html)
 
@@ -233,12 +233,25 @@ tracemalloc //好用，会跟提示所有操作堆的地方
 gdb.attach(link,"set solib-search-path /rpath") #其实就是patchelf里面用到的rpath
 ```
 
+## 多线程调试指令
+### 查看线程列表
+```c
+info thread
+```
+
+### 切换线程
+```c
+thread 线程序号
+```
+
+
+
 ## 其他pwndbg插件独有指令
 cyclic 50 //生成50个用来溢出的字符，如：aaaabaaacaaadaaaeaaafaaagaaahaaaiaaajaaakaaalaaama
 
-$reabse //开启PIE的情况的地址偏移
+$rebase //开启PIE的情况的地址偏移
 
-b *$reabse(0x123456) //断住PIE状态下的二进制文件中0x123456的地方
+b *$rebase(0x123456) //断住PIE状态下的二进制文件中0x123456的地方
 
 codebase //打印PIE偏移，与rebase不同，这是打印，rebase是使用
 

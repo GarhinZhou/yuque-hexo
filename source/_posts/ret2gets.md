@@ -1,7 +1,7 @@
 ---
 title: ret2gets
 date: '2025-06-15 09:53:36'
-updated: '2025-07-11 23:49:59'
+updated: '2025-07-23 12:30:59'
 ---
 [来自 CSDN](https://blog.csdn.net/2502_91269216/article/details/148261096)
 
@@ -289,6 +289,12 @@ b'BBBB'
 
 结束后的`unlock`宏又会让`cnt`减一，最低一字节就变成了`\xff`，绕过了`puts`的截断
 
+
+
+像 gets 这种返回的时候 rdi 放锁的函数有别的吗？有的，兄弟有的（）
+
+这种情况常见于其他 IO 函数，大多数 IO 函数都遵循那种加锁模式，包括 `puts` 
+
 ### 在返回时 `rdi != _IO_stdfile_0_lock`的情况
 例如：
 
@@ -303,9 +309,71 @@ int main() {
 }
 ```
 
-像 gets 这种返回的时候 rdi 放锁的函数有别的吗？有的，兄弟有的（）
+#### `rdi` 是可写的
+即使它不是 `_IO_stdfile_0_lock` ，任何可写的 rdi 都可以用于 `gets` 调用，这样就会将 `_IO_stdfile_0_lock` 重新放回 rdi 
 
-这种情况常见于其他 IO 函数，大多数 IO 函数都遵循那种加锁模式
+#### `rdi` 是可读的
+可以调用 `puts`，这个时候从 `rdi` 返回的锁也就可以用 `gets` 输入
+
+#### `rdi`为 null 空
+大多数情况下没办法在 IO 函数中使用。但 `printf` 不仅仅是一个 IO 函数，它的构建方式不同
+
+注意： `scanf` 在这方面与 `printf` 表现出相同的行为
+
+printf 的定义：
+
+```c
+int
+__printf (const char *format, ...)
+{
+    va_list arg;
+    int done;
+
+    va_start (arg, format);
+    done = __vfprintf_internal (stdout, format, arg, 0);
+    va_end (arg);
+
+    return done;
+}
+```
+
+它调用 `__vfprintf_internal` ，第一个参数（即 rdi ）是 `stdout` 
+
+然后在`__vfprintf_internal` 中我们看到它在早期调用了 `ARGCHECK`
+
+```c
+int
+vfprintf (FILE *s, const CHAR_T *format, va_list ap, unsigned int mode_flags)
+{
+  ...
+
+  /* Sanity check of arguments.  */
+  ARGCHECK (s, format);
+```
+
+```c
+#define ARGCHECK(S, Format) \
+  do									      \
+    {									      \
+      /* Check file argument for consistence.  */			      \
+      CHECK_FILE (S, -1);						      \
+      if (S->_flags & _IO_NO_WRITES)					      \
+	{								      \
+	  S->_flags |= _IO_ERR_SEEN;					      \
+	  __set_errno (EBADF);						      \
+	  return -1;							      \
+	}								      \
+      if (Format == NULL)						      \
+	{								      \
+	  __set_errno (EINVAL);						      \
+	  return -1;							      \
+	}								      \
+    } while (0)
+```
+
+所有这一切的主要结论是 `ARGCHECK` 会迫使 `printf` 在 format == NULL 的情况下提前返回，这意味着它不会 `SEGFAULT` 。并且由于 `__vfprintf_internal` 是以 `stdout` 作为第一个参数被调用的，它被保留直到返回
+
+
 
 ## LitCTF 2025 master_of_rop
 这题本地先 patch 了 2.35 版本的 libc，刚开始没仔细看版本，把 2.35 跟 2.37 往后的弄混了，还疑惑说为啥要两次 gets，原来网上搜到的居然是把 libc patch 成 2.37 往上的版本了...（题目 WP 本来是 2.37 之前的版本...）
