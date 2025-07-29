@@ -208,11 +208,11 @@
     {
       "id": 203765021,
       "doc_id": "uzbigri0uw460uri",
-      "updated": 1749297552000,
+      "updated": 1753772997000,
       "properties": {
-        "title": "Seccomp Sandbox",
+        "title": "Seccomp",
         "date": "2025-01-24 19:03:24",
-        "updated": "2025-06-07 19:59:12"
+        "updated": "2025-07-29 15:09:57"
       },
       "catalog": [
         {
@@ -228,8 +228,8 @@
           "doc_id": "uzbigri0uw460uri"
         }
       ],
-      "realName": "Seccomp Sandbox",
-      "relativePath": "/Seccomp Sandbox.md",
+      "realName": "Seccomp",
+      "relativePath": "/Seccomp.md",
       "docPath": "./source/_posts"
     },
     {
@@ -2801,11 +2801,11 @@
     {
       "id": 229614669,
       "doc_id": "zkmerh1l5ttgyz2e",
-      "updated": 1753632242000,
+      "updated": 1753777113000,
       "properties": {
         "title": "ptrace及调试",
         "date": "2025-07-26 00:32:04",
-        "updated": "2025-07-28 00:04:02"
+        "updated": "2025-07-29 16:18:33"
       },
       "catalog": [
         {
@@ -2828,11 +2828,11 @@
     {
       "id": 229601243,
       "doc_id": "scor8m97yciy7g7o",
-      "updated": 1753496850000,
+      "updated": 1753771597000,
       "properties": {
         "title": "条件竞争",
         "date": "2025-07-25 20:45:49",
-        "updated": "2025-07-26 10:27:30"
+        "updated": "2025-07-29 14:46:37"
       },
       "catalog": [
         {
@@ -2953,6 +2953,33 @@
       ],
       "realName": "应用",
       "relativePath": "/应用.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 230071791,
+      "doc_id": "ug7r9eks8qh40czg",
+      "updated": 1753783185000,
+      "properties": {
+        "title": "沙盒绕过",
+        "date": "2025-07-29 15:27:36",
+        "updated": "2025-07-29 17:59:45"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "ug7r9eks8qh40czg"
+        },
+        {
+          "title": "PWN",
+          "doc_id": "ug7r9eks8qh40czg"
+        },
+        {
+          "title": "系统调用",
+          "doc_id": "ug7r9eks8qh40czg"
+        }
+      ],
+      "realName": "沙盒绕过",
+      "relativePath": "/沙盒绕过.md",
       "docPath": "./source/_posts"
     }
   ],
@@ -3729,7 +3756,7 @@
       "url": "",
       "prev_uuid": "58797474:7mpdDfY_vUjyNGRq",
       "sibling_uuid": "58797474:XunJHmTu_B4na4tR",
-      "child_uuid": "60oQfxLZ3C-OMYWY",
+      "child_uuid": "1kvm208sEj8kHO7Q",
       "parent_uuid": "58797474:4wNUGzQFItoDabFM",
       "doc_id": "",
       "level": 1,
@@ -3738,26 +3765,11 @@
       "visible": 1
     },
     {
-      "type": "DOC",
-      "title": "条件竞争",
-      "uuid": "60oQfxLZ3C-OMYWY",
-      "url": "scor8m97yciy7g7o",
-      "prev_uuid": "58797474:vx4wZgGpdWjqE7Yu",
-      "sibling_uuid": "1kvm208sEj8kHO7Q",
-      "child_uuid": "",
-      "parent_uuid": "58797474:vx4wZgGpdWjqE7Yu",
-      "doc_id": 229601243,
-      "level": 2,
-      "id": 229601243,
-      "open_window": 1,
-      "visible": 1
-    },
-    {
       "type": "TITLE",
       "title": "工具相关",
       "uuid": "1kvm208sEj8kHO7Q",
       "url": "",
-      "prev_uuid": "60oQfxLZ3C-OMYWY",
+      "prev_uuid": "58797474:vx4wZgGpdWjqE7Yu",
       "sibling_uuid": "UvIXabu7G_IqgrBV",
       "child_uuid": "58797474:kye9BNfs2iCM1MLd",
       "parent_uuid": "58797474:vx4wZgGpdWjqE7Yu",
@@ -4089,7 +4101,7 @@
       "url": "nqem1iitkav40yq9",
       "prev_uuid": "58797474:JeqUzep5LXRFq_RF",
       "sibling_uuid": "58797474:2Sw31ZxaR8UX4GoV",
-      "child_uuid": "7dMp1nQpxyvWWWrQ",
+      "child_uuid": "58797474:u28Cd6SbE46KTLS9",
       "parent_uuid": "58797474:vx4wZgGpdWjqE7Yu",
       "doc_id": 200373444,
       "level": 2,
@@ -4099,11 +4111,26 @@
     },
     {
       "type": "DOC",
+      "title": "Seccomp",
+      "uuid": "58797474:u28Cd6SbE46KTLS9",
+      "url": "uzbigri0uw460uri",
+      "prev_uuid": "58797474:uK_T1Xepl-D9zfbo",
+      "sibling_uuid": "7dMp1nQpxyvWWWrQ",
+      "child_uuid": "",
+      "parent_uuid": "58797474:uK_T1Xepl-D9zfbo",
+      "doc_id": 203765021,
+      "level": 3,
+      "id": 203765021,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
       "title": "ptrace及调试",
       "uuid": "7dMp1nQpxyvWWWrQ",
       "url": "zkmerh1l5ttgyz2e",
-      "prev_uuid": "58797474:uK_T1Xepl-D9zfbo",
-      "sibling_uuid": "58797474:u28Cd6SbE46KTLS9",
+      "prev_uuid": "58797474:u28Cd6SbE46KTLS9",
+      "sibling_uuid": "NaInt3pTkVOBhjBO",
       "child_uuid": "",
       "parent_uuid": "58797474:uK_T1Xepl-D9zfbo",
       "doc_id": 229614669,
@@ -4114,16 +4141,16 @@
     },
     {
       "type": "DOC",
-      "title": "Seccomp Sandbox",
-      "uuid": "58797474:u28Cd6SbE46KTLS9",
-      "url": "uzbigri0uw460uri",
+      "title": "沙盒绕过",
+      "uuid": "NaInt3pTkVOBhjBO",
+      "url": "ug7r9eks8qh40czg",
       "prev_uuid": "7dMp1nQpxyvWWWrQ",
       "sibling_uuid": "",
       "child_uuid": "",
       "parent_uuid": "58797474:uK_T1Xepl-D9zfbo",
-      "doc_id": 203765021,
+      "doc_id": 230071791,
       "level": 3,
-      "id": 203765021,
+      "id": 230071791,
       "open_window": 1,
       "visible": 1
     },
@@ -4718,7 +4745,7 @@
       "uuid": "58797474:b92ok6LIvHGwczbE",
       "url": "",
       "prev_uuid": "58797474:yaabhSC8_DI_dGsN",
-      "sibling_uuid": "ZKkAuvH0J98B1ITl",
+      "sibling_uuid": "60oQfxLZ3C-OMYWY",
       "child_uuid": "58797474:ZvOVSRtZh3Tq6VPf",
       "parent_uuid": "58797474:vx4wZgGpdWjqE7Yu",
       "doc_id": "",
@@ -4773,11 +4800,26 @@
       "visible": 1
     },
     {
+      "type": "DOC",
+      "title": "条件竞争",
+      "uuid": "60oQfxLZ3C-OMYWY",
+      "url": "scor8m97yciy7g7o",
+      "prev_uuid": "58797474:b92ok6LIvHGwczbE",
+      "sibling_uuid": "ZKkAuvH0J98B1ITl",
+      "child_uuid": "",
+      "parent_uuid": "58797474:vx4wZgGpdWjqE7Yu",
+      "doc_id": 229601243,
+      "level": 2,
+      "id": 229601243,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
       "type": "TITLE",
       "title": "细枝末节",
       "uuid": "ZKkAuvH0J98B1ITl",
       "url": "",
-      "prev_uuid": "58797474:b92ok6LIvHGwczbE",
+      "prev_uuid": "60oQfxLZ3C-OMYWY",
       "sibling_uuid": "",
       "child_uuid": "rslby0NDfGeIqsFT",
       "parent_uuid": "58797474:vx4wZgGpdWjqE7Yu",

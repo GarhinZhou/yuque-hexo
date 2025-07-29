@@ -1,7 +1,7 @@
 ---
 title: ptrace及调试
 date: '2025-07-26 00:32:04'
-updated: '2025-07-28 00:04:02'
+updated: '2025-07-29 16:18:33'
 ---
 `ptrace()`系统调用的函数如下：
 
@@ -200,6 +200,13 @@ ptrace(PTRACE_PEEKDATA,pid,&num,NULL);
 ptrace(PTRACE_POKEDATA,pid,&num,120);
 ```
 
-## ptrace 绕过 seccomp
-在
+## ptrace 实现 gdb
+### 模拟gdb的break和continue操作
+思路:
+
+1. 将需要下断点的地址的代码读出并保存
+2. 将需要下断点的地址的代码修改为0xcc(int 3)
+3. 将需要下断点的地址的代码恢复
+
+
 
