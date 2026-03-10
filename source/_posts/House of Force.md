@@ -1,11 +1,11 @@
 ---
 title: House of Force
 date: '2025-03-24 16:04:18'
-updated: '2025-04-07 21:39:55'
+updated: '2025-09-20 19:40:53'
 ---
 ## 条件
 1. libc 版本： 2.27 及以前
-2. free 不可控或没有
+2. free 不可控或没有（无 uaf）
 
 ## 原理
 House Of Force 是一种堆利用方法，但是并不是说 House Of Force 必须得基于堆漏洞来进行利用。

@@ -1,7 +1,7 @@
 ---
 title: Nullcon wasm题
 date: '2025-02-05 17:30:08'
-updated: '2025-04-07 21:33:52'
+updated: '2025-09-20 17:23:50'
 ---
 省去 wasm 逆向过程（看 Reverse WASM 篇），对照 wat 文件恢复一部分符号之后回到 main 函数：
 

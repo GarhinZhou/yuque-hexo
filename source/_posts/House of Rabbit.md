@@ -1,7 +1,7 @@
 ---
 title: House of Rabbit
 date: '2025-03-26 09:04:09'
-updated: '2025-04-07 21:39:55'
+updated: '2025-09-20 17:23:50'
 ---
 ## 简介
 House of rabbit是一种伪造堆块的技术，一般运用在fastbin attack中，在unsortedbin之类的链表里面有更好的利用方式，一般适用于2.23到2.26之间（也就是没有tcachebin），但是即使是有tcachebin，也是存在利用的（一直到2.31都是可以的），只要将相应大小的堆块tcachebin链表填满就行（但是很明显多此一举，我们没有必要这么做）

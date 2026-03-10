@@ -1,7 +1,7 @@
 ---
 title: HDC使用
 date: '2025-07-15 18:24:10'
-updated: '2025-07-15 21:22:24'
+updated: '2025-09-20 17:23:50'
 ---
 HDC 全称是 OpenHarmony device connector，类似 ADB？
 

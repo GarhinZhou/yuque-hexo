@@ -1,7 +1,7 @@
 ---
 title: House of Orange
 date: '2025-02-27 17:27:43'
-updated: '2025-04-07 21:39:55'
+updated: '2025-09-20 17:23:50'
 ---
 House of Orange 与其他的 House of XX 利用方法不同，这种利用方法来自于 Hitcon CTF 2016 中的一道同名题目。由于这种利用方法在此前的 CTF 题目中没有出现过，因此之后出现的一系列衍生题目的利用方法我们称之为 House of Orange。
 

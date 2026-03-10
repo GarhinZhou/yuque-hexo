@@ -1,7 +1,7 @@
 ---
 title: Linux Shell
 date: '2024-12-09 23:42:14'
-updated: '2025-03-09 00:17:05'
+updated: '2025-09-20 17:23:50'
 ---
 ## <font style="color:rgb(51, 51, 51);">0x01 重定向和管道</font>
 <font style="color:#000000;">重定向命令列表如下：</font>

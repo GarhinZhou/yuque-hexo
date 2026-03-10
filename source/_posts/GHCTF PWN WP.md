@@ -1,7 +1,7 @@
 ---
 title: GHCTF PWN WP
 date: '2025-03-05 18:58:43'
-updated: '2025-04-07 21:33:52'
+updated: '2025-09-20 17:23:50'
 ---
 ## Hello_world
 程序开了 PIE 保护，没有 canary，有后门函数

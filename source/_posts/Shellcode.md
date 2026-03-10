@@ -1,7 +1,7 @@
 ---
 title: Shellcode
 date: '2024-12-14 01:26:52'
-updated: '2025-05-25 11:13:14'
+updated: '2025-11-11 15:56:09'
 ---
 ## pwntools 生成shellcode
 `shellcraft.sh()`生成getshell用的汇编代码

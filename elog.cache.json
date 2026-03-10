@@ -3,11 +3,11 @@
     {
       "id": 206580651,
       "doc_id": "wlddqrwrspssl452",
-      "updated": 1749173365000,
+      "updated": 1765442508000,
       "properties": {
         "title": "Tcache Attack",
         "date": "2025-02-19 13:31:57",
-        "updated": "2025-06-06 09:29:25"
+        "updated": "2025-12-11 16:41:48"
       },
       "catalog": [
         {
@@ -34,11 +34,11 @@
     {
       "id": 219310064,
       "doc_id": "yidw89hrmeevliic",
-      "updated": 1748267365000,
+      "updated": 1765717256000,
       "properties": {
         "title": "Largebin Attack",
         "date": "2025-05-13 00:01:29",
-        "updated": "2025-05-26 21:49:25"
+        "updated": "2025-12-14 21:00:56"
       },
       "catalog": [
         {
@@ -65,11 +65,11 @@
     {
       "id": 221296195,
       "doc_id": "dndgy2s01kpons8v",
-      "updated": 1748258909000,
+      "updated": 1766201069000,
       "properties": {
         "title": "House of Pig",
         "date": "2025-05-26 19:22:32",
-        "updated": "2025-05-26 19:28:29"
+        "updated": "2025-12-20 11:24:29"
       },
       "catalog": [
         {
@@ -96,11 +96,11 @@
     {
       "id": 221158624,
       "doc_id": "ongms8fru6g5gpy6",
-      "updated": 1748257112000,
+      "updated": 1765445215000,
       "properties": {
         "title": "FSOP",
         "date": "2025-05-25 23:26:19",
-        "updated": "2025-05-26 18:58:32"
+        "updated": "2025-12-11 17:26:55"
       },
       "catalog": [
         {
@@ -123,11 +123,11 @@
     {
       "id": 206580198,
       "doc_id": "feog8cfv4secxuvf",
-      "updated": 1748257013000,
+      "updated": 1758695437000,
       "properties": {
         "title": "堆",
         "date": "2025-02-19 13:27:55",
-        "updated": "2025-05-26 18:56:53"
+        "updated": "2025-09-24 14:30:37"
       },
       "catalog": [
         {
@@ -146,11 +146,11 @@
     {
       "id": 219624428,
       "doc_id": "ogew4ih5et50ck5s",
-      "updated": 1748164089000,
+      "updated": 1758360230000,
       "properties": {
         "title": "House of Apple1",
         "date": "2025-05-14 23:19:30",
-        "updated": "2025-05-25 17:08:09"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -179,40 +179,13 @@
       "docPath": "./source/_posts"
     },
     {
-      "id": 221107464,
-      "doc_id": "beixwl3l1uygrqao",
-      "updated": 1748164045000,
-      "properties": {
-        "title": "侧信道爆破",
-        "date": "2025-05-25 13:25:30",
-        "updated": "2025-05-25 17:07:25"
-      },
-      "catalog": [
-        {
-          "title": "CTF（主PWN）",
-          "doc_id": "beixwl3l1uygrqao"
-        },
-        {
-          "title": "PWN",
-          "doc_id": "beixwl3l1uygrqao"
-        },
-        {
-          "title": "Shellcode",
-          "doc_id": "beixwl3l1uygrqao"
-        }
-      ],
-      "realName": "侧信道爆破",
-      "relativePath": "/侧信道爆破.md",
-      "docPath": "./source/_posts"
-    },
-    {
       "id": 203765021,
       "doc_id": "uzbigri0uw460uri",
-      "updated": 1753772997000,
+      "updated": 1758360230000,
       "properties": {
         "title": "Seccomp",
         "date": "2025-01-24 19:03:24",
-        "updated": "2025-07-29 15:09:57"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -235,11 +208,11 @@
     {
       "id": 198557072,
       "doc_id": "vo68u1yuwekpggpz",
-      "updated": 1748142794000,
+      "updated": 1762847769000,
       "properties": {
         "title": "Shellcode",
         "date": "2024-12-14 01:26:52",
-        "updated": "2025-05-25 11:13:14"
+        "updated": "2025-11-11 15:56:09"
       },
       "catalog": [
         {
@@ -258,11 +231,11 @@
     {
       "id": 219459081,
       "doc_id": "uzh1iamfwspbrusf",
-      "updated": 1749368029000,
+      "updated": 1766982992000,
       "properties": {
         "title": "House of Apple2",
         "date": "2025-05-13 22:05:30",
-        "updated": "2025-06-08 15:33:49"
+        "updated": "2025-12-29 12:36:32"
       },
       "catalog": [
         {
@@ -293,11 +266,11 @@
     {
       "id": 219625745,
       "doc_id": "hfgfg4qtgdgvotgv",
-      "updated": 1752470844000,
+      "updated": 1766554851000,
       "properties": {
         "title": "常用资料",
         "date": "2025-05-14 23:40:07",
-        "updated": "2025-07-14 13:27:24"
+        "updated": "2025-12-24 13:40:51"
       },
       "catalog": [
         {
@@ -320,11 +293,11 @@
     {
       "id": 220955368,
       "doc_id": "afo43pisyftcg7g8",
-      "updated": 1748049497000,
+      "updated": 1765440743000,
       "properties": {
         "title": "版本问题",
         "date": "2025-05-23 23:20:18",
-        "updated": "2025-05-24 09:18:17"
+        "updated": "2025-12-11 16:12:23"
       },
       "catalog": [
         {
@@ -347,11 +320,11 @@
     {
       "id": 218890608,
       "doc_id": "gwxhb1eus3gsitsp",
-      "updated": 1747981748000,
+      "updated": 1758360230000,
       "properties": {
         "title": "常见的绕过",
         "date": "2025-05-09 17:17:47",
-        "updated": "2025-05-23 14:29:08"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -374,11 +347,11 @@
     {
       "id": 219275216,
       "doc_id": "slwpuuxz4qpkgl7x",
-      "updated": 1747814075000,
+      "updated": 1765040211000,
       "properties": {
         "title": "vtable劫持",
         "date": "2025-05-12 17:50:23",
-        "updated": "2025-05-21 15:54:35"
+        "updated": "2025-12-07 00:56:51"
       },
       "catalog": [
         {
@@ -401,11 +374,11 @@
     {
       "id": 211128737,
       "doc_id": "got8iqbu3xwc99nb",
-      "updated": 1747384714000,
+      "updated": 1758360230000,
       "properties": {
         "title": "Unlink",
         "date": "2025-03-18 16:10:14",
-        "updated": "2025-05-16 16:38:34"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -428,11 +401,11 @@
     {
       "id": 219083709,
       "doc_id": "xdmg6geygw73cayw",
-      "updated": 1748018622000,
+      "updated": 1766150381000,
       "properties": {
-        "title": "FILE结构",
+        "title": "三个IO结构体",
         "date": "2025-05-11 13:24:54",
-        "updated": "2025-05-24 00:43:42"
+        "updated": "2025-12-19 21:19:41"
       },
       "catalog": [
         {
@@ -448,18 +421,18 @@
           "doc_id": "xdmg6geygw73cayw"
         }
       ],
-      "realName": "FILE结构",
-      "relativePath": "/FILE结构.md",
+      "realName": "三个IO结构体",
+      "relativePath": "/三个IO结构体.md",
       "docPath": "./source/_posts"
     },
     {
       "id": 219382964,
       "doc_id": "non6m4sldn2zatfq",
-      "updated": 1749351238000,
+      "updated": 1758360230000,
       "properties": {
         "title": "整数溢出利用",
         "date": "2025-05-13 13:10:19",
-        "updated": "2025-06-08 10:53:58"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -480,40 +453,13 @@
       "docPath": "./source/_posts"
     },
     {
-      "id": 204840231,
-      "doc_id": "ip9tcsmgau7q9iry",
-      "updated": 1747113019000,
-      "properties": {
-        "title": "杂碎点",
-        "date": "2025-02-07 16:30:11",
-        "updated": "2025-05-13 13:10:19"
-      },
-      "catalog": [
-        {
-          "title": "CTF（主PWN）",
-          "doc_id": "ip9tcsmgau7q9iry"
-        },
-        {
-          "title": "PWN",
-          "doc_id": "ip9tcsmgau7q9iry"
-        },
-        {
-          "title": "细枝末节",
-          "doc_id": "ip9tcsmgau7q9iry"
-        }
-      ],
-      "realName": "杂碎点",
-      "relativePath": "/杂碎点.md",
-      "docPath": "./source/_posts"
-    },
-    {
       "id": 219267903,
       "doc_id": "iib9x3nslcg0dt03",
-      "updated": 1748505117000,
+      "updated": 1758360230000,
       "properties": {
         "title": "平台",
         "date": "2025-05-12 17:07:04",
-        "updated": "2025-05-29 15:51:57"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -528,11 +474,11 @@
     {
       "id": 219262424,
       "doc_id": "mf1kekplml7zqxl6",
-      "updated": 1747039696000,
+      "updated": 1766201227000,
       "properties": {
-        "title": "magic_gadget",
+        "title": "（待办）magic_gadget",
         "date": "2025-05-12 16:38:25",
-        "updated": "2025-05-12 16:48:16"
+        "updated": "2025-12-20 11:27:07"
       },
       "catalog": [
         {
@@ -544,18 +490,18 @@
           "doc_id": "mf1kekplml7zqxl6"
         }
       ],
-      "realName": "magic_gadget",
-      "relativePath": "/magic_gadget.md",
+      "realName": "（待办）magic_gadget",
+      "relativePath": "/（待办）magic_gadget.md",
       "docPath": "./source/_posts"
     },
     {
       "id": 219110234,
       "doc_id": "bf4bhkurl0dbt7ez",
-      "updated": 1747038068000,
+      "updated": 1758360230000,
       "properties": {
         "title": "fini_array利用",
         "date": "2025-05-11 18:23:11",
-        "updated": "2025-05-12 16:21:08"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -574,11 +520,11 @@
     {
       "id": 214621621,
       "doc_id": "lywbk64fy67wtgza",
-      "updated": 1747039063000,
+      "updated": 1758360230000,
       "properties": {
         "title": "流量包分析",
         "date": "2025-04-09 20:50:35",
-        "updated": "2025-05-12 16:37:43"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -601,11 +547,11 @@
     {
       "id": 219129944,
       "doc_id": "zm4xaplgqvawad63",
-      "updated": 1747027523000,
+      "updated": 1758360230000,
       "properties": {
         "title": "Canary绕过",
         "date": "2025-05-11 22:37:40",
-        "updated": "2025-05-12 13:25:23"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -628,11 +574,11 @@
     {
       "id": 219221172,
       "doc_id": "avgicxwlkznah578",
-      "updated": 1747027213000,
+      "updated": 1758360230000,
       "properties": {
         "title": "御网杯 WP",
         "date": "2025-05-12 13:18:12",
-        "updated": "2025-05-12 13:20:13"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -651,11 +597,11 @@
     {
       "id": 203763041,
       "doc_id": "ebgorv0prvh5taev",
-      "updated": 1746958632000,
+      "updated": 1766155329000,
       "properties": {
-        "title": "PWN待学清单",
+        "title": "待学清单",
         "date": "2025-01-24 18:23:11",
-        "updated": "2025-05-11 18:17:12"
+        "updated": "2025-12-19 22:42:09"
       },
       "catalog": [
         {
@@ -667,18 +613,18 @@
           "doc_id": "ebgorv0prvh5taev"
         }
       ],
-      "realName": "PWN待学清单",
-      "relativePath": "/PWN待学清单.md",
+      "realName": "待学清单",
+      "relativePath": "/待学清单.md",
       "docPath": "./source/_posts"
     },
     {
       "id": 198091207,
       "doc_id": "hoduaheh67vpist9",
-      "updated": 1746935866000,
+      "updated": 1758360230000,
       "properties": {
         "title": "Pwntools使用",
         "date": "2024-12-10 18:46:34",
-        "updated": "2025-05-11 11:57:46"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -687,6 +633,10 @@
         },
         {
           "title": "PWN",
+          "doc_id": "hoduaheh67vpist9"
+        },
+        {
+          "title": "工具相关",
           "doc_id": "hoduaheh67vpist9"
         }
       ],
@@ -697,11 +647,11 @@
     {
       "id": 218891389,
       "doc_id": "grrdb8n4ofosmrpb",
-      "updated": 1749299091000,
+      "updated": 1763134528000,
       "properties": {
         "title": "伪随机数",
         "date": "2025-05-09 17:22:31",
-        "updated": "2025-06-07 20:24:51"
+        "updated": "2025-11-14 23:35:28"
       },
       "catalog": [
         {
@@ -724,11 +674,11 @@
     {
       "id": 218890786,
       "doc_id": "xg4zva2cx0gyldba",
-      "updated": 1746782429000,
+      "updated": 1758360230000,
       "properties": {
         "title": "栈对齐",
         "date": "2025-05-09 17:18:53",
-        "updated": "2025-05-09 17:20:29"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -740,7 +690,7 @@
           "doc_id": "xg4zva2cx0gyldba"
         },
         {
-          "title": "细枝末节",
+          "title": "堆",
           "doc_id": "xg4zva2cx0gyldba"
         }
       ],
@@ -751,11 +701,11 @@
     {
       "id": 198623507,
       "doc_id": "kehcg97r2sfr7h08",
-      "updated": 1746782536000,
+      "updated": 1758360230000,
       "properties": {
         "title": "Patchelf使用",
         "date": "2024-12-14 17:56:21",
-        "updated": "2025-05-09 17:22:16"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -767,7 +717,7 @@
           "doc_id": "kehcg97r2sfr7h08"
         },
         {
-          "title": "Libc",
+          "title": "Libc & Gadgets",
           "doc_id": "kehcg97r2sfr7h08"
         }
       ],
@@ -778,11 +728,11 @@
     {
       "id": 218350755,
       "doc_id": "gv8ghvit3oazxbuy",
-      "updated": 1753440887000,
+      "updated": 1758360230000,
       "properties": {
         "title": "Qemu基础知识",
         "date": "2025-05-06 14:16:06",
-        "updated": "2025-07-25 18:54:47"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -805,11 +755,11 @@
     {
       "id": 197949738,
       "doc_id": "th5vpsx42zc7y53r",
-      "updated": 1753630401000,
+      "updated": 1764676398000,
       "properties": {
         "title": "Pwndbg使用",
         "date": "2024-12-09 23:32:34",
-        "updated": "2025-07-27 23:33:21"
+        "updated": "2025-12-02 19:53:18"
       },
       "catalog": [
         {
@@ -832,11 +782,11 @@
     {
       "id": 198939219,
       "doc_id": "tkcxrofgxwa1g146",
-      "updated": 1745743109000,
+      "updated": 1765715287000,
       "properties": {
         "title": "Linux",
         "date": "2024-12-17 11:01:27",
-        "updated": "2025-04-27 16:38:29"
+        "updated": "2025-12-14 20:28:07"
       },
       "catalog": [
         {
@@ -855,11 +805,11 @@
     {
       "id": 216244618,
       "doc_id": "zggu8ocy6xkp0u5w",
-      "updated": 1745723083000,
+      "updated": 1758360230000,
       "properties": {
         "title": "House of Roman",
         "date": "2025-04-20 19:56:02",
-        "updated": "2025-04-27 11:04:43"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -886,11 +836,11 @@
     {
       "id": 197940974,
       "doc_id": "vza7qrx4c8gsrz4e",
-      "updated": 1747038912000,
+      "updated": 1763356463000,
       "properties": {
         "title": "格式化字符串",
         "date": "2024-12-09 21:53:50",
-        "updated": "2025-05-12 16:35:12"
+        "updated": "2025-11-17 13:14:23"
       },
       "catalog": [
         {
@@ -909,11 +859,11 @@
     {
       "id": 211464594,
       "doc_id": "fmcadhws56lek80v",
-      "updated": 1745067814000,
+      "updated": 1758360230000,
       "properties": {
         "title": "Unsortedbin Attack",
         "date": "2025-03-20 14:34:52",
-        "updated": "2025-04-19 21:03:34"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -940,11 +890,11 @@
     {
       "id": 215882502,
       "doc_id": "lb5q655i39gqg9qe",
-      "updated": 1745065593000,
+      "updated": 1758360230000,
       "properties": {
         "title": "校园有线网使用",
         "date": "2025-04-17 21:55:59",
-        "updated": "2025-04-19 20:26:33"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -963,11 +913,11 @@
     {
       "id": 198116797,
       "doc_id": "mtgziu86b3fzw4hy",
-      "updated": 1744898248000,
+      "updated": 1766798207000,
       "properties": {
         "title": "WSL",
         "date": "2024-12-10 23:57:38",
-        "updated": "2025-04-17 21:57:28"
+        "updated": "2025-12-27 09:16:47"
       },
       "catalog": [
         {
@@ -986,11 +936,11 @@
     {
       "id": 214933879,
       "doc_id": "rirmxmppigrs5amg",
-      "updated": 1749188552000,
+      "updated": 1758360230000,
       "properties": {
         "title": "广东卫生网赛 PWN",
         "date": "2025-04-11 18:23:49",
-        "updated": "2025-06-06 13:42:32"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -1009,11 +959,11 @@
     {
       "id": 198622507,
       "doc_id": "nt4dzl53wggin3qv",
-      "updated": 1750754133000,
+      "updated": 1758360230000,
       "properties": {
         "title": "泄露地址接收",
         "date": "2024-12-14 17:42:47",
-        "updated": "2025-06-24 16:35:33"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -1036,11 +986,11 @@
     {
       "id": 215049249,
       "doc_id": "gg28v8v3kqfuptsg",
-      "updated": 1748354422000,
+      "updated": 1758360230000,
       "properties": {
         "title": "TGCTF PWN&Reverse WP",
         "date": "2025-04-12 19:32:58",
-        "updated": "2025-05-27 22:00:22"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -1059,11 +1009,11 @@
     {
       "id": 202299705,
       "doc_id": "wfn5bigcc2txq85x",
-      "updated": 1744367076000,
+      "updated": 1758360230000,
       "properties": {
         "title": "栈迁移",
         "date": "2025-01-12 18:53:15",
-        "updated": "2025-04-11 18:24:36"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -1086,11 +1036,11 @@
     {
       "id": 214793932,
       "doc_id": "vslb9m3qmvfng9ms",
-      "updated": 1744293307000,
+      "updated": 1758360230000,
       "properties": {
         "title": "提权",
         "date": "2025-04-10 21:48:53",
-        "updated": "2025-04-10 21:55:07"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -1098,7 +1048,7 @@
           "doc_id": "vslb9m3qmvfng9ms"
         },
         {
-          "title": "Misc",
+          "title": "Web",
           "doc_id": "vslb9m3qmvfng9ms"
         },
         {
@@ -1113,11 +1063,11 @@
     {
       "id": 214933872,
       "doc_id": "ke6w1zqz1lwgiwg4",
-      "updated": 1744367024000,
+      "updated": 1766943781000,
       "properties": {
         "title": "速传",
         "date": "2025-04-11 18:23:43",
-        "updated": "2025-04-11 18:23:44"
+        "updated": "2025-12-29 01:43:01"
       },
       "catalog": [
         {
@@ -1136,11 +1086,11 @@
     {
       "id": 200199773,
       "doc_id": "tyrwi0l9htih966s",
-      "updated": 1744286759000,
+      "updated": 1758360230000,
       "properties": {
         "title": "SROP",
         "date": "2024-12-26 15:59:14",
-        "updated": "2025-04-10 20:05:59"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -1163,11 +1113,11 @@
     {
       "id": 200203612,
       "doc_id": "xvbw9ey4bc8df02b",
-      "updated": 1752249036000,
+      "updated": 1758360230000,
       "properties": {
         "title": "汇编语言文学",
         "date": "2024-12-26 16:16:47",
-        "updated": "2025-07-11 23:50:36"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -1182,11 +1132,11 @@
     {
       "id": 214771800,
       "doc_id": "nghv5xik0xv73ons",
-      "updated": 1744281234000,
+      "updated": 1758360230000,
       "properties": {
         "title": "Kali配置",
         "date": "2025-04-10 18:24:32",
-        "updated": "2025-04-10 18:33:54"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -1205,11 +1155,11 @@
     {
       "id": 213874132,
       "doc_id": "umg4qzrnsg1xrkw5",
-      "updated": 1744032832000,
+      "updated": 1758360230000,
       "properties": {
         "title": "XYCTF PWN WP",
         "date": "2025-04-04 14:52:16",
-        "updated": "2025-04-07 21:33:52"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -1228,11 +1178,11 @@
     {
       "id": 212341752,
       "doc_id": "tphaa1afgl9vkee8",
-      "updated": 1744033195000,
+      "updated": 1758360230000,
       "properties": {
         "title": "House of Rabbit",
         "date": "2025-03-26 09:04:09",
-        "updated": "2025-04-07 21:39:55"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -1259,11 +1209,11 @@
     {
       "id": 211112954,
       "doc_id": "ef3ro0q43kyxc8bw",
-      "updated": 1744033195000,
+      "updated": 1758360230000,
       "properties": {
         "title": "House of Einherjar",
         "date": "2025-03-18 14:57:41",
-        "updated": "2025-04-07 21:39:55"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -1290,11 +1240,11 @@
     {
       "id": 211821567,
       "doc_id": "fn8z3c7qcqadrf1y",
-      "updated": 1744032831000,
+      "updated": 1758360230000,
       "properties": {
         "title": "NCTF PWN WP",
         "date": "2025-03-22 22:25:26",
-        "updated": "2025-04-07 21:33:51"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -1313,11 +1263,11 @@
     {
       "id": 212185903,
       "doc_id": "ee8uxo56l3wtd7nb",
-      "updated": 1744033195000,
+      "updated": 1758360230000,
       "properties": {
         "title": "House of Lore",
         "date": "2025-03-25 10:49:51",
-        "updated": "2025-04-07 21:39:55"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -1344,11 +1294,11 @@
     {
       "id": 206914994,
       "doc_id": "kggv6209dgqeeq65",
-      "updated": 1744033195000,
+      "updated": 1758360230000,
       "properties": {
         "title": "House of Botcake",
         "date": "2025-02-21 11:00:29",
-        "updated": "2025-04-07 21:39:55"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -1375,11 +1325,11 @@
     {
       "id": 207944144,
       "doc_id": "dxtt236p5kzea33c",
-      "updated": 1744033195000,
+      "updated": 1758360230000,
       "properties": {
         "title": "House of Orange",
         "date": "2025-02-27 17:27:43",
-        "updated": "2025-04-07 21:39:55"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -1406,11 +1356,11 @@
     {
       "id": 212063602,
       "doc_id": "pfnskbzdrnxdg2yl",
-      "updated": 1744033195000,
+      "updated": 1758368453000,
       "properties": {
         "title": "House of Force",
         "date": "2025-03-24 16:04:18",
-        "updated": "2025-04-07 21:39:55"
+        "updated": "2025-09-20 19:40:53"
       },
       "catalog": [
         {
@@ -1437,11 +1387,11 @@
     {
       "id": 211760344,
       "doc_id": "sphgkwutpggzmesq",
-      "updated": 1742654051000,
+      "updated": 1758360230000,
       "properties": {
         "title": "常用快捷键",
         "date": "2025-03-22 11:35:12",
-        "updated": "2025-03-22 22:34:11"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -1456,11 +1406,11 @@
     {
       "id": 211771784,
       "doc_id": "unqu2pggofraed9e",
-      "updated": 1744540271000,
+      "updated": 1766985850000,
       "properties": {
         "title": "NSSCTF PWN WP",
         "date": "2025-03-22 13:50:12",
-        "updated": "2025-04-13 18:31:11"
+        "updated": "2025-12-29 13:24:10"
       },
       "catalog": [
         {
@@ -1479,11 +1429,11 @@
     {
       "id": 210926530,
       "doc_id": "fslzrf5dumxgbdh6",
-      "updated": 1742614499000,
+      "updated": 1758360230000,
       "properties": {
         "title": "VSCode C/C++环境配置",
         "date": "2025-03-17 15:26:00",
-        "updated": "2025-03-22 11:34:59"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -1498,11 +1448,11 @@
     {
       "id": 206608187,
       "doc_id": "rf6vrdoh9wc5rq3p",
-      "updated": 1744428430000,
+      "updated": 1758360230000,
       "properties": {
         "title": "Fastbin Attack",
         "date": "2025-02-19 15:27:26",
-        "updated": "2025-04-12 11:27:10"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -1529,11 +1479,11 @@
     {
       "id": 198632750,
       "doc_id": "ksf6c9l8i4tfggnn",
-      "updated": 1747038331000,
+      "updated": 1758360230000,
       "properties": {
         "title": "获取Libc版本",
         "date": "2024-12-14 20:38:06",
-        "updated": "2025-05-12 16:25:31"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -1545,7 +1495,7 @@
           "doc_id": "ksf6c9l8i4tfggnn"
         },
         {
-          "title": "Libc",
+          "title": "Libc & Gadgets",
           "doc_id": "ksf6c9l8i4tfggnn"
         }
       ],
@@ -1556,11 +1506,11 @@
     {
       "id": 197949692,
       "doc_id": "ow7lbkm7g2yk0ssp",
-      "updated": 1744032831000,
+      "updated": 1758360230000,
       "properties": {
         "title": "压缩包",
         "date": "2024-12-09 23:31:56",
-        "updated": "2025-04-07 21:33:51"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -1579,11 +1529,11 @@
     {
       "id": 206915086,
       "doc_id": "rnw7ac0qbkwkwfzy",
-      "updated": 1744033195000,
+      "updated": 1758360230000,
       "properties": {
         "title": "House of Spirit",
         "date": "2025-02-21 11:00:53",
-        "updated": "2025-04-07 21:39:55"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -1610,11 +1560,11 @@
     {
       "id": 209913081,
       "doc_id": "ogfsudlfdtb9gg94",
-      "updated": 1744032832000,
+      "updated": 1758360230000,
       "properties": {
         "title": "picoCTF PWN WP",
         "date": "2025-03-11 17:56:24",
-        "updated": "2025-04-07 21:33:52"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -1633,11 +1583,11 @@
     {
       "id": 208946141,
       "doc_id": "gg7doq4gkgbg6lro",
-      "updated": 1744032832000,
+      "updated": 1758360230000,
       "properties": {
         "title": "GHCTF PWN WP",
         "date": "2025-03-05 18:58:43",
-        "updated": "2025-04-07 21:33:52"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -1656,11 +1606,11 @@
     {
       "id": 210298646,
       "doc_id": "zcgsymro4bf4ia55",
-      "updated": 1746943595000,
+      "updated": 1758360230000,
       "properties": {
         "title": "ret2csu",
         "date": "2025-03-13 16:54:45",
-        "updated": "2025-05-11 14:06:35"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -1688,11 +1638,11 @@
     {
       "id": 205620722,
       "doc_id": "zk32vru24pxazio6",
-      "updated": 1744033195000,
+      "updated": 1758360230000,
       "properties": {
         "title": "ret2libc_start_main",
         "date": "2025-02-12 21:23:51",
-        "updated": "2025-04-07 21:39:55"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -1701,6 +1651,10 @@
         },
         {
           "title": "PWN",
+          "doc_id": "zk32vru24pxazio6"
+        },
+        {
+          "title": "栈",
           "doc_id": "zk32vru24pxazio6"
         },
         {
@@ -1715,11 +1669,11 @@
     {
       "id": 197937286,
       "doc_id": "kygg0rbkmbk3dtwr",
-      "updated": 1741450625000,
+      "updated": 1758360230000,
       "properties": {
         "title": "Py语言文学",
         "date": "2024-12-09 21:09:03",
-        "updated": "2025-03-09 00:17:05"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -1734,11 +1688,11 @@
     {
       "id": 209491472,
       "doc_id": "bl4c97ix40270ew1",
-      "updated": 1744033195000,
+      "updated": 1758360230000,
       "properties": {
         "title": "可见字符shellcode",
         "date": "2025-03-09 13:40:00",
-        "updated": "2025-04-07 21:39:55"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -1759,40 +1713,13 @@
       "docPath": "./source/_posts"
     },
     {
-      "id": 207412561,
-      "doc_id": "gmp1gq3f83onittb",
-      "updated": 1749295042000,
-      "properties": {
-        "title": "orw",
-        "date": "2025-02-24 23:14:42",
-        "updated": "2025-06-07 19:17:22"
-      },
-      "catalog": [
-        {
-          "title": "CTF（主PWN）",
-          "doc_id": "gmp1gq3f83onittb"
-        },
-        {
-          "title": "PWN",
-          "doc_id": "gmp1gq3f83onittb"
-        },
-        {
-          "title": "Shellcode",
-          "doc_id": "gmp1gq3f83onittb"
-        }
-      ],
-      "realName": "orw",
-      "relativePath": "/orw.md",
-      "docPath": "./source/_posts"
-    },
-    {
       "id": 197937252,
       "doc_id": "uaftrk9xhaoesx5c",
-      "updated": 1741450625000,
+      "updated": 1758360230000,
       "properties": {
         "title": "C语言文学",
         "date": "2024-12-09 21:08:37",
-        "updated": "2025-03-09 00:17:05"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -1807,11 +1734,11 @@
     {
       "id": 207384203,
       "doc_id": "hhicyt7zfiecr2qx",
-      "updated": 1744033195000,
+      "updated": 1766975973000,
       "properties": {
         "title": "mprotect利用",
         "date": "2025-02-24 18:35:27",
-        "updated": "2025-04-07 21:39:55"
+        "updated": "2025-12-29 10:39:33"
       },
       "catalog": [
         {
@@ -1834,11 +1761,11 @@
     {
       "id": 207447230,
       "doc_id": "gyak9ucdqab2z9sf",
-      "updated": 1744032831000,
+      "updated": 1758360230000,
       "properties": {
         "title": "YLCTF 2024",
         "date": "2025-02-25 08:16:13",
-        "updated": "2025-04-07 21:33:51"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -1857,11 +1784,11 @@
     {
       "id": 197937828,
       "doc_id": "tn36y6ce6r5tv5gg",
-      "updated": 1744032831000,
+      "updated": 1758360230000,
       "properties": {
         "title": "BaseCTF PWN WP",
         "date": "2024-12-09 21:15:44",
-        "updated": "2025-04-07 21:33:51"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -1881,11 +1808,11 @@
     {
       "id": 199896256,
       "doc_id": "regalxl8fqqogsea",
-      "updated": 1744033195000,
+      "updated": 1758360230000,
       "properties": {
         "title": "Hexagon",
         "date": "2024-12-24 14:21:35",
-        "updated": "2025-04-07 21:39:55"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -1897,7 +1824,7 @@
           "doc_id": "regalxl8fqqogsea"
         },
         {
-          "title": "架构",
+          "title": "异构pwn",
           "doc_id": "regalxl8fqqogsea"
         }
       ],
@@ -1908,11 +1835,11 @@
     {
       "id": 206130939,
       "doc_id": "za7esgie7dhc2qan",
-      "updated": 1750841537000,
+      "updated": 1758360230000,
       "properties": {
         "title": "Glibc-all-in-one使用",
         "date": "2025-02-16 18:50:36",
-        "updated": "2025-06-25 16:52:17"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -1935,11 +1862,11 @@
     {
       "id": 202303620,
       "doc_id": "etnid2iz640s84x5",
-      "updated": 1749965404000,
+      "updated": 1758360230000,
       "properties": {
         "title": "Gadgets获取",
         "date": "2025-01-12 20:02:12",
-        "updated": "2025-06-15 13:30:04"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -1962,11 +1889,11 @@
     {
       "id": 206808830,
       "doc_id": "sakymm3ofuse0mko",
-      "updated": 1744033195000,
+      "updated": 1758360230000,
       "properties": {
         "title": "C++",
         "date": "2025-02-20 17:06:52",
-        "updated": "2025-04-07 21:39:55"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -1985,11 +1912,11 @@
     {
       "id": 206667691,
       "doc_id": "aida7h3gkipxbl2t",
-      "updated": 1744033195000,
+      "updated": 1758360230000,
       "properties": {
         "title": "UAF/double free",
         "date": "2025-02-19 22:14:53",
-        "updated": "2025-04-07 21:39:55"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -2012,11 +1939,11 @@
     {
       "id": 206667818,
       "doc_id": "kugt81gug2bqq1td",
-      "updated": 1744033195000,
+      "updated": 1764151698000,
       "properties": {
         "title": "堆溢出",
         "date": "2025-02-19 22:16:31",
-        "updated": "2025-04-07 21:39:55"
+        "updated": "2025-11-26 18:08:18"
       },
       "catalog": [
         {
@@ -2039,11 +1966,11 @@
     {
       "id": 198247803,
       "doc_id": "bvf46a1cymc1ho2r",
-      "updated": 1748534260000,
+      "updated": 1758360230000,
       "properties": {
         "title": "VMware",
         "date": "2024-12-11 19:43:46",
-        "updated": "2025-05-29 23:57:40"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -2062,11 +1989,11 @@
     {
       "id": 198689685,
       "doc_id": "gqmqmd122l3ry3gl",
-      "updated": 1744032831000,
+      "updated": 1760011823000,
       "properties": {
-        "title": "IDA 使用",
+        "title": "IDA技巧",
         "date": "2024-12-15 13:55:58",
-        "updated": "2025-04-07 21:33:51"
+        "updated": "2025-10-09 20:10:23"
       },
       "catalog": [
         {
@@ -2078,18 +2005,18 @@
           "doc_id": "gqmqmd122l3ry3gl"
         }
       ],
-      "realName": "IDA 使用",
-      "relativePath": "/IDA 使用.md",
+      "realName": "IDA技巧",
+      "relativePath": "/IDA技巧.md",
       "docPath": "./source/_posts"
     },
     {
       "id": 204492371,
       "doc_id": "pp9igzggr4tukuig",
-      "updated": 1744032831000,
+      "updated": 1758360230000,
       "properties": {
         "title": "WASM",
         "date": "2025-02-05 10:35:39",
-        "updated": "2025-04-07 21:33:51"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -2106,36 +2033,13 @@
       "docPath": "./source/_posts"
     },
     {
-      "id": 205927093,
-      "doc_id": "cka1aih5mqlsnwgd",
-      "updated": 1744032831000,
-      "properties": {
-        "title": "IDA 小技巧",
-        "date": "2025-02-14 18:19:59",
-        "updated": "2025-04-07 21:33:51"
-      },
-      "catalog": [
-        {
-          "title": "CTF（主PWN）",
-          "doc_id": "cka1aih5mqlsnwgd"
-        },
-        {
-          "title": "Reverse",
-          "doc_id": "cka1aih5mqlsnwgd"
-        }
-      ],
-      "realName": "IDA 小技巧",
-      "relativePath": "/IDA 小技巧.md",
-      "docPath": "./source/_posts"
-    },
-    {
       "id": 205147252,
       "doc_id": "kg89fy08qs7sen47",
-      "updated": 1744033195000,
+      "updated": 1765956251000,
       "properties": {
         "title": "Qemu使用",
         "date": "2025-02-09 23:26:57",
-        "updated": "2025-04-07 21:39:55"
+        "updated": "2025-12-17 15:24:11"
       },
       "catalog": [
         {
@@ -2158,11 +2062,11 @@
     {
       "id": 204503903,
       "doc_id": "lxr9embiyxlc5p60",
-      "updated": 1744032831000,
+      "updated": 1758360230000,
       "properties": {
         "title": "Ghidra 使用",
         "date": "2025-02-05 11:42:10",
-        "updated": "2025-04-07 21:33:51"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -2181,11 +2085,11 @@
     {
       "id": 204546346,
       "doc_id": "guv9931dci9fcyww",
-      "updated": 1744032832000,
+      "updated": 1758360230000,
       "properties": {
         "title": "Nullcon wasm题",
         "date": "2025-02-05 17:30:08",
-        "updated": "2025-04-07 21:33:52"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -2204,11 +2108,11 @@
     {
       "id": 203001474,
       "doc_id": "xgh0tf9ovie2p6qu",
-      "updated": 1744032832000,
+      "updated": 1758360230000,
       "properties": {
         "title": "2025春秋杯冬季赛 WP",
         "date": "2025-01-17 21:26:02",
-        "updated": "2025-04-07 21:33:52"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -2227,11 +2131,11 @@
     {
       "id": 204480378,
       "doc_id": "dtgsk9g38cd3l6u2",
-      "updated": 1741450625000,
+      "updated": 1758360230000,
       "properties": {
         "title": "JDK 配置",
         "date": "2025-02-05 09:14:46",
-        "updated": "2025-03-09 00:17:05"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -2246,11 +2150,11 @@
     {
       "id": 198727890,
       "doc_id": "qbr6fesf33qw8udk",
-      "updated": 1741450625000,
+      "updated": 1758360230000,
       "properties": {
         "title": "C++语言文学",
         "date": "2024-12-15 23:13:41",
-        "updated": "2025-03-09 00:17:05"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -2265,11 +2169,11 @@
     {
       "id": 197937524,
       "doc_id": "aan8oqkw64578ogc",
-      "updated": 1744033195000,
+      "updated": 1762928337000,
       "properties": {
         "title": "ARM",
         "date": "2024-12-09 21:12:08",
-        "updated": "2025-04-07 21:39:55"
+        "updated": "2025-11-12 14:18:57"
       },
       "catalog": [
         {
@@ -2281,7 +2185,7 @@
           "doc_id": "aan8oqkw64578ogc"
         },
         {
-          "title": "架构",
+          "title": "异构pwn",
           "doc_id": "aan8oqkw64578ogc"
         }
       ],
@@ -2293,11 +2197,11 @@
     {
       "id": 202438193,
       "doc_id": "eeqnslx5vrzssgsi",
-      "updated": 1744032831000,
+      "updated": 1758360230000,
       "properties": {
         "title": "SSL",
         "date": "2025-01-13 16:58:27",
-        "updated": "2025-04-07 21:33:51"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -2316,11 +2220,11 @@
     {
       "id": 202403794,
       "doc_id": "qcazshnyvc4c2fw4",
-      "updated": 1744032832000,
+      "updated": 1758360230000,
       "properties": {
         "title": "现代密码",
         "date": "2025-01-13 13:53:56",
-        "updated": "2025-04-07 21:33:52"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -2339,11 +2243,11 @@
     {
       "id": 202398961,
       "doc_id": "hv3zg3hkqq9ugn2v",
-      "updated": 1744032831000,
+      "updated": 1758360230000,
       "properties": {
         "title": "古典密码",
         "date": "2025-01-13 12:54:20",
-        "updated": "2025-04-07 21:33:51"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -2362,11 +2266,11 @@
     {
       "id": 200373444,
       "doc_id": "nqem1iitkav40yq9",
-      "updated": 1749296395000,
+      "updated": 1766295912000,
       "properties": {
         "title": "系统调用",
         "date": "2024-12-27 18:26:11",
-        "updated": "2025-06-07 19:39:55"
+        "updated": "2025-12-21 13:45:12"
       },
       "catalog": [
         {
@@ -2385,11 +2289,11 @@
     {
       "id": 200204559,
       "doc_id": "meioasdm66m92079",
-      "updated": 1744033195000,
+      "updated": 1762832064000,
       "properties": {
         "title": "x86 & x64",
         "date": "2024-12-26 16:20:12",
-        "updated": "2025-04-07 21:39:55"
+        "updated": "2025-11-11 11:34:24"
       },
       "catalog": [
         {
@@ -2401,7 +2305,7 @@
           "doc_id": "meioasdm66m92079"
         },
         {
-          "title": "架构",
+          "title": "异构pwn",
           "doc_id": "meioasdm66m92079"
         }
       ],
@@ -2412,11 +2316,11 @@
     {
       "id": 197950346,
       "doc_id": "ianomby2prins5u4",
-      "updated": 1741450625000,
+      "updated": 1758360230000,
       "properties": {
         "title": "Linux Shell",
         "date": "2024-12-09 23:42:14",
-        "updated": "2025-03-09 00:17:05"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -2431,11 +2335,11 @@
     {
       "id": 197937626,
       "doc_id": "vclrn2w8rbamgec0",
-      "updated": 1744032832000,
+      "updated": 1758360230000,
       "properties": {
         "title": "XSCTF 初赛 void*队伍wp",
         "date": "2024-12-09 21:13:14",
-        "updated": "2025-04-07 21:33:52"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -2454,11 +2358,11 @@
     {
       "id": 197937549,
       "doc_id": "dqikk39p2ae45vxl",
-      "updated": 1744032832000,
+      "updated": 1758360230000,
       "properties": {
         "title": "XSCTF 初赛官方pwn题wp",
         "date": "2024-12-09 21:12:23",
-        "updated": "2025-04-07 21:33:52"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -2477,11 +2381,11 @@
     {
       "id": 197937130,
       "doc_id": "121a3d0c3cc66c25cccb360bcfb65649",
-      "updated": 1744032831000,
+      "updated": 1758360230000,
       "properties": {
         "title": "NewstarCTF WP",
         "date": "2024-12-09 21:07:06",
-        "updated": "2025-04-07 21:33:51"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -2501,11 +2405,11 @@
     {
       "id": 222717632,
       "doc_id": "gg44q6v0wxav72w3",
-      "updated": 1749196854000,
+      "updated": 1758360230000,
       "properties": {
         "title": "32位ROP",
         "date": "2025-06-06 15:29:44",
-        "updated": "2025-06-06 16:00:54"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -2528,11 +2432,11 @@
     {
       "id": 227996766,
       "doc_id": "lgb1f71wuoo6yogx",
-      "updated": 1753258686000,
+      "updated": 1758360230000,
       "properties": {
         "title": "ArkUI",
         "date": "2025-07-14 21:27:44",
-        "updated": "2025-07-23 16:18:06"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -2555,11 +2459,11 @@
     {
       "id": 228134740,
       "doc_id": "xvc2vx859hm5gv7q",
-      "updated": 1752585744000,
+      "updated": 1758360230000,
       "properties": {
         "title": "HDC使用",
         "date": "2025-07-15 18:24:10",
-        "updated": "2025-07-15 21:22:24"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -2567,7 +2471,7 @@
           "doc_id": "xvc2vx859hm5gv7q"
         },
         {
-          "title": "鸿蒙开发",
+          "title": "鸿蒙",
           "doc_id": "xvc2vx859hm5gv7q"
         }
       ],
@@ -2578,11 +2482,11 @@
     {
       "id": 228155989,
       "doc_id": "ozilzd1hw71eu0dm",
-      "updated": 1752771643000,
+      "updated": 1758360230000,
       "properties": {
         "title": "语法",
         "date": "2025-07-15 22:00:01",
-        "updated": "2025-07-18 01:00:43"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -2605,11 +2509,11 @@
     {
       "id": 228009675,
       "doc_id": "pyg9leeepfw7tgrb",
-      "updated": 1752563908000,
+      "updated": 1758360230000,
       "properties": {
         "title": "DevEco使用",
         "date": "2025-07-14 23:47:03",
-        "updated": "2025-07-15 15:18:28"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -2617,7 +2521,7 @@
           "doc_id": "pyg9leeepfw7tgrb"
         },
         {
-          "title": "鸿蒙开发",
+          "title": "鸿蒙",
           "doc_id": "pyg9leeepfw7tgrb"
         }
       ],
@@ -2628,11 +2532,11 @@
     {
       "id": 228008289,
       "doc_id": "vb7cnmgy14udmggz",
-      "updated": 1752508182000,
+      "updated": 1758360230000,
       "properties": {
         "title": "调试",
         "date": "2025-07-14 23:26:58",
-        "updated": "2025-07-14 23:49:42"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -2640,7 +2544,7 @@
           "doc_id": "vb7cnmgy14udmggz"
         },
         {
-          "title": "鸿蒙开发",
+          "title": "鸿蒙",
           "doc_id": "vb7cnmgy14udmggz"
         }
       ],
@@ -2651,11 +2555,11 @@
     {
       "id": 223890852,
       "doc_id": "io7k9x4gnuw9huia",
-      "updated": 1753245059000,
+      "updated": 1758360230000,
       "properties": {
         "title": "ret2gets",
         "date": "2025-06-15 09:53:36",
-        "updated": "2025-07-23 12:30:59"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -2682,11 +2586,11 @@
     {
       "id": 223894226,
       "doc_id": "kkninfn4m3ckni3u",
-      "updated": 1752597747000,
+      "updated": 1758360230000,
       "properties": {
         "title": "Linux编程期末报告",
         "date": "2025-06-15 10:40:46",
-        "updated": "2025-07-16 00:42:27"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -2705,11 +2609,11 @@
     {
       "id": 223953324,
       "doc_id": "byl6nxwo4l4eflwg",
-      "updated": 1750046186000,
+      "updated": 1758360230000,
       "properties": {
         "title": "WSA",
         "date": "2025-06-15 23:18:06",
-        "updated": "2025-06-16 11:56:26"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -2728,11 +2632,11 @@
     {
       "id": 223815385,
       "doc_id": "yl3mynuvy80d9zqh",
-      "updated": 1749892751000,
+      "updated": 1766975344000,
       "properties": {
-        "title": "CTF Show刷题",
+        "title": "（整理）CTF Show刷题",
         "date": "2025-06-14 16:02:37",
-        "updated": "2025-06-14 17:19:11"
+        "updated": "2025-12-29 10:29:04"
       },
       "catalog": [
         {
@@ -2744,18 +2648,18 @@
           "doc_id": "yl3mynuvy80d9zqh"
         }
       ],
-      "realName": "CTF Show刷题",
-      "relativePath": "/CTF Show刷题.md",
+      "realName": "（整理）CTF Show刷题",
+      "relativePath": "/（整理）CTF Show刷题.md",
       "docPath": "./source/_posts"
     },
     {
       "id": 223817894,
       "doc_id": "yw3nttgkqld6fp6u",
-      "updated": 1749890262000,
+      "updated": 1758360230000,
       "properties": {
         "title": "汇编补充知识",
         "date": "2025-06-14 16:31:46",
-        "updated": "2025-06-14 16:37:42"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -2774,11 +2678,11 @@
     {
       "id": 222958341,
       "doc_id": "eemo4g7cdxldfpst",
-      "updated": 1749382830000,
+      "updated": 1758360230000,
       "properties": {
         "title": "img文件提取文件",
         "date": "2025-06-08 19:27:05",
-        "updated": "2025-06-08 19:40:30"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -2801,11 +2705,11 @@
     {
       "id": 229614669,
       "doc_id": "zkmerh1l5ttgyz2e",
-      "updated": 1753777113000,
+      "updated": 1766976084000,
       "properties": {
         "title": "ptrace及调试",
         "date": "2025-07-26 00:32:04",
-        "updated": "2025-07-29 16:18:33"
+        "updated": "2025-12-29 10:41:24"
       },
       "catalog": [
         {
@@ -2828,11 +2732,11 @@
     {
       "id": 229601243,
       "doc_id": "scor8m97yciy7g7o",
-      "updated": 1753771597000,
+      "updated": 1766798076000,
       "properties": {
         "title": "条件竞争",
         "date": "2025-07-25 20:45:49",
-        "updated": "2025-07-29 14:46:37"
+        "updated": "2025-12-27 09:14:36"
       },
       "catalog": [
         {
@@ -2851,11 +2755,11 @@
     {
       "id": 229245008,
       "doc_id": "qed4ougx7z2g4d9d",
-      "updated": 1753345333000,
+      "updated": 1758362664000,
       "properties": {
         "title": "《程序员的自我修养》",
         "date": "2025-07-23 15:50:45",
-        "updated": "2025-07-24 16:22:13"
+        "updated": "2025-09-20 18:04:24"
       },
       "catalog": [
         {
@@ -2870,11 +2774,11 @@
     {
       "id": 229244212,
       "doc_id": "ktk94higc8fttg5t",
-      "updated": 1753341219000,
+      "updated": 1758360230000,
       "properties": {
         "title": "《深入理解计算机系统》",
         "date": "2025-07-23 15:46:38",
-        "updated": "2025-07-24 15:13:39"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -2889,11 +2793,11 @@
     {
       "id": 229207579,
       "doc_id": "ifiv1u6n4ri9wg88",
-      "updated": 1753258413000,
+      "updated": 1758360230000,
       "properties": {
         "title": "NDK",
         "date": "2025-07-23 11:21:43",
-        "updated": "2025-07-23 16:13:33"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -2912,11 +2816,11 @@
     {
       "id": 229206182,
       "doc_id": "kti0cxll05e8nsrr",
-      "updated": 1753254353000,
+      "updated": 1758360230000,
       "properties": {
         "title": "安全",
         "date": "2025-07-23 11:15:04",
-        "updated": "2025-07-23 15:05:53"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -2935,11 +2839,11 @@
     {
       "id": 228551162,
       "doc_id": "zl8hfp7fwq987ov4",
-      "updated": 1752852310000,
+      "updated": 1758360230000,
       "properties": {
         "title": "应用",
         "date": "2025-07-18 11:38:36",
-        "updated": "2025-07-18 23:25:10"
+        "updated": "2025-09-20 17:23:50"
       },
       "catalog": [
         {
@@ -2958,11 +2862,11 @@
     {
       "id": 230071791,
       "doc_id": "ug7r9eks8qh40czg",
-      "updated": 1753783185000,
+      "updated": 1766141236000,
       "properties": {
         "title": "沙盒绕过",
         "date": "2025-07-29 15:27:36",
-        "updated": "2025-07-29 17:59:45"
+        "updated": "2025-12-19 18:47:16"
       },
       "catalog": [
         {
@@ -2981,15 +2885,1877 @@
       "realName": "沙盒绕过",
       "relativePath": "/沙盒绕过.md",
       "docPath": "./source/_posts"
+    },
+    {
+      "id": 248735461,
+      "doc_id": "omo3crxpcrrc26bw",
+      "updated": 1769353318000,
+      "properties": {
+        "title": "Garhin",
+        "date": "2025-12-14 11:38:38",
+        "updated": "2026-01-25 23:01:58"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "omo3crxpcrrc26bw"
+        }
+      ],
+      "realName": "Garhin",
+      "relativePath": "/Garhin.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 244256417,
+      "doc_id": "tanbdo791ipg01zb",
+      "updated": 1766983528000,
+      "properties": {
+        "title": "MIPS",
+        "date": "2025-11-11 10:45:01",
+        "updated": "2025-12-29 12:45:28"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "tanbdo791ipg01zb"
+        },
+        {
+          "title": "PWN",
+          "doc_id": "tanbdo791ipg01zb"
+        },
+        {
+          "title": "异构pwn",
+          "doc_id": "tanbdo791ipg01zb"
+        }
+      ],
+      "realName": "MIPS",
+      "relativePath": "/MIPS.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 242921924,
+      "doc_id": "aq625dxx4qr0nfu6",
+      "updated": 1766983281000,
+      "properties": {
+        "title": "题目相关",
+        "date": "2025-11-01 14:26:41",
+        "updated": "2025-12-29 12:41:21"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "aq625dxx4qr0nfu6"
+        },
+        {
+          "title": "PWN",
+          "doc_id": "aq625dxx4qr0nfu6"
+        },
+        {
+          "title": "QEMU",
+          "doc_id": "aq625dxx4qr0nfu6"
+        }
+      ],
+      "realName": "题目相关",
+      "relativePath": "/题目相关.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 249499693,
+      "doc_id": "dh8ipsrceb52aazg",
+      "updated": 1766974459000,
+      "properties": {
+        "title": "一些函数",
+        "date": "2025-12-19 11:12:21",
+        "updated": "2025-12-29 10:14:19"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "dh8ipsrceb52aazg"
+        },
+        {
+          "title": "PWN",
+          "doc_id": "dh8ipsrceb52aazg"
+        }
+      ],
+      "realName": "一些函数",
+      "relativePath": "/一些函数.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 240095203,
+      "doc_id": "mghgqk8ywlb9rlvy",
+      "updated": 1766916663000,
+      "properties": {
+        "title": "题目相关",
+        "date": "2025-10-11 23:00:13",
+        "updated": "2025-12-28 18:11:03"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "mghgqk8ywlb9rlvy"
+        },
+        {
+          "title": "PWN",
+          "doc_id": "mghgqk8ywlb9rlvy"
+        },
+        {
+          "title": "Kernel",
+          "doc_id": "mghgqk8ywlb9rlvy"
+        }
+      ],
+      "realName": "题目相关_mghgqk8ywlb9rlvy",
+      "relativePath": "/题目相关_mghgqk8ywlb9rlvy.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 238911987,
+      "doc_id": "mzi5vu0omn09p561",
+      "updated": 1766982949000,
+      "properties": {
+        "title": "House of Cat",
+        "date": "2025-09-29 14:38:12",
+        "updated": "2025-12-29 12:35:49"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "mzi5vu0omn09p561"
+        },
+        {
+          "title": "PWN",
+          "doc_id": "mzi5vu0omn09p561"
+        },
+        {
+          "title": "堆",
+          "doc_id": "mzi5vu0omn09p561"
+        },
+        {
+          "title": "House 系列",
+          "doc_id": "mzi5vu0omn09p561"
+        }
+      ],
+      "realName": "House of Cat",
+      "relativePath": "/House of Cat.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 235370986,
+      "doc_id": "zbulhqv497yklv93",
+      "updated": 1766896010000,
+      "properties": {
+        "title": "出题相关",
+        "date": "2025-09-04 15:17:04",
+        "updated": "2025-12-28 12:26:50"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "zbulhqv497yklv93"
+        },
+        {
+          "title": "PWN",
+          "doc_id": "zbulhqv497yklv93"
+        },
+        {
+          "title": "工具相关",
+          "doc_id": "zbulhqv497yklv93"
+        }
+      ],
+      "realName": "出题相关",
+      "relativePath": "/出题相关.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 242704849,
+      "doc_id": "bz7hiuwqnrfhg4wu",
+      "updated": 1766902383000,
+      "properties": {
+        "title": "WEB PWN",
+        "date": "2025-10-30 18:47:34",
+        "updated": "2025-12-28 14:13:03"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "bz7hiuwqnrfhg4wu"
+        },
+        {
+          "title": "PWN",
+          "doc_id": "bz7hiuwqnrfhg4wu"
+        }
+      ],
+      "realName": "WEB PWN",
+      "relativePath": "/WEB PWN.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 249201395,
+      "doc_id": "wugt6cfy46yfuwsq",
+      "updated": 1766889585000,
+      "properties": {
+        "title": "KROP",
+        "date": "2025-12-17 12:28:02",
+        "updated": "2025-12-28 10:39:45"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "wugt6cfy46yfuwsq"
+        },
+        {
+          "title": "PWN",
+          "doc_id": "wugt6cfy46yfuwsq"
+        },
+        {
+          "title": "Kernel",
+          "doc_id": "wugt6cfy46yfuwsq"
+        }
+      ],
+      "realName": "KROP",
+      "relativePath": "/KROP.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 249557194,
+      "doc_id": "gg9ar58a9dp00k63",
+      "updated": 1766829051000,
+      "properties": {
+        "title": "（待办）RISC-V",
+        "date": "2025-12-19 17:11:04",
+        "updated": "2025-12-27 17:50:51"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "gg9ar58a9dp00k63"
+        },
+        {
+          "title": "PWN",
+          "doc_id": "gg9ar58a9dp00k63"
+        },
+        {
+          "title": "异构pwn",
+          "doc_id": "gg9ar58a9dp00k63"
+        }
+      ],
+      "realName": "（待办）RISC-V",
+      "relativePath": "/（待办）RISC-V.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 249379529,
+      "doc_id": "tiwg7nox2ptnsk5l",
+      "updated": 1766889633000,
+      "properties": {
+        "title": "绕过KPTI",
+        "date": "2025-12-18 14:51:16",
+        "updated": "2025-12-28 10:40:33"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "tiwg7nox2ptnsk5l"
+        },
+        {
+          "title": "PWN",
+          "doc_id": "tiwg7nox2ptnsk5l"
+        },
+        {
+          "title": "Kernel",
+          "doc_id": "tiwg7nox2ptnsk5l"
+        }
+      ],
+      "realName": "绕过KPTI",
+      "relativePath": "/绕过KPTI.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 243041316,
+      "doc_id": "gvscvknh19vbvt30",
+      "updated": 1766882902000,
+      "properties": {
+        "title": "fmt家族",
+        "date": "2025-11-02 15:43:20",
+        "updated": "2025-12-28 08:48:22"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "gvscvknh19vbvt30"
+        },
+        {
+          "title": "PWN",
+          "doc_id": "gvscvknh19vbvt30"
+        },
+        {
+          "title": "格式化字符串",
+          "doc_id": "gvscvknh19vbvt30"
+        }
+      ],
+      "realName": "fmt家族",
+      "relativePath": "/fmt家族.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 249626048,
+      "doc_id": "vqrkexpdiwbezbhc",
+      "updated": 1766800250000,
+      "properties": {
+        "title": "stdin任意写",
+        "date": "2025-12-20 10:53:18",
+        "updated": "2025-12-27 09:50:50"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "vqrkexpdiwbezbhc"
+        },
+        {
+          "title": "PWN",
+          "doc_id": "vqrkexpdiwbezbhc"
+        },
+        {
+          "title": "IO_FILE",
+          "doc_id": "vqrkexpdiwbezbhc"
+        }
+      ],
+      "realName": "stdin任意写",
+      "relativePath": "/stdin任意写.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 245047034,
+      "doc_id": "tetmhzgqm1s7beky",
+      "updated": 1766827140000,
+      "properties": {
+        "title": "盲打fmt",
+        "date": "2025-11-17 13:12:42",
+        "updated": "2025-12-27 17:19:00"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "tetmhzgqm1s7beky"
+        },
+        {
+          "title": "PWN",
+          "doc_id": "tetmhzgqm1s7beky"
+        },
+        {
+          "title": "格式化字符串",
+          "doc_id": "tetmhzgqm1s7beky"
+        }
+      ],
+      "realName": "盲打fmt",
+      "relativePath": "/盲打fmt.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 246678819,
+      "doc_id": "es6057lknftp3ywc",
+      "updated": 1766798003000,
+      "properties": {
+        "title": "stdout任意读写",
+        "date": "2025-11-29 09:41:59",
+        "updated": "2025-12-27 09:13:23"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "es6057lknftp3ywc"
+        },
+        {
+          "title": "PWN",
+          "doc_id": "es6057lknftp3ywc"
+        },
+        {
+          "title": "IO_FILE",
+          "doc_id": "es6057lknftp3ywc"
+        }
+      ],
+      "realName": "stdout任意读写",
+      "relativePath": "/stdout任意读写.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 247935691,
+      "doc_id": "hvh44faouo0gst0r",
+      "updated": 1766795712000,
+      "properties": {
+        "title": "Glibc GOT表劫持",
+        "date": "2025-12-08 18:21:32",
+        "updated": "2025-12-27 08:35:12"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "hvh44faouo0gst0r"
+        },
+        {
+          "title": "PWN",
+          "doc_id": "hvh44faouo0gst0r"
+        }
+      ],
+      "realName": "Glibc GOT表劫持",
+      "relativePath": "/Glibc GOT表劫持.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 249568194,
+      "doc_id": "cpiqcpp4h6o0rsbd",
+      "updated": 1766390497000,
+      "properties": {
+        "title": "全面ORW",
+        "date": "2025-12-19 18:47:38",
+        "updated": "2025-12-22 16:01:37"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "cpiqcpp4h6o0rsbd"
+        },
+        {
+          "title": "PWN",
+          "doc_id": "cpiqcpp4h6o0rsbd"
+        },
+        {
+          "title": "Shellcode",
+          "doc_id": "cpiqcpp4h6o0rsbd"
+        }
+      ],
+      "realName": "全面ORW",
+      "relativePath": "/全面ORW.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 249843676,
+      "doc_id": "vuqdubvev4n3dtz8",
+      "updated": 1766399086000,
+      "properties": {
+        "title": "（待办）条件竞争",
+        "date": "2025-12-22 12:50:32",
+        "updated": "2025-12-22 18:24:46"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "vuqdubvev4n3dtz8"
+        },
+        {
+          "title": "PWN",
+          "doc_id": "vuqdubvev4n3dtz8"
+        },
+        {
+          "title": "Kernel",
+          "doc_id": "vuqdubvev4n3dtz8"
+        }
+      ],
+      "realName": "（待办）条件竞争",
+      "relativePath": "/（待办）条件竞争.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 235516320,
+      "doc_id": "xsbtm1e99txcdzfg",
+      "updated": 1766212452000,
+      "properties": {
+        "title": "去码头整点linux",
+        "date": "2025-09-05 11:33:17",
+        "updated": "2025-12-20 14:34:12"
+      },
+      "catalog": [
+        {
+          "title": "环境配置",
+          "doc_id": "xsbtm1e99txcdzfg"
+        },
+        {
+          "title": "系统使用",
+          "doc_id": "xsbtm1e99txcdzfg"
+        }
+      ],
+      "realName": "去码头整点linux",
+      "relativePath": "/去码头整点linux.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 244294599,
+      "doc_id": "iz9gpuybcfiebhyo",
+      "updated": 1766201166000,
+      "properties": {
+        "title": "ret2all",
+        "date": "2025-11-11 15:24:40",
+        "updated": "2025-12-20 11:26:06"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "iz9gpuybcfiebhyo"
+        },
+        {
+          "title": "PWN",
+          "doc_id": "iz9gpuybcfiebhyo"
+        },
+        {
+          "title": "栈",
+          "doc_id": "iz9gpuybcfiebhyo"
+        },
+        {
+          "title": "ret2系列",
+          "doc_id": "iz9gpuybcfiebhyo"
+        }
+      ],
+      "realName": "ret2all",
+      "relativePath": "/ret2all.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 249628523,
+      "doc_id": "cdz68nfugiqgxs5k",
+      "updated": 1766201132000,
+      "properties": {
+        "title": "（待办）setcontext",
+        "date": "2025-12-20 11:23:53",
+        "updated": "2025-12-20 11:25:32"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "cdz68nfugiqgxs5k"
+        },
+        {
+          "title": "PWN",
+          "doc_id": "cdz68nfugiqgxs5k"
+        },
+        {
+          "title": "栈",
+          "doc_id": "cdz68nfugiqgxs5k"
+        }
+      ],
+      "realName": "（待办）setcontext",
+      "relativePath": "/（待办）setcontext.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 249582336,
+      "doc_id": "geu3l7mwc0wudo47",
+      "updated": 1766199215000,
+      "properties": {
+        "title": "（待办）io_uring",
+        "date": "2025-12-19 22:28:40",
+        "updated": "2025-12-20 10:53:35"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "geu3l7mwc0wudo47"
+        },
+        {
+          "title": "PWN",
+          "doc_id": "geu3l7mwc0wudo47"
+        },
+        {
+          "title": "Shellcode",
+          "doc_id": "geu3l7mwc0wudo47"
+        }
+      ],
+      "realName": "（待办）io_uring",
+      "relativePath": "/（待办）io_uring.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 249557017,
+      "doc_id": "icly1qa4o0dm5bfq",
+      "updated": 1766154695000,
+      "properties": {
+        "title": "（待办）ret2VDSO",
+        "date": "2025-12-19 17:10:10",
+        "updated": "2025-12-19 22:31:35"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "icly1qa4o0dm5bfq"
+        },
+        {
+          "title": "PWN",
+          "doc_id": "icly1qa4o0dm5bfq"
+        },
+        {
+          "title": "栈",
+          "doc_id": "icly1qa4o0dm5bfq"
+        },
+        {
+          "title": "ret2系列",
+          "doc_id": "icly1qa4o0dm5bfq"
+        }
+      ],
+      "realName": "（待办）ret2VDSO",
+      "relativePath": "/（待办）ret2VDSO.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 238389614,
+      "doc_id": "of8osfcazot4e671",
+      "updated": 1766127532000,
+      "properties": {
+        "title": "exit_hook劫持",
+        "date": "2025-09-25 15:32:01",
+        "updated": "2025-12-19 14:58:52"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "of8osfcazot4e671"
+        },
+        {
+          "title": "PWN",
+          "doc_id": "of8osfcazot4e671"
+        }
+      ],
+      "realName": "exit_hook劫持",
+      "relativePath": "/exit_hook劫持.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 249439616,
+      "doc_id": "gx9mhgtas02n38b3",
+      "updated": 1766135492000,
+      "properties": {
+        "title": "（待办）PowerPC",
+        "date": "2025-12-18 23:00:28",
+        "updated": "2025-12-19 17:11:32"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "gx9mhgtas02n38b3"
+        },
+        {
+          "title": "PWN",
+          "doc_id": "gx9mhgtas02n38b3"
+        },
+        {
+          "title": "异构pwn",
+          "doc_id": "gx9mhgtas02n38b3"
+        }
+      ],
+      "realName": "（待办）PowerPC",
+      "relativePath": "/（待办）PowerPC.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 249053174,
+      "doc_id": "gcthpenw1dn4ee19",
+      "updated": 1765896368000,
+      "properties": {
+        "title": "系统组成原理",
+        "date": "2025-12-16 15:09:20",
+        "updated": "2025-12-16 22:46:08"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "gcthpenw1dn4ee19"
+        },
+        {
+          "title": "PWN",
+          "doc_id": "gcthpenw1dn4ee19"
+        },
+        {
+          "title": "Kernel",
+          "doc_id": "gcthpenw1dn4ee19"
+        },
+        {
+          "title": "基础知识",
+          "doc_id": "gcthpenw1dn4ee19"
+        }
+      ],
+      "realName": "系统组成原理",
+      "relativePath": "/系统组成原理.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 248879953,
+      "doc_id": "cim9gxutai8ivr5a",
+      "updated": 1765896440000,
+      "properties": {
+        "title": "内核下载和编译",
+        "date": "2025-12-15 13:46:26",
+        "updated": "2025-12-16 22:47:20"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "cim9gxutai8ivr5a"
+        },
+        {
+          "title": "PWN",
+          "doc_id": "cim9gxutai8ivr5a"
+        },
+        {
+          "title": "Kernel",
+          "doc_id": "cim9gxutai8ivr5a"
+        },
+        {
+          "title": "环境配置相关",
+          "doc_id": "cim9gxutai8ivr5a"
+        }
+      ],
+      "realName": "内核下载和编译",
+      "relativePath": "/内核下载和编译.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 248916199,
+      "doc_id": "so6p75vyqo5gr39g",
+      "updated": 1765945648000,
+      "properties": {
+        "title": "运行与调试",
+        "date": "2025-12-15 15:51:20",
+        "updated": "2025-12-17 12:27:28"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "so6p75vyqo5gr39g"
+        },
+        {
+          "title": "PWN",
+          "doc_id": "so6p75vyqo5gr39g"
+        },
+        {
+          "title": "Kernel",
+          "doc_id": "so6p75vyqo5gr39g"
+        },
+        {
+          "title": "环境配置相关",
+          "doc_id": "so6p75vyqo5gr39g"
+        }
+      ],
+      "realName": "运行与调试",
+      "relativePath": "/运行与调试.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 240095812,
+      "doc_id": "yc23wuh9g06g5hcc",
+      "updated": 1765869806000,
+      "properties": {
+        "title": "内核基础知识",
+        "date": "2025-10-11 23:09:05",
+        "updated": "2025-12-16 15:23:26"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "yc23wuh9g06g5hcc"
+        },
+        {
+          "title": "PWN",
+          "doc_id": "yc23wuh9g06g5hcc"
+        },
+        {
+          "title": "Kernel",
+          "doc_id": "yc23wuh9g06g5hcc"
+        },
+        {
+          "title": "基础知识",
+          "doc_id": "yc23wuh9g06g5hcc"
+        }
+      ],
+      "realName": "内核基础知识",
+      "relativePath": "/内核基础知识.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 248734591,
+      "doc_id": "thmddnqm1qcuaucc",
+      "updated": 1766547565000,
+      "properties": {
+        "title": "网络协议",
+        "date": "2025-12-14 11:28:22",
+        "updated": "2025-12-24 11:39:25"
+      },
+      "catalog": [
+        {
+          "title": "Fuzz",
+          "doc_id": "thmddnqm1qcuaucc"
+        }
+      ],
+      "realName": "网络协议",
+      "relativePath": "/网络协议.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 248399675,
+      "doc_id": "tyyz3mgp2sivzzwu",
+      "updated": 1766141153000,
+      "properties": {
+        "title": "（待办）mp_结构体",
+        "date": "2025-12-11 16:17:07",
+        "updated": "2025-12-19 18:45:53"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "tyyz3mgp2sivzzwu"
+        },
+        {
+          "title": "PWN",
+          "doc_id": "tyyz3mgp2sivzzwu"
+        },
+        {
+          "title": "堆",
+          "doc_id": "tyyz3mgp2sivzzwu"
+        }
+      ],
+      "realName": "（待办）mp_结构体",
+      "relativePath": "/（待办）mp_结构体.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 248110707,
+      "doc_id": "yo7rek3kyvfnwld0",
+      "updated": 1765707461000,
+      "properties": {
+        "title": "树莓派",
+        "date": "2025-12-09 20:02:20",
+        "updated": "2025-12-14 18:17:41"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "yo7rek3kyvfnwld0"
+        },
+        {
+          "title": "PWN",
+          "doc_id": "yo7rek3kyvfnwld0"
+        },
+        {
+          "title": "IOT",
+          "doc_id": "yo7rek3kyvfnwld0"
+        }
+      ],
+      "realName": "树莓派",
+      "relativePath": "/树莓派.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 245368268,
+      "doc_id": "uwwypdyezc1n7c02",
+      "updated": 1765280822000,
+      "properties": {
+        "title": "Rust",
+        "date": "2025-11-19 14:00:02",
+        "updated": "2025-12-09 19:47:02"
+      },
+      "catalog": [
+        {
+          "title": "语言",
+          "doc_id": "uwwypdyezc1n7c02"
+        }
+      ],
+      "realName": "Rust",
+      "relativePath": "/Rust.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 245129359,
+      "doc_id": "yuagqdghn2a53iq1",
+      "updated": 1765100052000,
+      "properties": {
+        "title": "ESP32",
+        "date": "2025-11-17 21:48:06",
+        "updated": "2025-12-07 17:34:12"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "yuagqdghn2a53iq1"
+        },
+        {
+          "title": "PWN",
+          "doc_id": "yuagqdghn2a53iq1"
+        },
+        {
+          "title": "IOT",
+          "doc_id": "yuagqdghn2a53iq1"
+        }
+      ],
+      "realName": "ESP32",
+      "relativePath": "/ESP32.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 247369815,
+      "doc_id": "my1k2qwenrygbo4e",
+      "updated": 1766135559000,
+      "properties": {
+        "title": "RUST PWN",
+        "date": "2025-12-04 12:03:17",
+        "updated": "2025-12-19 17:12:39"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "my1k2qwenrygbo4e"
+        },
+        {
+          "title": "PWN",
+          "doc_id": "my1k2qwenrygbo4e"
+        }
+      ],
+      "realName": "RUST PWN",
+      "relativePath": "/RUST PWN.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 246325120,
+      "doc_id": "rzbn6dzg5v6dt2uy",
+      "updated": 1765185508000,
+      "properties": {
+        "title": "House of Banana",
+        "date": "2025-11-26 18:14:49",
+        "updated": "2025-12-08 17:18:28"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "rzbn6dzg5v6dt2uy"
+        },
+        {
+          "title": "PWN",
+          "doc_id": "rzbn6dzg5v6dt2uy"
+        },
+        {
+          "title": "堆",
+          "doc_id": "rzbn6dzg5v6dt2uy"
+        },
+        {
+          "title": "House 系列",
+          "doc_id": "rzbn6dzg5v6dt2uy"
+        }
+      ],
+      "realName": "House of Banana",
+      "relativePath": "/House of Banana.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 245269613,
+      "doc_id": "mrpw426za3lgx8uv",
+      "updated": 1764908312000,
+      "properties": {
+        "title": "GO",
+        "date": "2025-11-18 19:05:11",
+        "updated": "2025-12-05 12:18:32"
+      },
+      "catalog": [
+        {
+          "title": "语言",
+          "doc_id": "mrpw426za3lgx8uv"
+        }
+      ],
+      "realName": "GO",
+      "relativePath": "/GO.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 246935792,
+      "doc_id": "qq8di7n0yhce6yfp",
+      "updated": 1764575009000,
+      "properties": {
+        "title": "渗透相关工具",
+        "date": "2025-12-01 15:21:16",
+        "updated": "2025-12-01 15:43:29"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "qq8di7n0yhce6yfp"
+        },
+        {
+          "title": "Web",
+          "doc_id": "qq8di7n0yhce6yfp"
+        }
+      ],
+      "realName": "渗透相关工具",
+      "relativePath": "/渗透相关工具.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 246188508,
+      "doc_id": "vyzbxxygc7y0xw8t",
+      "updated": 1764148606000,
+      "properties": {
+        "title": "MQTT",
+        "date": "2025-11-25 19:46:29",
+        "updated": "2025-11-26 17:16:46"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "vyzbxxygc7y0xw8t"
+        },
+        {
+          "title": "PWN",
+          "doc_id": "vyzbxxygc7y0xw8t"
+        },
+        {
+          "title": "IOT",
+          "doc_id": "vyzbxxygc7y0xw8t"
+        }
+      ],
+      "realName": "MQTT",
+      "relativePath": "/MQTT.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 246185224,
+      "doc_id": "gy110qyg53im3pzv",
+      "updated": 1764069774000,
+      "properties": {
+        "title": "逆向工具",
+        "date": "2025-11-25 19:07:21",
+        "updated": "2025-11-25 19:22:54"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "gy110qyg53im3pzv"
+        },
+        {
+          "title": "Reverse",
+          "doc_id": "gy110qyg53im3pzv"
+        },
+        {
+          "title": "安卓",
+          "doc_id": "gy110qyg53im3pzv"
+        }
+      ],
+      "realName": "逆向工具",
+      "relativePath": "/逆向工具.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 244741405,
+      "doc_id": "rn2u8kusatyn1lpc",
+      "updated": 1763387254000,
+      "properties": {
+        "title": "BinaryNinja安装",
+        "date": "2025-11-14 15:25:03",
+        "updated": "2025-11-17 21:47:34"
+      },
+      "catalog": [
+        {
+          "title": "环境配置",
+          "doc_id": "rn2u8kusatyn1lpc"
+        }
+      ],
+      "realName": "BinaryNinja安装",
+      "relativePath": "/BinaryNinja安装.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 244013884,
+      "doc_id": "kid99rwziq74oxh4",
+      "updated": 1763022872000,
+      "properties": {
+        "title": "ROP注意点",
+        "date": "2025-11-09 14:33:23",
+        "updated": "2025-11-13 16:34:32"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "kid99rwziq74oxh4"
+        },
+        {
+          "title": "PWN",
+          "doc_id": "kid99rwziq74oxh4"
+        },
+        {
+          "title": "异构pwn",
+          "doc_id": "kid99rwziq74oxh4"
+        }
+      ],
+      "realName": "ROP注意点",
+      "relativePath": "/ROP注意点.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 244300232,
+      "doc_id": "qhmhkc076m1rlb2w",
+      "updated": 1762847879000,
+      "properties": {
+        "title": "VM PWN",
+        "date": "2025-11-11 15:56:19",
+        "updated": "2025-11-11 15:57:59"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "qhmhkc076m1rlb2w"
+        },
+        {
+          "title": "PWN",
+          "doc_id": "qhmhkc076m1rlb2w"
+        },
+        {
+          "title": "Shellcode",
+          "doc_id": "qhmhkc076m1rlb2w"
+        }
+      ],
+      "realName": "VM PWN",
+      "relativePath": "/VM PWN.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 240166836,
+      "doc_id": "rm9d5vgvhmrko7c9",
+      "updated": 1765707403000,
+      "properties": {
+        "title": "高版本技巧",
+        "date": "2025-10-12 16:25:11",
+        "updated": "2025-12-14 18:16:43"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "rm9d5vgvhmrko7c9"
+        },
+        {
+          "title": "PWN",
+          "doc_id": "rm9d5vgvhmrko7c9"
+        },
+        {
+          "title": "栈",
+          "doc_id": "rm9d5vgvhmrko7c9"
+        }
+      ],
+      "realName": "高版本技巧",
+      "relativePath": "/高版本技巧.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 244296971,
+      "doc_id": "gwpcz9dcfbh4q4yn",
+      "updated": 1766796989000,
+      "properties": {
+        "title": "内网穿透实现SSH",
+        "date": "2025-11-11 15:37:57",
+        "updated": "2025-12-27 08:56:29"
+      },
+      "catalog": [
+        {
+          "title": "环境配置",
+          "doc_id": "gwpcz9dcfbh4q4yn"
+        }
+      ],
+      "realName": "内网穿透实现SSH",
+      "relativePath": "/内网穿透实现SSH.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 244294272,
+      "doc_id": "fw276u4k9e48v6y7",
+      "updated": 1764675593000,
+      "properties": {
+        "title": "堆利用题目点",
+        "date": "2025-11-11 15:23:05",
+        "updated": "2025-12-02 19:39:53"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "fw276u4k9e48v6y7"
+        },
+        {
+          "title": "PWN",
+          "doc_id": "fw276u4k9e48v6y7"
+        },
+        {
+          "title": "堆",
+          "doc_id": "fw276u4k9e48v6y7"
+        }
+      ],
+      "realName": "堆利用题目点",
+      "relativePath": "/堆利用题目点.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 243656867,
+      "doc_id": "rk4flrcggry7sal7",
+      "updated": 1762778871000,
+      "properties": {
+        "title": "SQL注入",
+        "date": "2025-11-06 14:59:43",
+        "updated": "2025-11-10 20:47:51"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "rk4flrcggry7sal7"
+        },
+        {
+          "title": "Web",
+          "doc_id": "rk4flrcggry7sal7"
+        },
+        {
+          "title": "SQL",
+          "doc_id": "rk4flrcggry7sal7"
+        }
+      ],
+      "realName": "SQL注入",
+      "relativePath": "/SQL注入.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 243853562,
+      "doc_id": "doaqs99gae3ra1eg",
+      "updated": 1762526646000,
+      "properties": {
+        "title": "Sqli-labs本地部署",
+        "date": "2025-11-07 22:18:23",
+        "updated": "2025-11-07 22:44:06"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "doaqs99gae3ra1eg"
+        },
+        {
+          "title": "Web",
+          "doc_id": "doaqs99gae3ra1eg"
+        },
+        {
+          "title": "SQL",
+          "doc_id": "doaqs99gae3ra1eg"
+        }
+      ],
+      "realName": "Sqli-labs本地部署",
+      "relativePath": "/Sqli-labs本地部署.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 244020156,
+      "doc_id": "mo25q1adgvov1y15",
+      "updated": 1762777919000,
+      "properties": {
+        "title": "工具",
+        "date": "2025-11-09 15:45:56",
+        "updated": "2025-11-10 20:31:59"
+      },
+      "catalog": [
+        {
+          "title": "车联网",
+          "doc_id": "mo25q1adgvov1y15"
+        }
+      ],
+      "realName": "工具",
+      "relativePath": "/工具.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 243326750,
+      "doc_id": "figq7z9agz7csakg",
+      "updated": 1762493602000,
+      "properties": {
+        "title": "SQL语句",
+        "date": "2025-11-04 14:06:13",
+        "updated": "2025-11-07 13:33:22"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "figq7z9agz7csakg"
+        },
+        {
+          "title": "Web",
+          "doc_id": "figq7z9agz7csakg"
+        },
+        {
+          "title": "SQL",
+          "doc_id": "figq7z9agz7csakg"
+        }
+      ],
+      "realName": "SQL语句",
+      "relativePath": "/SQL语句.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 239876664,
+      "doc_id": "gpr9mg4iyw71dn8l",
+      "updated": 1761824562000,
+      "properties": {
+        "title": "符号表恢复",
+        "date": "2025-10-10 12:29:39",
+        "updated": "2025-10-30 19:42:42"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "gpr9mg4iyw71dn8l"
+        },
+        {
+          "title": "Reverse",
+          "doc_id": "gpr9mg4iyw71dn8l"
+        }
+      ],
+      "realName": "符号表恢复",
+      "relativePath": "/符号表恢复.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 238734562,
+      "doc_id": "xt1qe5ch7vsr5sxk",
+      "updated": 1766149289000,
+      "properties": {
+        "title": "（待办）GLIBC 2.35",
+        "date": "2025-09-28 10:36:00",
+        "updated": "2025-12-19 21:01:29"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "xt1qe5ch7vsr5sxk"
+        },
+        {
+          "title": "PWN",
+          "doc_id": "xt1qe5ch7vsr5sxk"
+        },
+        {
+          "title": "堆",
+          "doc_id": "xt1qe5ch7vsr5sxk"
+        },
+        {
+          "title": "How2heap",
+          "doc_id": "xt1qe5ch7vsr5sxk"
+        }
+      ],
+      "realName": "（待办）GLIBC 2.35",
+      "relativePath": "/（待办）GLIBC 2.35.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 241008933,
+      "doc_id": "dzpiukl314lp4udn",
+      "updated": 1766135145000,
+      "properties": {
+        "title": "musl-C和glibc",
+        "date": "2025-10-18 09:35:28",
+        "updated": "2025-12-19 17:05:45"
+      },
+      "catalog": [
+        {
+          "title": "语言",
+          "doc_id": "dzpiukl314lp4udn"
+        },
+        {
+          "title": "C语言文学",
+          "doc_id": "dzpiukl314lp4udn"
+        }
+      ],
+      "realName": "musl-C和glibc",
+      "relativePath": "/musl-C和glibc.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 240448689,
+      "doc_id": "bfsu4o0atghvzlir",
+      "updated": 1760424039000,
+      "properties": {
+        "title": "羊城杯PWN WP",
+        "date": "2025-10-14 14:21:34",
+        "updated": "2025-10-14 14:40:39"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "bfsu4o0atghvzlir"
+        },
+        {
+          "title": "Writeup",
+          "doc_id": "bfsu4o0atghvzlir"
+        }
+      ],
+      "realName": "羊城杯PWN WP",
+      "relativePath": "/羊城杯PWN WP.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 235517668,
+      "doc_id": "lfd9gg5tdaql0x54",
+      "updated": 1765954870000,
+      "properties": {
+        "title": "How2heap",
+        "date": "2025-09-05 11:41:21",
+        "updated": "2025-12-17 15:01:10"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "lfd9gg5tdaql0x54"
+        },
+        {
+          "title": "PWN",
+          "doc_id": "lfd9gg5tdaql0x54"
+        },
+        {
+          "title": "堆",
+          "doc_id": "lfd9gg5tdaql0x54"
+        }
+      ],
+      "realName": "How2heap",
+      "relativePath": "/How2heap.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 239755883,
+      "doc_id": "wxvzu12d0oyp5d2w",
+      "updated": 1760015090000,
+      "properties": {
+        "title": "手脱逆向壳",
+        "date": "2025-10-09 15:56:49",
+        "updated": "2025-10-09 21:04:50"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "wxvzu12d0oyp5d2w"
+        },
+        {
+          "title": "Reverse",
+          "doc_id": "wxvzu12d0oyp5d2w"
+        }
+      ],
+      "realName": "手脱逆向壳",
+      "relativePath": "/手脱逆向壳.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 235517747,
+      "doc_id": "sqhke8oeud14n8qk",
+      "updated": 1759591862000,
+      "properties": {
+        "title": "GLIBC 2.39",
+        "date": "2025-09-05 11:41:56",
+        "updated": "2025-10-04 23:31:02"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "sqhke8oeud14n8qk"
+        },
+        {
+          "title": "PWN",
+          "doc_id": "sqhke8oeud14n8qk"
+        },
+        {
+          "title": "堆",
+          "doc_id": "sqhke8oeud14n8qk"
+        },
+        {
+          "title": "How2heap",
+          "doc_id": "sqhke8oeud14n8qk"
+        }
+      ],
+      "realName": "GLIBC 2.39",
+      "relativePath": "/GLIBC 2.39.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 237035032,
+      "doc_id": "ch62fne8ys0ofgay",
+      "updated": 1758360230000,
+      "properties": {
+        "title": "C++异常处理",
+        "date": "2025-09-16 15:11:07",
+        "updated": "2025-09-20 17:23:50"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "ch62fne8ys0ofgay"
+        },
+        {
+          "title": "PWN",
+          "doc_id": "ch62fne8ys0ofgay"
+        },
+        {
+          "title": "C++",
+          "doc_id": "ch62fne8ys0ofgay"
+        }
+      ],
+      "realName": "C++异常处理",
+      "relativePath": "/C++异常处理.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 235892269,
+      "doc_id": "gs0pn88ale9hwko4",
+      "updated": 1758360230000,
+      "properties": {
+        "title": "湾区杯WP",
+        "date": "2025-09-08 15:22:54",
+        "updated": "2025-09-20 17:23:50"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "gs0pn88ale9hwko4"
+        },
+        {
+          "title": "Writeup",
+          "doc_id": "gs0pn88ale9hwko4"
+        }
+      ],
+      "realName": "湾区杯WP",
+      "relativePath": "/湾区杯WP.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 235642375,
+      "doc_id": "ibatyfek2t5q4tkf",
+      "updated": 1758360230000,
+      "properties": {
+        "title": "暑假训练营结营赛WP",
+        "date": "2025-09-06 12:13:54",
+        "updated": "2025-09-20 17:23:50"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "ibatyfek2t5q4tkf"
+        },
+        {
+          "title": "Writeup",
+          "doc_id": "ibatyfek2t5q4tkf"
+        }
+      ],
+      "realName": "暑假训练营结营赛WP",
+      "relativePath": "/暑假训练营结营赛WP.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 235511292,
+      "doc_id": "cb3whi86cvlvaqmk",
+      "updated": 1760011900000,
+      "properties": {
+        "title": "Godot逆向",
+        "date": "2025-09-05 11:03:48",
+        "updated": "2025-10-09 20:11:40"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "cb3whi86cvlvaqmk"
+        },
+        {
+          "title": "Reverse",
+          "doc_id": "cb3whi86cvlvaqmk"
+        }
+      ],
+      "realName": "Godot逆向",
+      "relativePath": "/Godot逆向.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 235509559,
+      "doc_id": "aqtqyxeqtmqrwlps",
+      "updated": 1758360230000,
+      "properties": {
+        "title": "磐石行动AWD",
+        "date": "2025-09-05 10:54:11",
+        "updated": "2025-09-20 17:23:50"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "aqtqyxeqtmqrwlps"
+        },
+        {
+          "title": "Writeup",
+          "doc_id": "aqtqyxeqtmqrwlps"
+        }
+      ],
+      "realName": "磐石行动AWD",
+      "relativePath": "/磐石行动AWD.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 235502893,
+      "doc_id": "deydihguzi6x0pug",
+      "updated": 1758360230000,
+      "properties": {
+        "title": "AWD-PWN",
+        "date": "2025-09-05 10:17:53",
+        "updated": "2025-09-20 17:23:50"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "deydihguzi6x0pug"
+        },
+        {
+          "title": "PWN",
+          "doc_id": "deydihguzi6x0pug"
+        }
+      ],
+      "realName": "AWD-PWN",
+      "relativePath": "/AWD-PWN.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 235388522,
+      "doc_id": "lu2gnap5xwgk50yu",
+      "updated": 1765707395000,
+      "properties": {
+        "title": "花式栈溢出",
+        "date": "2025-09-04 16:48:43",
+        "updated": "2025-12-14 18:16:35"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "lu2gnap5xwgk50yu"
+        },
+        {
+          "title": "PWN",
+          "doc_id": "lu2gnap5xwgk50yu"
+        },
+        {
+          "title": "栈",
+          "doc_id": "lu2gnap5xwgk50yu"
+        }
+      ],
+      "realName": "花式栈溢出",
+      "relativePath": "/花式栈溢出.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 235497733,
+      "doc_id": "zpd8d4s57o3wnyy0",
+      "updated": 1758360230000,
+      "properties": {
+        "title": "LilCTF 2025",
+        "date": "2025-09-05 09:48:51",
+        "updated": "2025-09-20 17:23:50"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "zpd8d4s57o3wnyy0"
+        },
+        {
+          "title": "Writeup",
+          "doc_id": "zpd8d4s57o3wnyy0"
+        }
+      ],
+      "realName": "LilCTF 2025",
+      "relativePath": "/LilCTF 2025.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 235382206,
+      "doc_id": "trg5buabel53sc6c",
+      "updated": 1758360230000,
+      "properties": {
+        "title": "MoeCTF 2025",
+        "date": "2025-09-04 16:14:46",
+        "updated": "2025-09-20 17:23:50"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "trg5buabel53sc6c"
+        },
+        {
+          "title": "Writeup",
+          "doc_id": "trg5buabel53sc6c"
+        }
+      ],
+      "realName": "MoeCTF 2025",
+      "relativePath": "/MoeCTF 2025.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 235376456,
+      "doc_id": "vx1xggyhk3d6tfy7",
+      "updated": 1766141134000,
+      "properties": {
+        "title": "（待办）ret2dlresolve",
+        "date": "2025-09-04 15:44:50",
+        "updated": "2025-12-19 18:45:34"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "vx1xggyhk3d6tfy7"
+        },
+        {
+          "title": "PWN",
+          "doc_id": "vx1xggyhk3d6tfy7"
+        },
+        {
+          "title": "栈",
+          "doc_id": "vx1xggyhk3d6tfy7"
+        },
+        {
+          "title": "ret2系列",
+          "doc_id": "vx1xggyhk3d6tfy7"
+        }
+      ],
+      "realName": "（待办）ret2dlresolve",
+      "relativePath": "/（待办）ret2dlresolve.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 235038951,
+      "doc_id": "si8l4dnoiif2f404",
+      "updated": 1765707260000,
+      "properties": {
+        "title": "技巧",
+        "date": "2025-09-02 19:08:35",
+        "updated": "2025-12-14 18:14:20"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "si8l4dnoiif2f404"
+        },
+        {
+          "title": "PWN",
+          "doc_id": "si8l4dnoiif2f404"
+        },
+        {
+          "title": "Shellcode",
+          "doc_id": "si8l4dnoiif2f404"
+        }
+      ],
+      "realName": "技巧",
+      "relativePath": "/技巧.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 230209078,
+      "doc_id": "tg1vihabznes6ipm",
+      "updated": 1758360230000,
+      "properties": {
+        "title": "NepCTF PWN",
+        "date": "2025-07-30 13:49:20",
+        "updated": "2025-09-20 17:23:50"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "tg1vihabznes6ipm"
+        },
+        {
+          "title": "Writeup",
+          "doc_id": "tg1vihabznes6ipm"
+        }
+      ],
+      "realName": "NepCTF PWN",
+      "relativePath": "/NepCTF PWN.md",
+      "docPath": "./source/_posts"
+    },
+    {
+      "id": 230389727,
+      "doc_id": "df3ocvgupry7vcw4",
+      "updated": 1765707400000,
+      "properties": {
+        "title": "alloca函数",
+        "date": "2025-07-31 14:25:47",
+        "updated": "2025-12-14 18:16:40"
+      },
+      "catalog": [
+        {
+          "title": "CTF（主PWN）",
+          "doc_id": "df3ocvgupry7vcw4"
+        },
+        {
+          "title": "PWN",
+          "doc_id": "df3ocvgupry7vcw4"
+        },
+        {
+          "title": "栈",
+          "doc_id": "df3ocvgupry7vcw4"
+        }
+      ],
+      "realName": "alloca函数",
+      "relativePath": "/alloca函数.md",
+      "docPath": "./source/_posts"
     }
   ],
   "catalog": [
     {
       "type": "TITLE",
+      "title": "Fuzz",
+      "uuid": "vqPDlBOEcVGzmGj5",
+      "url": "",
+      "prev_uuid": "",
+      "sibling_uuid": "xIhm1aHwL5vwFTiQ",
+      "child_uuid": "H_yyJaHHxRRy6xVS",
+      "parent_uuid": "",
+      "doc_id": "",
+      "level": 0,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "网络协议",
+      "uuid": "H_yyJaHHxRRy6xVS",
+      "url": "thmddnqm1qcuaucc",
+      "prev_uuid": "vqPDlBOEcVGzmGj5",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "vqPDlBOEcVGzmGj5",
+      "doc_id": 248734591,
+      "level": 1,
+      "id": 248734591,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "车联网",
+      "uuid": "xIhm1aHwL5vwFTiQ",
+      "url": "",
+      "prev_uuid": "vqPDlBOEcVGzmGj5",
+      "sibling_uuid": "iX8sIp5xl-Ju0J4O",
+      "child_uuid": "Fg6PfZCXQS6Uw2hn",
+      "parent_uuid": "",
+      "doc_id": "",
+      "level": 0,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "工具",
+      "uuid": "Fg6PfZCXQS6Uw2hn",
+      "url": "mo25q1adgvov1y15",
+      "prev_uuid": "xIhm1aHwL5vwFTiQ",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "xIhm1aHwL5vwFTiQ",
+      "doc_id": 244020156,
+      "level": 1,
+      "id": 244020156,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
       "title": "CS",
       "uuid": "iX8sIp5xl-Ju0J4O",
       "url": "",
-      "prev_uuid": "",
+      "prev_uuid": "xIhm1aHwL5vwFTiQ",
       "sibling_uuid": "58797474:9qd0flLS0Mtz_PbX",
       "child_uuid": "W_2Mn0rpX6EMGo1u",
       "parent_uuid": "",
@@ -3036,7 +4802,7 @@
       "url": "",
       "prev_uuid": "iX8sIp5xl-Ju0J4O",
       "sibling_uuid": "58797474:cz_tEQ4ixfoDKoWd",
-      "child_uuid": "hDWRbCwu9nU1ATNi",
+      "child_uuid": "8wK2Bzpxhiw_qXdU",
       "parent_uuid": "",
       "doc_id": "",
       "level": 0,
@@ -3045,11 +4811,41 @@
       "visible": 1
     },
     {
+      "type": "DOC",
+      "title": "GO",
+      "uuid": "8wK2Bzpxhiw_qXdU",
+      "url": "mrpw426za3lgx8uv",
+      "prev_uuid": "58797474:9qd0flLS0Mtz_PbX",
+      "sibling_uuid": "6G8GrXK2b1SatMVy",
+      "child_uuid": "",
+      "parent_uuid": "58797474:9qd0flLS0Mtz_PbX",
+      "doc_id": 245269613,
+      "level": 1,
+      "id": 245269613,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Rust",
+      "uuid": "6G8GrXK2b1SatMVy",
+      "url": "uwwypdyezc1n7c02",
+      "prev_uuid": "8wK2Bzpxhiw_qXdU",
+      "sibling_uuid": "hDWRbCwu9nU1ATNi",
+      "child_uuid": "",
+      "parent_uuid": "58797474:9qd0flLS0Mtz_PbX",
+      "doc_id": 245368268,
+      "level": 1,
+      "id": 245368268,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
       "type": "TITLE",
       "title": "鸿蒙",
       "uuid": "hDWRbCwu9nU1ATNi",
       "url": "",
-      "prev_uuid": "58797474:9qd0flLS0Mtz_PbX",
+      "prev_uuid": "6G8GrXK2b1SatMVy",
       "sibling_uuid": "58797474:M6qqMehvEsIcR9hv",
       "child_uuid": "1ldSFnItXaUXeeUw",
       "parent_uuid": "58797474:9qd0flLS0Mtz_PbX",
@@ -3231,11 +5027,26 @@
       "url": "uaftrk9xhaoesx5c",
       "prev_uuid": "58797474:M6qqMehvEsIcR9hv",
       "sibling_uuid": "58797474:vXnoDVw7FeFBnGV-",
-      "child_uuid": "",
+      "child_uuid": "xUvlOYzWoKMN95SU",
       "parent_uuid": "58797474:9qd0flLS0Mtz_PbX",
       "doc_id": 197937252,
       "level": 1,
       "id": 197937252,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "musl-C和glibc",
+      "uuid": "xUvlOYzWoKMN95SU",
+      "url": "dzpiukl314lp4udn",
+      "prev_uuid": "58797474:kja05QEQl9J-WkXy",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "58797474:kja05QEQl9J-WkXy",
+      "doc_id": 241008933,
+      "level": 2,
+      "id": 241008933,
       "open_window": 1,
       "visible": 1
     },
@@ -3306,7 +5117,7 @@
       "url": "",
       "prev_uuid": "58797474:9qd0flLS0Mtz_PbX",
       "sibling_uuid": "58797474:4wNUGzQFItoDabFM",
-      "child_uuid": "58797474:KH6rG50NFw-cJLyX",
+      "child_uuid": "3Gv1K4Sp09bDU-CY",
       "parent_uuid": "",
       "doc_id": "",
       "level": 0,
@@ -3316,10 +5127,40 @@
     },
     {
       "type": "DOC",
+      "title": "BinaryNinja安装",
+      "uuid": "3Gv1K4Sp09bDU-CY",
+      "url": "rn2u8kusatyn1lpc",
+      "prev_uuid": "58797474:cz_tEQ4ixfoDKoWd",
+      "sibling_uuid": "5OSnRp1dpewyeFqm",
+      "child_uuid": "",
+      "parent_uuid": "58797474:cz_tEQ4ixfoDKoWd",
+      "doc_id": 244741405,
+      "level": 1,
+      "id": 244741405,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "内网穿透实现SSH",
+      "uuid": "5OSnRp1dpewyeFqm",
+      "url": "gwpcz9dcfbh4q4yn",
+      "prev_uuid": "3Gv1K4Sp09bDU-CY",
+      "sibling_uuid": "58797474:KH6rG50NFw-cJLyX",
+      "child_uuid": "",
+      "parent_uuid": "58797474:cz_tEQ4ixfoDKoWd",
+      "doc_id": 244296971,
+      "level": 1,
+      "id": 244296971,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
       "title": "常用快捷键",
       "uuid": "58797474:KH6rG50NFw-cJLyX",
       "url": "sphgkwutpggzmesq",
-      "prev_uuid": "58797474:cz_tEQ4ixfoDKoWd",
+      "prev_uuid": "5OSnRp1dpewyeFqm",
       "sibling_uuid": "58797474:rtPVL2Y9sKq_APJs",
       "child_uuid": "",
       "parent_uuid": "58797474:cz_tEQ4ixfoDKoWd",
@@ -3380,7 +5221,7 @@
       "uuid": "-0Kop9aCpNz-dgbm",
       "url": "nghv5xik0xv73ons",
       "prev_uuid": "58797474:QAiLFwNp5kYBkiKf",
-      "sibling_uuid": "58797474:JdztDpS1s5Of5IO4",
+      "sibling_uuid": "FINFaz14mIioudLT",
       "child_uuid": "",
       "parent_uuid": "58797474:QAiLFwNp5kYBkiKf",
       "doc_id": 214771800,
@@ -3391,10 +5232,25 @@
     },
     {
       "type": "DOC",
+      "title": "去码头整点linux",
+      "uuid": "FINFaz14mIioudLT",
+      "url": "xsbtm1e99txcdzfg",
+      "prev_uuid": "-0Kop9aCpNz-dgbm",
+      "sibling_uuid": "58797474:JdztDpS1s5Of5IO4",
+      "child_uuid": "",
+      "parent_uuid": "58797474:QAiLFwNp5kYBkiKf",
+      "doc_id": 235516320,
+      "level": 2,
+      "id": 235516320,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
       "title": "Linux",
       "uuid": "58797474:JdztDpS1s5Of5IO4",
       "url": "tkcxrofgxwa1g146",
-      "prev_uuid": "-0Kop9aCpNz-dgbm",
+      "prev_uuid": "FINFaz14mIioudLT",
       "sibling_uuid": "",
       "child_uuid": "",
       "parent_uuid": "58797474:QAiLFwNp5kYBkiKf",
@@ -3486,7 +5342,7 @@
       "url": "",
       "prev_uuid": "58797474:cz_tEQ4ixfoDKoWd",
       "sibling_uuid": "jY0Xgt9wmBBwsAGc",
-      "child_uuid": "58797474:VypYqqZmzaVjQkgy",
+      "child_uuid": "0ntp_VDF8_JtdwmJ",
       "parent_uuid": "",
       "doc_id": "",
       "level": 0,
@@ -3495,13 +5351,28 @@
       "visible": 1
     },
     {
+      "type": "DOC",
+      "title": "Garhin",
+      "uuid": "0ntp_VDF8_JtdwmJ",
+      "url": "omo3crxpcrrc26bw",
+      "prev_uuid": "58797474:4wNUGzQFItoDabFM",
+      "sibling_uuid": "58797474:VypYqqZmzaVjQkgy",
+      "child_uuid": "",
+      "parent_uuid": "58797474:4wNUGzQFItoDabFM",
+      "doc_id": 248735461,
+      "level": 1,
+      "id": 248735461,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
       "type": "TITLE",
       "title": "Web",
       "uuid": "58797474:VypYqqZmzaVjQkgy",
       "url": "",
-      "prev_uuid": "58797474:4wNUGzQFItoDabFM",
+      "prev_uuid": "0ntp_VDF8_JtdwmJ",
       "sibling_uuid": "58797474:W8sRDyhS6mIH_JS9",
-      "child_uuid": "58797474:5SHW_MLtuazXDlcH",
+      "child_uuid": "iiyclieV6BAIox9h",
       "parent_uuid": "58797474:4wNUGzQFItoDabFM",
       "doc_id": "",
       "level": 1,
@@ -3510,11 +5381,116 @@
       "visible": 1
     },
     {
+      "type": "TITLE",
+      "title": "渗透测试",
+      "uuid": "iiyclieV6BAIox9h",
+      "url": "",
+      "prev_uuid": "58797474:VypYqqZmzaVjQkgy",
+      "sibling_uuid": "_5TBL-RJHjO2nq4f",
+      "child_uuid": "7ruOnbVRPUCx9Brq",
+      "parent_uuid": "58797474:VypYqqZmzaVjQkgy",
+      "doc_id": "",
+      "level": 2,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "提权",
+      "uuid": "7ruOnbVRPUCx9Brq",
+      "url": "vslb9m3qmvfng9ms",
+      "prev_uuid": "iiyclieV6BAIox9h",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "iiyclieV6BAIox9h",
+      "doc_id": 214793932,
+      "level": 3,
+      "id": 214793932,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "渗透相关工具",
+      "uuid": "_5TBL-RJHjO2nq4f",
+      "url": "qq8di7n0yhce6yfp",
+      "prev_uuid": "iiyclieV6BAIox9h",
+      "sibling_uuid": "1fbqk1yZnu640Ew1",
+      "child_uuid": "",
+      "parent_uuid": "58797474:VypYqqZmzaVjQkgy",
+      "doc_id": 246935792,
+      "level": 2,
+      "id": 246935792,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "SQL",
+      "uuid": "1fbqk1yZnu640Ew1",
+      "url": "",
+      "prev_uuid": "_5TBL-RJHjO2nq4f",
+      "sibling_uuid": "58797474:5SHW_MLtuazXDlcH",
+      "child_uuid": "2oaPwbNel0xBolmf",
+      "parent_uuid": "58797474:VypYqqZmzaVjQkgy",
+      "doc_id": "",
+      "level": 2,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Sqli-labs本地部署",
+      "uuid": "2oaPwbNel0xBolmf",
+      "url": "doaqs99gae3ra1eg",
+      "prev_uuid": "1fbqk1yZnu640Ew1",
+      "sibling_uuid": "1d0Z6c_F3jKg4jK8",
+      "child_uuid": "",
+      "parent_uuid": "1fbqk1yZnu640Ew1",
+      "doc_id": 243853562,
+      "level": 3,
+      "id": 243853562,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "SQL语句",
+      "uuid": "1d0Z6c_F3jKg4jK8",
+      "url": "figq7z9agz7csakg",
+      "prev_uuid": "2oaPwbNel0xBolmf",
+      "sibling_uuid": "sy3QejKn8wHhIMqV",
+      "child_uuid": "",
+      "parent_uuid": "1fbqk1yZnu640Ew1",
+      "doc_id": 243326750,
+      "level": 3,
+      "id": 243326750,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "SQL注入",
+      "uuid": "sy3QejKn8wHhIMqV",
+      "url": "rk4flrcggry7sal7",
+      "prev_uuid": "1d0Z6c_F3jKg4jK8",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "1fbqk1yZnu640Ew1",
+      "doc_id": 243656867,
+      "level": 3,
+      "id": 243656867,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
       "type": "DOC",
       "title": "SSL",
       "uuid": "58797474:5SHW_MLtuazXDlcH",
       "url": "eeqnslx5vrzssgsi",
-      "prev_uuid": "58797474:VypYqqZmzaVjQkgy",
+      "prev_uuid": "1fbqk1yZnu640Ew1",
       "sibling_uuid": "",
       "child_uuid": "",
       "parent_uuid": "58797474:VypYqqZmzaVjQkgy",
@@ -3576,7 +5552,7 @@
       "url": "",
       "prev_uuid": "58797474:W8sRDyhS6mIH_JS9",
       "sibling_uuid": "58797474:7mpdDfY_vUjyNGRq",
-      "child_uuid": "58797474:ZVpwCHZ8Om3XZaqc",
+      "child_uuid": "AKbnPevOdbHgVyWE",
       "parent_uuid": "58797474:4wNUGzQFItoDabFM",
       "doc_id": "",
       "level": 1,
@@ -3585,11 +5561,102 @@
       "visible": 1
     },
     {
+      "type": "TITLE",
+      "title": "安卓",
+      "uuid": "AKbnPevOdbHgVyWE",
+      "url": "",
+      "prev_uuid": "58797474:mOB8p6WR75oRd_1T",
+      "sibling_uuid": "5j7z9HOAeUD3XPEu",
+      "child_uuid": "ocZ9MGsejfNi1vQ5",
+      "parent_uuid": "58797474:mOB8p6WR75oRd_1T",
+      "doc_id": "",
+      "level": 2,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "逆向工具",
+      "uuid": "ocZ9MGsejfNi1vQ5",
+      "url": "gy110qyg53im3pzv",
+      "prev_uuid": "AKbnPevOdbHgVyWE",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "AKbnPevOdbHgVyWE",
+      "doc_id": 246185224,
+      "level": 3,
+      "id": 246185224,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "符号表恢复",
+      "uuid": "5j7z9HOAeUD3XPEu",
+      "url": "gpr9mg4iyw71dn8l",
+      "prev_uuid": "AKbnPevOdbHgVyWE",
+      "sibling_uuid": "Z5OAR5jus1uxUvy1",
+      "child_uuid": "",
+      "parent_uuid": "58797474:mOB8p6WR75oRd_1T",
+      "doc_id": 239876664,
+      "level": 2,
+      "id": 239876664,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "手脱逆向壳",
+      "uuid": "Z5OAR5jus1uxUvy1",
+      "url": "wxvzu12d0oyp5d2w",
+      "prev_uuid": "5j7z9HOAeUD3XPEu",
+      "sibling_uuid": "58797474:7uk5_iDyfWFvieDz",
+      "child_uuid": "",
+      "parent_uuid": "58797474:mOB8p6WR75oRd_1T",
+      "doc_id": 239755883,
+      "level": 2,
+      "id": 239755883,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "IDA技巧",
+      "uuid": "58797474:7uk5_iDyfWFvieDz",
+      "url": "gqmqmd122l3ry3gl",
+      "prev_uuid": "Z5OAR5jus1uxUvy1",
+      "sibling_uuid": "1jwpH1pRf_Uc8zUL",
+      "child_uuid": "",
+      "parent_uuid": "58797474:mOB8p6WR75oRd_1T",
+      "doc_id": 198689685,
+      "level": 2,
+      "id": 198689685,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Godot逆向",
+      "uuid": "1jwpH1pRf_Uc8zUL",
+      "url": "cb3whi86cvlvaqmk",
+      "prev_uuid": "58797474:7uk5_iDyfWFvieDz",
+      "sibling_uuid": "58797474:ZVpwCHZ8Om3XZaqc",
+      "child_uuid": "",
+      "parent_uuid": "58797474:mOB8p6WR75oRd_1T",
+      "doc_id": 235511292,
+      "level": 2,
+      "id": 235511292,
+      "open_window": 1,
+      "visible": 1,
+      "title_marks": []
+    },
+    {
       "type": "DOC",
       "title": "Ghidra 使用",
       "uuid": "58797474:ZVpwCHZ8Om3XZaqc",
       "url": "lxr9embiyxlc5p60",
-      "prev_uuid": "58797474:mOB8p6WR75oRd_1T",
+      "prev_uuid": "1jwpH1pRf_Uc8zUL",
       "sibling_uuid": "58797474:0g1k6JGMpeD7N5_U",
       "child_uuid": "",
       "parent_uuid": "58797474:mOB8p6WR75oRd_1T",
@@ -3605,42 +5672,12 @@
       "uuid": "58797474:0g1k6JGMpeD7N5_U",
       "url": "pp9igzggr4tukuig",
       "prev_uuid": "58797474:ZVpwCHZ8Om3XZaqc",
-      "sibling_uuid": "58797474:7uk5_iDyfWFvieDz",
+      "sibling_uuid": "",
       "child_uuid": "",
       "parent_uuid": "58797474:mOB8p6WR75oRd_1T",
       "doc_id": 204492371,
       "level": 2,
       "id": 204492371,
-      "open_window": 1,
-      "visible": 1
-    },
-    {
-      "type": "DOC",
-      "title": "IDA 使用",
-      "uuid": "58797474:7uk5_iDyfWFvieDz",
-      "url": "gqmqmd122l3ry3gl",
-      "prev_uuid": "58797474:0g1k6JGMpeD7N5_U",
-      "sibling_uuid": "58797474:MTSh4L3ZoRZmm4YU",
-      "child_uuid": "",
-      "parent_uuid": "58797474:mOB8p6WR75oRd_1T",
-      "doc_id": 198689685,
-      "level": 2,
-      "id": 198689685,
-      "open_window": 1,
-      "visible": 1
-    },
-    {
-      "type": "DOC",
-      "title": "IDA 小技巧",
-      "uuid": "58797474:MTSh4L3ZoRZmm4YU",
-      "url": "cka1aih5mqlsnwgd",
-      "prev_uuid": "58797474:7uk5_iDyfWFvieDz",
-      "sibling_uuid": "",
-      "child_uuid": "",
-      "parent_uuid": "58797474:mOB8p6WR75oRd_1T",
-      "doc_id": 205927093,
-      "level": 2,
-      "id": 205927093,
       "open_window": 1,
       "visible": 1
     },
@@ -3665,7 +5702,7 @@
       "uuid": "VsCF6JHE6xjVWXwa",
       "url": "ke6w1zqz1lwgiwg4",
       "prev_uuid": "58797474:7mpdDfY_vUjyNGRq",
-      "sibling_uuid": "iiyclieV6BAIox9h",
+      "sibling_uuid": "zLRDns15KSwMLCnQ",
       "child_uuid": "",
       "parent_uuid": "58797474:7mpdDfY_vUjyNGRq",
       "doc_id": 214933872,
@@ -3676,40 +5713,10 @@
     },
     {
       "type": "TITLE",
-      "title": "渗透测试",
-      "uuid": "iiyclieV6BAIox9h",
-      "url": "",
-      "prev_uuid": "VsCF6JHE6xjVWXwa",
-      "sibling_uuid": "zLRDns15KSwMLCnQ",
-      "child_uuid": "7ruOnbVRPUCx9Brq",
-      "parent_uuid": "58797474:7mpdDfY_vUjyNGRq",
-      "doc_id": "",
-      "level": 2,
-      "id": "",
-      "open_window": 1,
-      "visible": 1
-    },
-    {
-      "type": "DOC",
-      "title": "提权",
-      "uuid": "7ruOnbVRPUCx9Brq",
-      "url": "vslb9m3qmvfng9ms",
-      "prev_uuid": "iiyclieV6BAIox9h",
-      "sibling_uuid": "",
-      "child_uuid": "",
-      "parent_uuid": "iiyclieV6BAIox9h",
-      "doc_id": 214793932,
-      "level": 3,
-      "id": 214793932,
-      "open_window": 1,
-      "visible": 1
-    },
-    {
-      "type": "TITLE",
       "title": "数据分析",
       "uuid": "zLRDns15KSwMLCnQ",
       "url": "",
-      "prev_uuid": "iiyclieV6BAIox9h",
+      "prev_uuid": "VsCF6JHE6xjVWXwa",
       "sibling_uuid": "58797474:wHLDpoNFXxq4Itnd",
       "child_uuid": "49IY6Y2Fgw-8pODt",
       "parent_uuid": "58797474:7mpdDfY_vUjyNGRq",
@@ -3756,7 +5763,7 @@
       "url": "",
       "prev_uuid": "58797474:7mpdDfY_vUjyNGRq",
       "sibling_uuid": "58797474:XunJHmTu_B4na4tR",
-      "child_uuid": "1kvm208sEj8kHO7Q",
+      "child_uuid": "58797474:yaabhSC8_DI_dGsN",
       "parent_uuid": "58797474:4wNUGzQFItoDabFM",
       "doc_id": "",
       "level": 1,
@@ -3765,13 +5772,43 @@
       "visible": 1
     },
     {
-      "type": "TITLE",
-      "title": "工具相关",
-      "uuid": "1kvm208sEj8kHO7Q",
-      "url": "",
+      "type": "DOC",
+      "title": "待学清单",
+      "uuid": "58797474:yaabhSC8_DI_dGsN",
+      "url": "ebgorv0prvh5taev",
       "prev_uuid": "58797474:vx4wZgGpdWjqE7Yu",
-      "sibling_uuid": "UvIXabu7G_IqgrBV",
-      "child_uuid": "58797474:kye9BNfs2iCM1MLd",
+      "sibling_uuid": "0bhSVhgMuuDeTnql",
+      "child_uuid": "",
+      "parent_uuid": "58797474:vx4wZgGpdWjqE7Yu",
+      "doc_id": 203763041,
+      "level": 2,
+      "id": 203763041,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "一些函数",
+      "uuid": "0bhSVhgMuuDeTnql",
+      "url": "dh8ipsrceb52aazg",
+      "prev_uuid": "58797474:yaabhSC8_DI_dGsN",
+      "sibling_uuid": "je9oV-kq-dHptfWf",
+      "child_uuid": "",
+      "parent_uuid": "58797474:vx4wZgGpdWjqE7Yu",
+      "doc_id": 249499693,
+      "level": 2,
+      "id": 249499693,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "IOT",
+      "uuid": "je9oV-kq-dHptfWf",
+      "url": "",
+      "prev_uuid": "0bhSVhgMuuDeTnql",
+      "sibling_uuid": "5vbaamQ-U4BkAduk",
+      "child_uuid": "HAnMokAIeTGdelXN",
       "parent_uuid": "58797474:vx4wZgGpdWjqE7Yu",
       "doc_id": "",
       "level": 2,
@@ -3781,10 +5818,266 @@
     },
     {
       "type": "DOC",
+      "title": "树莓派",
+      "uuid": "HAnMokAIeTGdelXN",
+      "url": "yo7rek3kyvfnwld0",
+      "prev_uuid": "je9oV-kq-dHptfWf",
+      "sibling_uuid": "w2iUXrNe9S9kaP-e",
+      "child_uuid": "",
+      "parent_uuid": "je9oV-kq-dHptfWf",
+      "doc_id": 248110707,
+      "level": 3,
+      "id": 248110707,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "MQTT",
+      "uuid": "w2iUXrNe9S9kaP-e",
+      "url": "vyzbxxygc7y0xw8t",
+      "prev_uuid": "HAnMokAIeTGdelXN",
+      "sibling_uuid": "BO6iO6v9op4ZEnMj",
+      "child_uuid": "",
+      "parent_uuid": "je9oV-kq-dHptfWf",
+      "doc_id": 246188508,
+      "level": 3,
+      "id": 246188508,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "ESP32",
+      "uuid": "BO6iO6v9op4ZEnMj",
+      "url": "yuagqdghn2a53iq1",
+      "prev_uuid": "w2iUXrNe9S9kaP-e",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "je9oV-kq-dHptfWf",
+      "doc_id": 245129359,
+      "level": 3,
+      "id": 245129359,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "WEB PWN",
+      "uuid": "5vbaamQ-U4BkAduk",
+      "url": "bz7hiuwqnrfhg4wu",
+      "prev_uuid": "je9oV-kq-dHptfWf",
+      "sibling_uuid": "mUeJTkTNw2_DT2j-",
+      "child_uuid": "",
+      "parent_uuid": "58797474:vx4wZgGpdWjqE7Yu",
+      "doc_id": 242704849,
+      "level": 2,
+      "id": 242704849,
+      "open_window": 1,
+      "visible": 1,
+      "title_marks": []
+    },
+    {
+      "type": "TITLE",
+      "title": "Kernel",
+      "uuid": "mUeJTkTNw2_DT2j-",
+      "url": "",
+      "prev_uuid": "5vbaamQ-U4BkAduk",
+      "sibling_uuid": "1kvm208sEj8kHO7Q",
+      "child_uuid": "KHQbkGK-jQI5BVoR",
+      "parent_uuid": "58797474:vx4wZgGpdWjqE7Yu",
+      "doc_id": "",
+      "level": 2,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "基础知识",
+      "uuid": "KHQbkGK-jQI5BVoR",
+      "url": "",
+      "prev_uuid": "mUeJTkTNw2_DT2j-",
+      "sibling_uuid": "SEKFwCQ_7Xrbuv6K",
+      "child_uuid": "4GmYd-WnwCILd2pc",
+      "parent_uuid": "mUeJTkTNw2_DT2j-",
+      "doc_id": "",
+      "level": 3,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "系统组成原理",
+      "uuid": "4GmYd-WnwCILd2pc",
+      "url": "gcthpenw1dn4ee19",
+      "prev_uuid": "KHQbkGK-jQI5BVoR",
+      "sibling_uuid": "ORSvEzOT5H_Ayna9",
+      "child_uuid": "",
+      "parent_uuid": "KHQbkGK-jQI5BVoR",
+      "doc_id": 249053174,
+      "level": 4,
+      "id": 249053174,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "内核基础知识",
+      "uuid": "ORSvEzOT5H_Ayna9",
+      "url": "yc23wuh9g06g5hcc",
+      "prev_uuid": "4GmYd-WnwCILd2pc",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "KHQbkGK-jQI5BVoR",
+      "doc_id": 240095812,
+      "level": 4,
+      "id": 240095812,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "环境配置相关",
+      "uuid": "SEKFwCQ_7Xrbuv6K",
+      "url": "",
+      "prev_uuid": "KHQbkGK-jQI5BVoR",
+      "sibling_uuid": "dNI83UpXuUnPSOH3",
+      "child_uuid": "BqZq7iOHXkLRPpUn",
+      "parent_uuid": "mUeJTkTNw2_DT2j-",
+      "doc_id": "",
+      "level": 3,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "内核下载和编译",
+      "uuid": "BqZq7iOHXkLRPpUn",
+      "url": "cim9gxutai8ivr5a",
+      "prev_uuid": "SEKFwCQ_7Xrbuv6K",
+      "sibling_uuid": "5ux-ShrU6lNbJpDv",
+      "child_uuid": "",
+      "parent_uuid": "SEKFwCQ_7Xrbuv6K",
+      "doc_id": 248879953,
+      "level": 4,
+      "id": 248879953,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "运行与调试",
+      "uuid": "5ux-ShrU6lNbJpDv",
+      "url": "so6p75vyqo5gr39g",
+      "prev_uuid": "BqZq7iOHXkLRPpUn",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "SEKFwCQ_7Xrbuv6K",
+      "doc_id": 248916199,
+      "level": 4,
+      "id": 248916199,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "KROP",
+      "uuid": "dNI83UpXuUnPSOH3",
+      "url": "wugt6cfy46yfuwsq",
+      "prev_uuid": "SEKFwCQ_7Xrbuv6K",
+      "sibling_uuid": "TAAIelNAVMeP495Y",
+      "child_uuid": "",
+      "parent_uuid": "mUeJTkTNw2_DT2j-",
+      "doc_id": 249201395,
+      "level": 3,
+      "id": 249201395,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "绕过KPTI",
+      "uuid": "TAAIelNAVMeP495Y",
+      "url": "tiwg7nox2ptnsk5l",
+      "prev_uuid": "dNI83UpXuUnPSOH3",
+      "sibling_uuid": "upnKvt85tF_oBEiI",
+      "child_uuid": "",
+      "parent_uuid": "mUeJTkTNw2_DT2j-",
+      "doc_id": 249379529,
+      "level": 3,
+      "id": 249379529,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "（待办）条件竞争",
+      "uuid": "upnKvt85tF_oBEiI",
+      "url": "vuqdubvev4n3dtz8",
+      "prev_uuid": "TAAIelNAVMeP495Y",
+      "sibling_uuid": "-X7OWXh_GqTvo2SP",
+      "child_uuid": "",
+      "parent_uuid": "mUeJTkTNw2_DT2j-",
+      "doc_id": 249843676,
+      "level": 3,
+      "id": 249843676,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "题目相关",
+      "uuid": "-X7OWXh_GqTvo2SP",
+      "url": "mghgqk8ywlb9rlvy",
+      "prev_uuid": "upnKvt85tF_oBEiI",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "mUeJTkTNw2_DT2j-",
+      "doc_id": 240095203,
+      "level": 3,
+      "id": 240095203,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "工具相关",
+      "uuid": "1kvm208sEj8kHO7Q",
+      "url": "",
+      "prev_uuid": "mUeJTkTNw2_DT2j-",
+      "sibling_uuid": "UvIXabu7G_IqgrBV",
+      "child_uuid": "GZCbpRwtgU9Pjl83",
+      "parent_uuid": "58797474:vx4wZgGpdWjqE7Yu",
+      "doc_id": "",
+      "level": 2,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "出题相关",
+      "uuid": "GZCbpRwtgU9Pjl83",
+      "url": "zbulhqv497yklv93",
+      "prev_uuid": "1kvm208sEj8kHO7Q",
+      "sibling_uuid": "58797474:kye9BNfs2iCM1MLd",
+      "child_uuid": "",
+      "parent_uuid": "1kvm208sEj8kHO7Q",
+      "doc_id": 235370986,
+      "level": 3,
+      "id": 235370986,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
       "title": "Pwndbg使用",
       "uuid": "58797474:kye9BNfs2iCM1MLd",
       "url": "th5vpsx42zc7y53r",
-      "prev_uuid": "1kvm208sEj8kHO7Q",
+      "prev_uuid": "GZCbpRwtgU9Pjl83",
       "sibling_uuid": "58797474:D6-KA5EFNdQlgv_4",
       "child_uuid": "",
       "parent_uuid": "1kvm208sEj8kHO7Q",
@@ -3811,7 +6104,7 @@
     },
     {
       "type": "DOC",
-      "title": "CTF Show刷题",
+      "title": "（整理）CTF Show刷题",
       "uuid": "UvIXabu7G_IqgrBV",
       "url": "yl3mynuvy80d9zqh",
       "prev_uuid": "1kvm208sEj8kHO7Q",
@@ -3826,7 +6119,7 @@
     },
     {
       "type": "DOC",
-      "title": "magic_gadget",
+      "title": "（待办）magic_gadget",
       "uuid": "RNqT6dY1XGPrp0fI",
       "url": "mf1kekplml7zqxl6",
       "prev_uuid": "UvIXabu7G_IqgrBV",
@@ -3861,7 +6154,7 @@
       "url": "",
       "prev_uuid": "VK5ZJaMT7QFluEwB",
       "sibling_uuid": "58797474:ihBuNKNQbPLgZg_t",
-      "child_uuid": "60FY3FcdoxIBRkV6",
+      "child_uuid": "UPWQhtn8mUzSPZUn",
       "parent_uuid": "58797474:vx4wZgGpdWjqE7Yu",
       "doc_id": "",
       "level": 2,
@@ -3871,10 +6164,40 @@
     },
     {
       "type": "DOC",
+      "title": "stdin任意写",
+      "uuid": "UPWQhtn8mUzSPZUn",
+      "url": "vqrkexpdiwbezbhc",
+      "prev_uuid": "HAd4KU23mrVHsaO1",
+      "sibling_uuid": "iBufr_FKhUkNQZZ1",
+      "child_uuid": "",
+      "parent_uuid": "HAd4KU23mrVHsaO1",
+      "doc_id": 249626048,
+      "level": 3,
+      "id": 249626048,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "stdout任意读写",
+      "uuid": "iBufr_FKhUkNQZZ1",
+      "url": "es6057lknftp3ywc",
+      "prev_uuid": "UPWQhtn8mUzSPZUn",
+      "sibling_uuid": "60FY3FcdoxIBRkV6",
+      "child_uuid": "",
+      "parent_uuid": "HAd4KU23mrVHsaO1",
+      "doc_id": 246678819,
+      "level": 3,
+      "id": 246678819,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
       "title": "常用资料",
       "uuid": "60FY3FcdoxIBRkV6",
       "url": "hfgfg4qtgdgvotgv",
-      "prev_uuid": "HAd4KU23mrVHsaO1",
+      "prev_uuid": "iBufr_FKhUkNQZZ1",
       "sibling_uuid": "U-SpUZvz2-wA6Z2b",
       "child_uuid": "",
       "parent_uuid": "HAd4KU23mrVHsaO1",
@@ -3886,7 +6209,7 @@
     },
     {
       "type": "DOC",
-      "title": "FILE结构",
+      "title": "三个IO结构体",
       "uuid": "U-SpUZvz2-wA6Z2b",
       "url": "xdmg6geygw73cayw",
       "prev_uuid": "60FY3FcdoxIBRkV6",
@@ -4026,7 +6349,7 @@
       "url": "vo68u1yuwekpggpz",
       "prev_uuid": "58797474:ihBuNKNQbPLgZg_t",
       "sibling_uuid": "58797474:uK_T1Xepl-D9zfbo",
-      "child_uuid": "jFSynw8FEkQnCh9I",
+      "child_uuid": "yK__xcpG_Wn19yU6",
       "parent_uuid": "58797474:vx4wZgGpdWjqE7Yu",
       "doc_id": 198557072,
       "level": 2,
@@ -4036,16 +6359,62 @@
     },
     {
       "type": "DOC",
-      "title": "侧信道爆破",
-      "uuid": "jFSynw8FEkQnCh9I",
-      "url": "beixwl3l1uygrqao",
+      "title": "全面ORW",
+      "uuid": "yK__xcpG_Wn19yU6",
+      "url": "cpiqcpp4h6o0rsbd",
       "prev_uuid": "58797474:JeqUzep5LXRFq_RF",
+      "sibling_uuid": "0aDXWokGxha7qKuE",
+      "child_uuid": "",
+      "parent_uuid": "58797474:JeqUzep5LXRFq_RF",
+      "doc_id": 249568194,
+      "level": 3,
+      "id": 249568194,
+      "open_window": 1,
+      "visible": 1,
+      "title_marks": []
+    },
+    {
+      "type": "DOC",
+      "title": "（待办）io_uring",
+      "uuid": "0aDXWokGxha7qKuE",
+      "url": "geu3l7mwc0wudo47",
+      "prev_uuid": "yK__xcpG_Wn19yU6",
+      "sibling_uuid": "s5FhQA5eVy0DWvia",
+      "child_uuid": "",
+      "parent_uuid": "58797474:JeqUzep5LXRFq_RF",
+      "doc_id": 249582336,
+      "level": 3,
+      "id": 249582336,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "VM PWN",
+      "uuid": "s5FhQA5eVy0DWvia",
+      "url": "qhmhkc076m1rlb2w",
+      "prev_uuid": "0aDXWokGxha7qKuE",
+      "sibling_uuid": "y3apKXkEdGlWHk9z",
+      "child_uuid": "",
+      "parent_uuid": "58797474:JeqUzep5LXRFq_RF",
+      "doc_id": 244300232,
+      "level": 3,
+      "id": 244300232,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "技巧",
+      "uuid": "y3apKXkEdGlWHk9z",
+      "url": "si8l4dnoiif2f404",
+      "prev_uuid": "s5FhQA5eVy0DWvia",
       "sibling_uuid": "58797474:lfHbj6awEBKOPe1f",
       "child_uuid": "",
       "parent_uuid": "58797474:JeqUzep5LXRFq_RF",
-      "doc_id": 221107464,
+      "doc_id": 235038951,
       "level": 3,
-      "id": 221107464,
+      "id": 235038951,
       "open_window": 1,
       "visible": 1
     },
@@ -4054,8 +6423,8 @@
       "title": "可见字符shellcode",
       "uuid": "58797474:lfHbj6awEBKOPe1f",
       "url": "bl4c97ix40270ew1",
-      "prev_uuid": "jFSynw8FEkQnCh9I",
-      "sibling_uuid": "58797474:tIGhYaiDtcUw5Lww",
+      "prev_uuid": "y3apKXkEdGlWHk9z",
+      "sibling_uuid": "58797474:McWnlj3UyYf2DO9l",
       "child_uuid": "",
       "parent_uuid": "58797474:JeqUzep5LXRFq_RF",
       "doc_id": 209491472,
@@ -4066,25 +6435,10 @@
     },
     {
       "type": "DOC",
-      "title": "orw",
-      "uuid": "58797474:tIGhYaiDtcUw5Lww",
-      "url": "gmp1gq3f83onittb",
-      "prev_uuid": "58797474:lfHbj6awEBKOPe1f",
-      "sibling_uuid": "58797474:McWnlj3UyYf2DO9l",
-      "child_uuid": "",
-      "parent_uuid": "58797474:JeqUzep5LXRFq_RF",
-      "doc_id": 207412561,
-      "level": 3,
-      "id": 207412561,
-      "open_window": 1,
-      "visible": 1
-    },
-    {
-      "type": "DOC",
       "title": "mprotect利用",
       "uuid": "58797474:McWnlj3UyYf2DO9l",
       "url": "hhicyt7zfiecr2qx",
-      "prev_uuid": "58797474:tIGhYaiDtcUw5Lww",
+      "prev_uuid": "58797474:lfHbj6awEBKOPe1f",
       "sibling_uuid": "",
       "child_uuid": "",
       "parent_uuid": "58797474:JeqUzep5LXRFq_RF",
@@ -4101,7 +6455,7 @@
       "url": "nqem1iitkav40yq9",
       "prev_uuid": "58797474:JeqUzep5LXRFq_RF",
       "sibling_uuid": "58797474:2Sw31ZxaR8UX4GoV",
-      "child_uuid": "58797474:u28Cd6SbE46KTLS9",
+      "child_uuid": "NaInt3pTkVOBhjBO",
       "parent_uuid": "58797474:vx4wZgGpdWjqE7Yu",
       "doc_id": 200373444,
       "level": 2,
@@ -4111,10 +6465,25 @@
     },
     {
       "type": "DOC",
+      "title": "沙盒绕过",
+      "uuid": "NaInt3pTkVOBhjBO",
+      "url": "ug7r9eks8qh40czg",
+      "prev_uuid": "58797474:uK_T1Xepl-D9zfbo",
+      "sibling_uuid": "58797474:u28Cd6SbE46KTLS9",
+      "child_uuid": "",
+      "parent_uuid": "58797474:uK_T1Xepl-D9zfbo",
+      "doc_id": 230071791,
+      "level": 3,
+      "id": 230071791,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
       "title": "Seccomp",
       "uuid": "58797474:u28Cd6SbE46KTLS9",
       "url": "uzbigri0uw460uri",
-      "prev_uuid": "58797474:uK_T1Xepl-D9zfbo",
+      "prev_uuid": "NaInt3pTkVOBhjBO",
       "sibling_uuid": "7dMp1nQpxyvWWWrQ",
       "child_uuid": "",
       "parent_uuid": "58797474:uK_T1Xepl-D9zfbo",
@@ -4130,27 +6499,12 @@
       "uuid": "7dMp1nQpxyvWWWrQ",
       "url": "zkmerh1l5ttgyz2e",
       "prev_uuid": "58797474:u28Cd6SbE46KTLS9",
-      "sibling_uuid": "NaInt3pTkVOBhjBO",
+      "sibling_uuid": "",
       "child_uuid": "",
       "parent_uuid": "58797474:uK_T1Xepl-D9zfbo",
       "doc_id": 229614669,
       "level": 3,
       "id": 229614669,
-      "open_window": 1,
-      "visible": 1
-    },
-    {
-      "type": "DOC",
-      "title": "沙盒绕过",
-      "uuid": "NaInt3pTkVOBhjBO",
-      "url": "ug7r9eks8qh40czg",
-      "prev_uuid": "7dMp1nQpxyvWWWrQ",
-      "sibling_uuid": "",
-      "child_uuid": "",
-      "parent_uuid": "58797474:uK_T1Xepl-D9zfbo",
-      "doc_id": 230071791,
-      "level": 3,
-      "id": 230071791,
       "open_window": 1,
       "visible": 1
     },
@@ -4161,7 +6515,7 @@
       "url": "",
       "prev_uuid": "58797474:uK_T1Xepl-D9zfbo",
       "sibling_uuid": "58797474:2_0knVdHiHiu90LC",
-      "child_uuid": "58797474:ulvvGoycOSpDCtVs",
+      "child_uuid": "_rnwQP5vwSHXMEws",
       "parent_uuid": "58797474:vx4wZgGpdWjqE7Yu",
       "doc_id": "",
       "level": 2,
@@ -4170,13 +6524,73 @@
       "visible": 1
     },
     {
+      "type": "DOC",
+      "title": "（待办）setcontext",
+      "uuid": "_rnwQP5vwSHXMEws",
+      "url": "cdz68nfugiqgxs5k",
+      "prev_uuid": "58797474:2Sw31ZxaR8UX4GoV",
+      "sibling_uuid": "1PWFSbL1oAtzPj6m",
+      "child_uuid": "",
+      "parent_uuid": "58797474:2Sw31ZxaR8UX4GoV",
+      "doc_id": 249628523,
+      "level": 3,
+      "id": 249628523,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "高版本技巧",
+      "uuid": "1PWFSbL1oAtzPj6m",
+      "url": "rm9d5vgvhmrko7c9",
+      "prev_uuid": "_rnwQP5vwSHXMEws",
+      "sibling_uuid": "eVUU8RooCLi1p7Xh",
+      "child_uuid": "",
+      "parent_uuid": "58797474:2Sw31ZxaR8UX4GoV",
+      "doc_id": 240166836,
+      "level": 3,
+      "id": 240166836,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "alloca函数",
+      "uuid": "eVUU8RooCLi1p7Xh",
+      "url": "df3ocvgupry7vcw4",
+      "prev_uuid": "1PWFSbL1oAtzPj6m",
+      "sibling_uuid": "GORFEpHjbecnmheQ",
+      "child_uuid": "",
+      "parent_uuid": "58797474:2Sw31ZxaR8UX4GoV",
+      "doc_id": 230389727,
+      "level": 3,
+      "id": 230389727,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "花式栈溢出",
+      "uuid": "GORFEpHjbecnmheQ",
+      "url": "lu2gnap5xwgk50yu",
+      "prev_uuid": "eVUU8RooCLi1p7Xh",
+      "sibling_uuid": "58797474:ulvvGoycOSpDCtVs",
+      "child_uuid": "",
+      "parent_uuid": "58797474:2Sw31ZxaR8UX4GoV",
+      "doc_id": 235388522,
+      "level": 3,
+      "id": 235388522,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
       "type": "TITLE",
       "title": "ret2系列",
       "uuid": "58797474:ulvvGoycOSpDCtVs",
       "url": "",
-      "prev_uuid": "58797474:2Sw31ZxaR8UX4GoV",
+      "prev_uuid": "GORFEpHjbecnmheQ",
       "sibling_uuid": "7GUtNidnA4KT-Kl2",
-      "child_uuid": "SMht_fyrJSW-WD4g",
+      "child_uuid": "nPV9euNfW2xtoy-F",
       "parent_uuid": "58797474:2Sw31ZxaR8UX4GoV",
       "doc_id": "",
       "level": 3,
@@ -4186,10 +6600,40 @@
     },
     {
       "type": "DOC",
+      "title": "ret2all",
+      "uuid": "nPV9euNfW2xtoy-F",
+      "url": "iz9gpuybcfiebhyo",
+      "prev_uuid": "58797474:ulvvGoycOSpDCtVs",
+      "sibling_uuid": "KD6-Y-YJejAjijsH",
+      "child_uuid": "",
+      "parent_uuid": "58797474:ulvvGoycOSpDCtVs",
+      "doc_id": 244294599,
+      "level": 4,
+      "id": 244294599,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "（待办）ret2VDSO",
+      "uuid": "KD6-Y-YJejAjijsH",
+      "url": "icly1qa4o0dm5bfq",
+      "prev_uuid": "nPV9euNfW2xtoy-F",
+      "sibling_uuid": "SMht_fyrJSW-WD4g",
+      "child_uuid": "",
+      "parent_uuid": "58797474:ulvvGoycOSpDCtVs",
+      "doc_id": 249557017,
+      "level": 4,
+      "id": 249557017,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
       "title": "ret2gets",
       "uuid": "SMht_fyrJSW-WD4g",
       "url": "io7k9x4gnuw9huia",
-      "prev_uuid": "58797474:ulvvGoycOSpDCtVs",
+      "prev_uuid": "KD6-Y-YJejAjijsH",
       "sibling_uuid": "58797474:1I23VeFMJZ96zovo",
       "child_uuid": "",
       "parent_uuid": "58797474:ulvvGoycOSpDCtVs",
@@ -4220,12 +6664,27 @@
       "uuid": "58797474:w4VO_PzjDFBPYAZ7",
       "url": "zk32vru24pxazio6",
       "prev_uuid": "58797474:1I23VeFMJZ96zovo",
-      "sibling_uuid": "",
+      "sibling_uuid": "YZOt76hi-a6aMtQU",
       "child_uuid": "",
       "parent_uuid": "58797474:ulvvGoycOSpDCtVs",
       "doc_id": 205620722,
       "level": 4,
       "id": 205620722,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "（待办）ret2dlresolve",
+      "uuid": "YZOt76hi-a6aMtQU",
+      "url": "vx1xggyhk3d6tfy7",
+      "prev_uuid": "58797474:w4VO_PzjDFBPYAZ7",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "58797474:ulvvGoycOSpDCtVs",
+      "doc_id": 235376456,
+      "level": 4,
+      "id": 235376456,
       "open_window": 1,
       "visible": 1
     },
@@ -4296,7 +6755,7 @@
       "url": "feog8cfv4secxuvf",
       "prev_uuid": "58797474:2Sw31ZxaR8UX4GoV",
       "sibling_uuid": "58797474:gTEwQL_JdWHjCat0",
-      "child_uuid": "T2c-T2Ixzd2cL4pF",
+      "child_uuid": "hKvCBGegn1Xnp9jj",
       "parent_uuid": "58797474:vx4wZgGpdWjqE7Yu",
       "doc_id": 206580198,
       "level": 2,
@@ -4306,10 +6765,85 @@
     },
     {
       "type": "DOC",
+      "title": "（待办）mp_结构体",
+      "uuid": "hKvCBGegn1Xnp9jj",
+      "url": "tyyz3mgp2sivzzwu",
+      "prev_uuid": "58797474:2_0knVdHiHiu90LC",
+      "sibling_uuid": "jqT-8ku7Syex4Gj6",
+      "child_uuid": "",
+      "parent_uuid": "58797474:2_0knVdHiHiu90LC",
+      "doc_id": 248399675,
+      "level": 3,
+      "id": 248399675,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "堆利用题目点",
+      "uuid": "jqT-8ku7Syex4Gj6",
+      "url": "fw276u4k9e48v6y7",
+      "prev_uuid": "hKvCBGegn1Xnp9jj",
+      "sibling_uuid": "nl7T0H7Ycomaq4ZJ",
+      "child_uuid": "",
+      "parent_uuid": "58797474:2_0knVdHiHiu90LC",
+      "doc_id": 244294272,
+      "level": 3,
+      "id": 244294272,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "How2heap",
+      "uuid": "nl7T0H7Ycomaq4ZJ",
+      "url": "lfd9gg5tdaql0x54",
+      "prev_uuid": "jqT-8ku7Syex4Gj6",
+      "sibling_uuid": "T2c-T2Ixzd2cL4pF",
+      "child_uuid": "NCSd-71d66aBFSTp",
+      "parent_uuid": "58797474:2_0knVdHiHiu90LC",
+      "doc_id": 235517668,
+      "level": 3,
+      "id": 235517668,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "（待办）GLIBC 2.35",
+      "uuid": "NCSd-71d66aBFSTp",
+      "url": "xt1qe5ch7vsr5sxk",
+      "prev_uuid": "nl7T0H7Ycomaq4ZJ",
+      "sibling_uuid": "eaXRY-ZSr-tj2lLN",
+      "child_uuid": "",
+      "parent_uuid": "nl7T0H7Ycomaq4ZJ",
+      "doc_id": 238734562,
+      "level": 4,
+      "id": 238734562,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "GLIBC 2.39",
+      "uuid": "eaXRY-ZSr-tj2lLN",
+      "url": "sqhke8oeud14n8qk",
+      "prev_uuid": "NCSd-71d66aBFSTp",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "nl7T0H7Ycomaq4ZJ",
+      "doc_id": 235517747,
+      "level": 4,
+      "id": 235517747,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
       "title": "版本问题",
       "uuid": "T2c-T2Ixzd2cL4pF",
       "url": "afo43pisyftcg7g8",
-      "prev_uuid": "58797474:2_0knVdHiHiu90LC",
+      "prev_uuid": "nl7T0H7Ycomaq4ZJ",
       "sibling_uuid": "58797474:W5cHrx3tpcrMMuS0",
       "child_uuid": "",
       "parent_uuid": "58797474:2_0knVdHiHiu90LC",
@@ -4416,7 +6950,7 @@
       "url": "",
       "prev_uuid": "58797474:-1iiuGKOvG9VCRMV",
       "sibling_uuid": "58797474:byTR4YkTsufAYBhm",
-      "child_uuid": "PDs0v78tQVzhtZST",
+      "child_uuid": "rg5e9oadvOlFPMDd",
       "parent_uuid": "58797474:2_0knVdHiHiu90LC",
       "doc_id": "",
       "level": 3,
@@ -4426,10 +6960,40 @@
     },
     {
       "type": "DOC",
+      "title": "House of Banana",
+      "uuid": "rg5e9oadvOlFPMDd",
+      "url": "rzbn6dzg5v6dt2uy",
+      "prev_uuid": "58797474:a-vF5pReFcOohnC1",
+      "sibling_uuid": "WFBCiJZYSp2-ZRei",
+      "child_uuid": "",
+      "parent_uuid": "58797474:a-vF5pReFcOohnC1",
+      "doc_id": 246325120,
+      "level": 4,
+      "id": 246325120,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "House of Cat",
+      "uuid": "WFBCiJZYSp2-ZRei",
+      "url": "mzi5vu0omn09p561",
+      "prev_uuid": "rg5e9oadvOlFPMDd",
+      "sibling_uuid": "PDs0v78tQVzhtZST",
+      "child_uuid": "",
+      "parent_uuid": "58797474:a-vF5pReFcOohnC1",
+      "doc_id": 238911987,
+      "level": 4,
+      "id": 238911987,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
       "title": "House of Pig",
       "uuid": "PDs0v78tQVzhtZST",
       "url": "dndgy2s01kpons8v",
-      "prev_uuid": "58797474:a-vF5pReFcOohnC1",
+      "prev_uuid": "WFBCiJZYSp2-ZRei",
       "sibling_uuid": "HNTIB65sEXkmEbUq",
       "child_uuid": "",
       "parent_uuid": "58797474:a-vF5pReFcOohnC1",
@@ -4625,7 +7189,7 @@
       "uuid": "58797474:1Z8F1pw2KfygCh_O",
       "url": "aida7h3gkipxbl2t",
       "prev_uuid": "58797474:byTR4YkTsufAYBhm",
-      "sibling_uuid": "",
+      "sibling_uuid": "o3bt7FISh7Ydz1U7",
       "child_uuid": "",
       "parent_uuid": "58797474:2_0knVdHiHiu90LC",
       "doc_id": 206667691,
@@ -4636,12 +7200,27 @@
     },
     {
       "type": "DOC",
+      "title": "栈对齐",
+      "uuid": "o3bt7FISh7Ydz1U7",
+      "url": "xg4zva2cx0gyldba",
+      "prev_uuid": "58797474:1Z8F1pw2KfygCh_O",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "58797474:2_0knVdHiHiu90LC",
+      "doc_id": 218890786,
+      "level": 3,
+      "id": 218890786,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
       "title": "格式化字符串",
       "uuid": "58797474:gTEwQL_JdWHjCat0",
       "url": "vza7qrx4c8gsrz4e",
       "prev_uuid": "58797474:2_0knVdHiHiu90LC",
-      "sibling_uuid": "F9hshPZHuRG5fzcE",
-      "child_uuid": "",
+      "sibling_uuid": "mG1XjjiUm5pR9CE1",
+      "child_uuid": "FTA2td6COu5lXwDe",
       "parent_uuid": "58797474:vx4wZgGpdWjqE7Yu",
       "doc_id": 197940974,
       "level": 2,
@@ -4650,13 +7229,73 @@
       "visible": 1
     },
     {
+      "type": "DOC",
+      "title": "盲打fmt",
+      "uuid": "FTA2td6COu5lXwDe",
+      "url": "tetmhzgqm1s7beky",
+      "prev_uuid": "58797474:gTEwQL_JdWHjCat0",
+      "sibling_uuid": "vol4u9VG4nz_jUtu",
+      "child_uuid": "",
+      "parent_uuid": "58797474:gTEwQL_JdWHjCat0",
+      "doc_id": 245047034,
+      "level": 3,
+      "id": 245047034,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "fmt家族",
+      "uuid": "vol4u9VG4nz_jUtu",
+      "url": "gvscvknh19vbvt30",
+      "prev_uuid": "FTA2td6COu5lXwDe",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "58797474:gTEwQL_JdWHjCat0",
+      "doc_id": 243041316,
+      "level": 3,
+      "id": 243041316,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "exit_hook劫持",
+      "uuid": "mG1XjjiUm5pR9CE1",
+      "url": "of8osfcazot4e671",
+      "prev_uuid": "58797474:gTEwQL_JdWHjCat0",
+      "sibling_uuid": "CioM2Iul9zshM5WL",
+      "child_uuid": "",
+      "parent_uuid": "58797474:vx4wZgGpdWjqE7Yu",
+      "doc_id": 238389614,
+      "level": 2,
+      "id": 238389614,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Glibc GOT表劫持",
+      "uuid": "CioM2Iul9zshM5WL",
+      "url": "hvh44faouo0gst0r",
+      "prev_uuid": "mG1XjjiUm5pR9CE1",
+      "sibling_uuid": "F9hshPZHuRG5fzcE",
+      "child_uuid": "",
+      "parent_uuid": "58797474:vx4wZgGpdWjqE7Yu",
+      "doc_id": 247935691,
+      "level": 2,
+      "id": 247935691,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
       "type": "TITLE",
       "title": "QEMU",
       "uuid": "F9hshPZHuRG5fzcE",
       "url": "",
-      "prev_uuid": "58797474:gTEwQL_JdWHjCat0",
+      "prev_uuid": "CioM2Iul9zshM5WL",
       "sibling_uuid": "58797474:cPtpQa5N60IJJPwL",
-      "child_uuid": "PT9HDoXfX1fd3Pl_",
+      "child_uuid": "58797474:kRVIeEHk5LQcv0h9",
       "parent_uuid": "58797474:vx4wZgGpdWjqE7Yu",
       "doc_id": "",
       "level": 2,
@@ -4666,41 +7305,11 @@
     },
     {
       "type": "DOC",
-      "title": "img文件提取文件",
-      "uuid": "PT9HDoXfX1fd3Pl_",
-      "url": "eemo4g7cdxldfpst",
-      "prev_uuid": "F9hshPZHuRG5fzcE",
-      "sibling_uuid": "hTscMENxWNVeD3vH",
-      "child_uuid": "",
-      "parent_uuid": "F9hshPZHuRG5fzcE",
-      "doc_id": 222958341,
-      "level": 3,
-      "id": 222958341,
-      "open_window": 1,
-      "visible": 1
-    },
-    {
-      "type": "DOC",
-      "title": "Qemu基础知识",
-      "uuid": "hTscMENxWNVeD3vH",
-      "url": "gv8ghvit3oazxbuy",
-      "prev_uuid": "PT9HDoXfX1fd3Pl_",
-      "sibling_uuid": "58797474:kRVIeEHk5LQcv0h9",
-      "child_uuid": "",
-      "parent_uuid": "F9hshPZHuRG5fzcE",
-      "doc_id": 218350755,
-      "level": 3,
-      "id": 218350755,
-      "open_window": 1,
-      "visible": 1
-    },
-    {
-      "type": "DOC",
       "title": "Qemu使用",
       "uuid": "58797474:kRVIeEHk5LQcv0h9",
       "url": "kg89fy08qs7sen47",
-      "prev_uuid": "hTscMENxWNVeD3vH",
-      "sibling_uuid": "",
+      "prev_uuid": "F9hshPZHuRG5fzcE",
+      "sibling_uuid": "hTscMENxWNVeD3vH",
       "child_uuid": "",
       "parent_uuid": "F9hshPZHuRG5fzcE",
       "doc_id": 205147252,
@@ -4711,12 +7320,57 @@
     },
     {
       "type": "DOC",
+      "title": "Qemu基础知识",
+      "uuid": "hTscMENxWNVeD3vH",
+      "url": "gv8ghvit3oazxbuy",
+      "prev_uuid": "58797474:kRVIeEHk5LQcv0h9",
+      "sibling_uuid": "_UtZ3HeXwlhasxrv",
+      "child_uuid": "",
+      "parent_uuid": "F9hshPZHuRG5fzcE",
+      "doc_id": 218350755,
+      "level": 3,
+      "id": 218350755,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "题目相关",
+      "uuid": "_UtZ3HeXwlhasxrv",
+      "url": "aq625dxx4qr0nfu6",
+      "prev_uuid": "hTscMENxWNVeD3vH",
+      "sibling_uuid": "PT9HDoXfX1fd3Pl_",
+      "child_uuid": "",
+      "parent_uuid": "F9hshPZHuRG5fzcE",
+      "doc_id": 242921924,
+      "level": 3,
+      "id": 242921924,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "img文件提取文件",
+      "uuid": "PT9HDoXfX1fd3Pl_",
+      "url": "eemo4g7cdxldfpst",
+      "prev_uuid": "_UtZ3HeXwlhasxrv",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "F9hshPZHuRG5fzcE",
+      "doc_id": 222958341,
+      "level": 3,
+      "id": 222958341,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
       "title": "C++",
       "uuid": "58797474:cPtpQa5N60IJJPwL",
       "url": "sakymm3ofuse0mko",
       "prev_uuid": "F9hshPZHuRG5fzcE",
-      "sibling_uuid": "58797474:yaabhSC8_DI_dGsN",
-      "child_uuid": "",
+      "sibling_uuid": "4FOlgthM8yKnfuvD",
+      "child_uuid": "Q3JDNt4cN0wCALzK",
       "parent_uuid": "58797474:vx4wZgGpdWjqE7Yu",
       "doc_id": 206808830,
       "level": 2,
@@ -4726,27 +7380,42 @@
     },
     {
       "type": "DOC",
-      "title": "PWN待学清单",
-      "uuid": "58797474:yaabhSC8_DI_dGsN",
-      "url": "ebgorv0prvh5taev",
+      "title": "C++异常处理",
+      "uuid": "Q3JDNt4cN0wCALzK",
+      "url": "ch62fne8ys0ofgay",
+      "prev_uuid": "58797474:cPtpQa5N60IJJPwL",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "58797474:cPtpQa5N60IJJPwL",
+      "doc_id": 237035032,
+      "level": 3,
+      "id": 237035032,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "RUST PWN",
+      "uuid": "4FOlgthM8yKnfuvD",
+      "url": "my1k2qwenrygbo4e",
       "prev_uuid": "58797474:cPtpQa5N60IJJPwL",
       "sibling_uuid": "58797474:b92ok6LIvHGwczbE",
       "child_uuid": "",
       "parent_uuid": "58797474:vx4wZgGpdWjqE7Yu",
-      "doc_id": 203763041,
+      "doc_id": 247369815,
       "level": 2,
-      "id": 203763041,
+      "id": 247369815,
       "open_window": 1,
       "visible": 1
     },
     {
       "type": "TITLE",
-      "title": "架构",
+      "title": "异构pwn",
       "uuid": "58797474:b92ok6LIvHGwczbE",
       "url": "",
-      "prev_uuid": "58797474:yaabhSC8_DI_dGsN",
+      "prev_uuid": "4FOlgthM8yKnfuvD",
       "sibling_uuid": "60oQfxLZ3C-OMYWY",
-      "child_uuid": "58797474:ZvOVSRtZh3Tq6VPf",
+      "child_uuid": "wQXVVjHQ4T-QtNrd",
       "parent_uuid": "58797474:vx4wZgGpdWjqE7Yu",
       "doc_id": "",
       "level": 2,
@@ -4756,11 +7425,26 @@
     },
     {
       "type": "DOC",
+      "title": "ROP注意点",
+      "uuid": "wQXVVjHQ4T-QtNrd",
+      "url": "kid99rwziq74oxh4",
+      "prev_uuid": "58797474:b92ok6LIvHGwczbE",
+      "sibling_uuid": "58797474:ZvOVSRtZh3Tq6VPf",
+      "child_uuid": "",
+      "parent_uuid": "58797474:b92ok6LIvHGwczbE",
+      "doc_id": 244013884,
+      "level": 3,
+      "id": 244013884,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
       "title": "x86 & x64",
       "uuid": "58797474:ZvOVSRtZh3Tq6VPf",
       "url": "meioasdm66m92079",
-      "prev_uuid": "58797474:b92ok6LIvHGwczbE",
-      "sibling_uuid": "58797474:ax-1v58bPVZ1wwm1",
+      "prev_uuid": "wQXVVjHQ4T-QtNrd",
+      "sibling_uuid": "kJt3n_LlhZkriGV4",
       "child_uuid": "",
       "parent_uuid": "58797474:b92ok6LIvHGwczbE",
       "doc_id": 200204559,
@@ -4771,16 +7455,46 @@
     },
     {
       "type": "DOC",
-      "title": "Hexagon",
-      "uuid": "58797474:ax-1v58bPVZ1wwm1",
-      "url": "regalxl8fqqogsea",
+      "title": "（待办）PowerPC",
+      "uuid": "kJt3n_LlhZkriGV4",
+      "url": "gx9mhgtas02n38b3",
       "prev_uuid": "58797474:ZvOVSRtZh3Tq6VPf",
+      "sibling_uuid": "hce9uDxsyGS8AY84",
+      "child_uuid": "",
+      "parent_uuid": "58797474:b92ok6LIvHGwczbE",
+      "doc_id": 249439616,
+      "level": 3,
+      "id": 249439616,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "（待办）RISC-V",
+      "uuid": "hce9uDxsyGS8AY84",
+      "url": "gg9ar58a9dp00k63",
+      "prev_uuid": "kJt3n_LlhZkriGV4",
+      "sibling_uuid": "Wki6vMfQw51Oecua",
+      "child_uuid": "",
+      "parent_uuid": "58797474:b92ok6LIvHGwczbE",
+      "doc_id": 249557194,
+      "level": 3,
+      "id": 249557194,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "MIPS",
+      "uuid": "Wki6vMfQw51Oecua",
+      "url": "tanbdo791ipg01zb",
+      "prev_uuid": "hce9uDxsyGS8AY84",
       "sibling_uuid": "58797474:E-DFzrBb4NzAEHs_",
       "child_uuid": "",
       "parent_uuid": "58797474:b92ok6LIvHGwczbE",
-      "doc_id": 199896256,
+      "doc_id": 244256417,
       "level": 3,
-      "id": 199896256,
+      "id": 244256417,
       "open_window": 1,
       "visible": 1
     },
@@ -4789,13 +7503,28 @@
       "title": "ARM",
       "uuid": "58797474:E-DFzrBb4NzAEHs_",
       "url": "aan8oqkw64578ogc",
-      "prev_uuid": "58797474:ax-1v58bPVZ1wwm1",
-      "sibling_uuid": "",
+      "prev_uuid": "Wki6vMfQw51Oecua",
+      "sibling_uuid": "58797474:ax-1v58bPVZ1wwm1",
       "child_uuid": "",
       "parent_uuid": "58797474:b92ok6LIvHGwczbE",
       "doc_id": 197937524,
       "level": 3,
       "id": 197937524,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "Hexagon",
+      "uuid": "58797474:ax-1v58bPVZ1wwm1",
+      "url": "regalxl8fqqogsea",
+      "prev_uuid": "58797474:E-DFzrBb4NzAEHs_",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "58797474:b92ok6LIvHGwczbE",
+      "doc_id": 199896256,
+      "level": 3,
+      "id": 199896256,
       "open_window": 1,
       "visible": 1
     },
@@ -4820,7 +7549,7 @@
       "uuid": "ZKkAuvH0J98B1ITl",
       "url": "",
       "prev_uuid": "60oQfxLZ3C-OMYWY",
-      "sibling_uuid": "",
+      "sibling_uuid": "wUZ2sf2CcewS09GI",
       "child_uuid": "rslby0NDfGeIqsFT",
       "parent_uuid": "58797474:vx4wZgGpdWjqE7Yu",
       "doc_id": "",
@@ -4850,7 +7579,7 @@
       "uuid": "8XQSsyKczniqnuVN",
       "url": "grrdb8n4ofosmrpb",
       "prev_uuid": "rslby0NDfGeIqsFT",
-      "sibling_uuid": "o3bt7FISh7Ydz1U7",
+      "sibling_uuid": "a0k4K4_-B-jzNhvN",
       "child_uuid": "",
       "parent_uuid": "ZKkAuvH0J98B1ITl",
       "doc_id": 218891389,
@@ -4861,26 +7590,11 @@
     },
     {
       "type": "DOC",
-      "title": "栈对齐",
-      "uuid": "o3bt7FISh7Ydz1U7",
-      "url": "xg4zva2cx0gyldba",
-      "prev_uuid": "8XQSsyKczniqnuVN",
-      "sibling_uuid": "a0k4K4_-B-jzNhvN",
-      "child_uuid": "",
-      "parent_uuid": "ZKkAuvH0J98B1ITl",
-      "doc_id": 218890786,
-      "level": 3,
-      "id": 218890786,
-      "open_window": 1,
-      "visible": 1
-    },
-    {
-      "type": "DOC",
       "title": "常见的绕过",
       "uuid": "a0k4K4_-B-jzNhvN",
       "url": "gwxhb1eus3gsitsp",
-      "prev_uuid": "o3bt7FISh7Ydz1U7",
-      "sibling_uuid": "58797474:xgYughWxbS0c4-J5",
+      "prev_uuid": "8XQSsyKczniqnuVN",
+      "sibling_uuid": "",
       "child_uuid": "",
       "parent_uuid": "ZKkAuvH0J98B1ITl",
       "doc_id": 218890608,
@@ -4891,16 +7605,16 @@
     },
     {
       "type": "DOC",
-      "title": "杂碎点",
-      "uuid": "58797474:xgYughWxbS0c4-J5",
-      "url": "ip9tcsmgau7q9iry",
-      "prev_uuid": "a0k4K4_-B-jzNhvN",
+      "title": "AWD-PWN",
+      "uuid": "wUZ2sf2CcewS09GI",
+      "url": "deydihguzi6x0pug",
+      "prev_uuid": "ZKkAuvH0J98B1ITl",
       "sibling_uuid": "",
       "child_uuid": "",
-      "parent_uuid": "ZKkAuvH0J98B1ITl",
-      "doc_id": 204840231,
-      "level": 3,
-      "id": 204840231,
+      "parent_uuid": "58797474:vx4wZgGpdWjqE7Yu",
+      "doc_id": 235502893,
+      "level": 2,
+      "id": 235502893,
       "open_window": 1,
       "visible": 1
     },
@@ -4911,7 +7625,7 @@
       "url": "",
       "prev_uuid": "58797474:vx4wZgGpdWjqE7Yu",
       "sibling_uuid": "",
-      "child_uuid": "sSupPG62sDYDrVsy",
+      "child_uuid": "fAWEuZ73spVSlhqY",
       "parent_uuid": "58797474:4wNUGzQFItoDabFM",
       "doc_id": "",
       "level": 1,
@@ -4921,10 +7635,115 @@
     },
     {
       "type": "DOC",
+      "title": "羊城杯PWN WP",
+      "uuid": "fAWEuZ73spVSlhqY",
+      "url": "bfsu4o0atghvzlir",
+      "prev_uuid": "58797474:XunJHmTu_B4na4tR",
+      "sibling_uuid": "mnUZb7LyJJXjPQit",
+      "child_uuid": "",
+      "parent_uuid": "58797474:XunJHmTu_B4na4tR",
+      "doc_id": 240448689,
+      "level": 2,
+      "id": 240448689,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "湾区杯WP",
+      "uuid": "mnUZb7LyJJXjPQit",
+      "url": "gs0pn88ale9hwko4",
+      "prev_uuid": "fAWEuZ73spVSlhqY",
+      "sibling_uuid": "D-uH0gDUtAser2PH",
+      "child_uuid": "",
+      "parent_uuid": "58797474:XunJHmTu_B4na4tR",
+      "doc_id": 235892269,
+      "level": 2,
+      "id": 235892269,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "暑假训练营结营赛WP",
+      "uuid": "D-uH0gDUtAser2PH",
+      "url": "ibatyfek2t5q4tkf",
+      "prev_uuid": "mnUZb7LyJJXjPQit",
+      "sibling_uuid": "0r2K86n2OhvB4qjp",
+      "child_uuid": "",
+      "parent_uuid": "58797474:XunJHmTu_B4na4tR",
+      "doc_id": 235642375,
+      "level": 2,
+      "id": 235642375,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "磐石行动AWD",
+      "uuid": "0r2K86n2OhvB4qjp",
+      "url": "aqtqyxeqtmqrwlps",
+      "prev_uuid": "D-uH0gDUtAser2PH",
+      "sibling_uuid": "3qA7-_btAeLNrFIK",
+      "child_uuid": "",
+      "parent_uuid": "58797474:XunJHmTu_B4na4tR",
+      "doc_id": 235509559,
+      "level": 2,
+      "id": 235509559,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "LilCTF 2025",
+      "uuid": "3qA7-_btAeLNrFIK",
+      "url": "zpd8d4s57o3wnyy0",
+      "prev_uuid": "0r2K86n2OhvB4qjp",
+      "sibling_uuid": "ub3L_Z-TKxpshcwm",
+      "child_uuid": "",
+      "parent_uuid": "58797474:XunJHmTu_B4na4tR",
+      "doc_id": 235497733,
+      "level": 2,
+      "id": 235497733,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "MoeCTF 2025",
+      "uuid": "ub3L_Z-TKxpshcwm",
+      "url": "trg5buabel53sc6c",
+      "prev_uuid": "3qA7-_btAeLNrFIK",
+      "sibling_uuid": "1IfwxdGpJ8Uufaie",
+      "child_uuid": "",
+      "parent_uuid": "58797474:XunJHmTu_B4na4tR",
+      "doc_id": 235382206,
+      "level": 2,
+      "id": 235382206,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "NepCTF PWN",
+      "uuid": "1IfwxdGpJ8Uufaie",
+      "url": "tg1vihabznes6ipm",
+      "prev_uuid": "ub3L_Z-TKxpshcwm",
+      "sibling_uuid": "sSupPG62sDYDrVsy",
+      "child_uuid": "",
+      "parent_uuid": "58797474:XunJHmTu_B4na4tR",
+      "doc_id": 230209078,
+      "level": 2,
+      "id": 230209078,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
       "title": "御网杯 WP",
       "uuid": "sSupPG62sDYDrVsy",
       "url": "avgicxwlkznah578",
-      "prev_uuid": "58797474:XunJHmTu_B4na4tR",
+      "prev_uuid": "1IfwxdGpJ8Uufaie",
       "sibling_uuid": "2VPmFOxIdsqh_lPl",
       "child_uuid": "",
       "parent_uuid": "58797474:XunJHmTu_B4na4tR",

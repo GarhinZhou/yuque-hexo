@@ -1,7 +1,7 @@
 ---
 title: 可见字符shellcode
 date: '2025-03-09 13:40:00'
-updated: '2025-04-07 21:39:55'
+updated: '2025-09-20 17:23:50'
 ---
 用可见字符即 ascii 码范围内的字节来组织 shellcode
 

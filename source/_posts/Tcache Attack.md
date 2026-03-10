@@ -1,7 +1,7 @@
 ---
 title: Tcache Attack
 date: '2025-02-19 13:31:57'
-updated: '2025-06-06 09:29:25'
+updated: '2025-12-11 16:41:48'
 ---
 2.27比2.23多了tcache
 
@@ -12,6 +12,73 @@ updated: '2025-06-06 09:29:25'
 2.27的tcache对double free没有检查，仅限于非最新版本
 
 tcache最大的堆块0x4f0   想要不进tcache，至少要申请0x500 大小的 chunk
+
+
+
+glibc2.29 之前的 tcachechunk 结构体：
+
+```c
+/* We overlay this structure on the user-data portion of a chunk when
+   the chunk is stored in the per-thread cache.  */
+typedef struct tcache_entry
+{
+  struct tcache_entry *next;
+} tcache_entry;
+```
+
+这里面的 next 也就是 fd，指向其他 tcachechunk 的 userdata 处
+
+而不是像别的 chunk 一样指向 prev_size 域
+
+glibc2.29 及之后：
+
+```c
+/* We overlay this structure on the user-data portion of a chunk when
+   the chunk is stored in the per-thread cache.  */
+typedef struct tcache_entry
+{
+  struct tcache_entry *next;
+  /* This field exists to detect double frees.  */
+  struct tcache_perthread_struct *key;
+} tcache_entry;
+```
+
+## Tcache_perthread_struct 利用
+```c
+#if USE_TCACHE
+/* We want 64 entries.  This is an arbitrary limit, which tunables can reduce.  */
+# define TCACHE_MAX_BINS		64
+...
+typedef struct tcache_perthread_struct
+{
+  uint16_t counts[TCACHE_MAX_BINS];
+  tcache_entry *entries[TCACHE_MAX_BINS];
+} tcache_perthread_struct;
+```
+
+`counts`数组存储的是各个size的tcache bin中的chunk数量
+
+`entries`指针数组则存放着各个size的tcache bin中的第一个chunk的`mem`地址(fd地址而非堆头地址)
+
+
+
+这个结构体就是 tcache 出来时每次堆上第一个申请出来的堆块上存着的结构体，用来管理 tcache 的
+
+tcache_perthread_struct可以free掉，在libc2.30以下的版本tcache_perthread_struct大小为0x250;在libc2.30及以上大小变成了0x290（因为counts的类型从char变成了uint16_t）
+
+可以在tcache_perthread_struct上进行堆布局实现一些目的:
+
+1. 修改counts
+
+有一个题只让申请两个堆块，但是我们想要填满tcache来泄露libcbase,这时候可以先泄露heapbase得到tcache_perthread_struct的位置，修改tcache_perthread_struct中的counts域达到填满tcache的效果
+
+2. 直接在tcache_perthread_struct里面进行堆布局
+
+tcache_perthread_struct可以被free
+
+### 利用点
++ 可以修改`counts`数组的数量，让它以为 tcachebin 满了，从而将chunk放到我们想放置的其他bins中（比如放入unsortedbin来泄露libc）
++ 也可以修改`entries`数组的数据来malloc任意地址
 
 ## Tcache stashing unlink attack
 主要利用的是 calloc 函数会绕过 tcachebin 从smallbin 里取出 chunk 的特性

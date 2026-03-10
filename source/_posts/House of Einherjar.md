@@ -1,7 +1,7 @@
 ---
 title: House of Einherjar
 date: '2025-03-18 14:57:41'
-updated: '2025-04-07 21:39:55'
+updated: '2025-09-20 17:23:50'
 ---
 ## 用途
 可以强制使得 malloc 返回一个几乎任意地址的 chunk 

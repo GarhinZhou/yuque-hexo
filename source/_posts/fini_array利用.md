@@ -1,7 +1,7 @@
 ---
 title: fini_array利用
 date: '2025-05-11 18:23:11'
-updated: '2025-05-12 16:21:08'
+updated: '2025-09-20 17:23:50'
 ---
 ## _fini_array
 _fini_array（或 __fini_array）是一个特殊的ELF符号数组，用于存储在程序或共享对象的终止（清理）阶段将要执行的终止函数的地址

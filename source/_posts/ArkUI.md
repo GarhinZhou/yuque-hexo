@@ -1,7 +1,7 @@
 ---
 title: ArkUI
 date: '2025-07-14 21:27:44'
-updated: '2025-07-23 16:18:06'
+updated: '2025-09-20 17:23:50'
 ---
 ![](/images/a23ede7aa56ae7ceb205a389a9ff7abe.png)
 

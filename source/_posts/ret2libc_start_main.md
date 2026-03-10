@@ -1,7 +1,7 @@
 ---
 title: ret2libc_start_main
 date: '2025-02-12 21:23:51'
-updated: '2025-04-07 21:39:55'
+updated: '2025-09-20 17:23:50'
 ---
 **以下来自 deepseek：**
 

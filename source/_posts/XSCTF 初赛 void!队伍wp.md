@@ -1,7 +1,7 @@
 ---
 title: XSCTF 初赛 void*队伍wp
 date: '2024-12-09 21:13:14'
-updated: '2025-04-07 21:33:52'
+updated: '2025-09-20 17:23:50'
 ---
 # void *writeup;
 ## Misc

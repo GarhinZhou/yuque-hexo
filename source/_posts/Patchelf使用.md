@@ -1,7 +1,7 @@
 ---
 title: Patchelf使用
 date: '2024-12-14 17:56:21'
-updated: '2025-05-09 17:22:16'
+updated: '2025-09-20 17:23:50'
 ---
 `patchelf`是一个用来修改 ELF（Executable and Linkable Format，执行和可链接格式）文件的工具。ELF 是 Linux 和类 Unix 系统中常见的可执行文件格式，`patchelf` 允许你对 ELF 文件进行一些常见的修改操作，而不需要重新编译源代码。、
 

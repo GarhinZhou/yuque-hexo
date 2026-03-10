@@ -1,7 +1,7 @@
 ---
 title: JDK 配置
 date: '2025-02-05 09:14:46'
-updated: '2025-03-09 00:17:05'
+updated: '2025-09-20 17:23:50'
 ---
 [JDK官网](https://adoptium.net/zh-CN/temurin/releases/)
 

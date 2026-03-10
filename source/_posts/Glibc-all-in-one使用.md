@@ -1,7 +1,7 @@
 ---
 title: Glibc-all-in-one使用
 date: '2025-02-16 18:50:36'
-updated: '2025-06-25 16:52:17'
+updated: '2025-09-20 17:23:50'
 ---
 ## 安装
 克隆项目仓库
@@ -60,4 +60,6 @@ glibc-all-in-one 不知道抽什么风下不了 deb 包，
 ![](/images/07f150b0807e5905b4f6deec1698bc91.png)
 
 直接`sudo apt install zstd`安装完再解压就行了
+
+
 

@@ -1,7 +1,7 @@
 ---
 title: House of Botcake
 date: '2025-02-21 11:00:29'
-updated: '2025-04-07 21:39:55'
+updated: '2025-09-20 17:23:50'
 ---
 随着<font style="color:rgb(26, 26, 26);">在 2.29/2.27 高版本之后，glibc 为了防止攻击者简单的 Tcache Double Free，引入了对 Tcache Key 的检查。</font>
 

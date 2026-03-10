@@ -1,9 +1,24 @@
 ---
 title: Pwndbg使用
 date: '2024-12-09 23:32:34'
-updated: '2025-07-27 23:33:21'
+updated: '2025-12-02 19:53:18'
 ---
 [来自博客](https://www.cnblogs.com/murkuo/p/15965270.html)
+
+## 调试符号下载
+ubuntu22 之后的系统版本的 gdb 自动开启了一个 debuginfod 的功能，但是安装了 pwndbg 之后`~/.gdbinit`就会被 source 到 pwndbg 的 python 脚本，而没有开启这个功能
+
+所以在`~/.gdbinit`最前面加上`set debuginfod enabled on`就行了
+
+
+
+没想到 WSL 这边 debuginfod 的服务器链接没有配置，
+
+可以在 gdb 里面通过`show debuginfod`来查看 debuginfod 的配置：
+
+![](/images/d02b56e082d6b9499b55bb53393b07d8.png)
+
+然后在`~/.bashrc`里面加上`export DEBUGINFOD_URLS="[https://debuginfod.ubuntu.com"](https://debuginfod.ubuntu.com")`就行了
 
 ## 基本指令
 help //帮助
@@ -27,6 +42,13 @@ backtrace //查看调用栈
 q //quit 退出，常用
 
 vmmap //内存分配情况
+
+
+
+## 常用指令
+x/20i 查看汇编指令
+
+tele 查看内存，按 8 字节分组
 
 
 
@@ -248,6 +270,8 @@ thread 线程序号
 
 ## 其他pwndbg插件独有指令
 cyclic 50 //生成50个用来溢出的字符，如：aaaabaaacaaadaaaeaaafaaagaaahaaaiaaajaaakaaalaaama
+
+其中用`cyclic -l 字符串`来看偏移
 
 $rebase //开启PIE的情况的地址偏移
 

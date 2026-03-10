@@ -1,7 +1,7 @@
 ---
 title: WSL
 date: '2024-12-10 23:57:38'
-updated: '2025-04-17 21:57:28'
+updated: '2025-12-27 09:16:47'
 ---
 ## Hyper-V 安装
 Windows11 家庭版没有 Hyper-V，可以用指令安装
@@ -79,5 +79,35 @@ sudo vim /etc/wsl.conf
 ```python
 [user]
 default = 用户
+```
+
+## gdb.attach 失败 tmux 解决办法
+新建.tmux.conf文件
+
+```python
+vim .tmux.conf
+```
+
+在文件中输入
+
+```python
+bind-key c new-window -c "#{pane_current_path}"
+bind-key % split-window -h -c "#{pane_current_path}"
+bind-key '"' split-window -c "#{pane_current_path}"
+set -g mouse on
+```
+
+关闭所有tmux窗口并输入
+
+```python
+tmux source-file ~/.tmux.conf
+```
+
+重新启动tmux则完成更改
+
+然后在脚本添加
+
+```python
+context.terminal = ['tmux', 'splitw', '-h']
 ```
 

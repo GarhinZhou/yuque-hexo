@@ -1,7 +1,7 @@
 ---
 title: Largebin Attack
 date: '2025-05-13 00:01:29'
-updated: '2025-05-26 21:49:25'
+updated: '2025-12-14 21:00:56'
 ---
 Largebin 从 bk 方向取出 chunk
 
@@ -161,7 +161,7 @@ add(3, 0x30)
 
 接着利用 UAF 来从 chunk2 当中获得 libc 地址（fd、bk）和堆地址（fd_nextsize、bk_nextsize），
 
-因为 libc 地和堆地址的高位都是 \x00 ，输出会被截断，所以得分两次泄露：
+因为 libc 地址和堆地址的高位都是 \x00 ，输出会被截断，所以得分两次泄露：
 
 先直接泄露出 fd 的 libc 地址，然后再把 fd 和 bk 覆盖上非 \x00 数据再把fd_nextsize 的堆地址泄露
 
@@ -185,9 +185,9 @@ print(hex(heap))
 fwd = bck; //将fwd赋值为bin头
 bck = bck->bk; //bck赋值为当前bin中最小那个chunk
 
-victim->fd_nextsize = fwd->fd; //将victim的fd_nextsize赋值为bin中的尾堆块
-victim->bk_nextsize = fwd->fd->bk_nextsize; //将victim的bk_nextsize赋值为当前bin中最小的chunk
-fwd->fd->bk_nextsize = victim->bk_nextsize->fd_nextsize = victim; //当前bin中的尾堆块的bk_nextsize指向victim，当前最小chunk的fd_nextsize也指向victim
+victim->fd_nextsize = fwd->fd; //将victim的fd_nextsize赋值为 bin中最大堆块
+victim->bk_nextsize = fwd->fd->bk_nextsize; //将victim的bk_nextsize赋值为 当前bin中最大chunk的bk_nextsize（最小chunk）
+fwd->fd->bk_nextsize = victim->bk_nextsize->fd_nextsize = victim; //当前bin中最大chunk的bk_nextsize（最小chunk）的fd_nextsize指向victim，当前bin最大chunk的bk_nextsize也指向victim
 ```
 
 而这个`当前bin中尾堆块`也就是`fwd->fd`在 edit 完 chunk2 之后，就变成了 `_IO_list_all-0x20` 的位置了

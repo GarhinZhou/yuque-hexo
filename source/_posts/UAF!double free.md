@@ -1,7 +1,7 @@
 ---
 title: UAF/double free
 date: '2025-02-19 22:14:53'
-updated: '2025-04-07 21:39:55'
+updated: '2025-09-20 17:23:50'
 ---
 ## UAF
 using after free 效果：任意地址写

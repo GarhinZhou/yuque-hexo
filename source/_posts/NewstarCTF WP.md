@@ -1,7 +1,7 @@
 ---
 title: NewstarCTF WP
 date: '2024-12-09 21:07:06'
-updated: '2025-04-07 21:33:51'
+updated: '2025-09-20 17:23:50'
 ---
 ## 1、ez_answer
 好好地填好问卷，拿了个88分直接拿到flag

@@ -1,7 +1,7 @@
 ---
 title: Ghidra 使用
 date: '2025-02-05 11:42:10'
-updated: '2025-04-07 21:33:51'
+updated: '2025-09-20 17:23:50'
 ---
 查看 string 字符串："Windows"-"Defined Strings"
 

@@ -1,7 +1,7 @@
 ---
 title: picoCTF PWN WP
 date: '2025-03-11 17:56:24'
-updated: '2025-04-07 21:33:52'
+updated: '2025-09-20 17:23:50'
 ---
 ## PIE
 直接 nc 上去利用二进制文件里面的偏移算出来 print_flag 函数的地址输入就可以获得 flag

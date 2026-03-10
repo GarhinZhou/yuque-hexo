@@ -1,7 +1,7 @@
 ---
 title: XYCTF PWN WP
 date: '2025-04-04 14:52:16'
-updated: '2025-04-07 21:33:52'
+updated: '2025-09-20 17:23:50'
 ---
 ## ret2libc_revenge
 ![](/images/23377d4fdbb87b16a187ec0bba633e4a.png)

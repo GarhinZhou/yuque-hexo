@@ -1,7 +1,7 @@
 ---
 title: House of Roman
 date: '2025-04-20 19:56:02'
-updated: '2025-04-27 11:04:43'
+updated: '2025-09-20 17:23:50'
 ---
 相当于 fastchunk 伪造和 unsortedbin 机制利用结合，用来绕过 PIE
 
